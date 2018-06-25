@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/ev_station_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.52,7.23 L19.53,7.22 L15.81,3.5 L14.75,4.56 L16.86,6.67 C15.81,7.07 15.1,8.14 15.28,9.38 C15.44,10.48 16.38,11.37 17.48,11.49 C17.95,11.54 18.36,11.46 18.75,11.29 L18.75,19.5 L16.75,19.5 L16.75,12 L13.75,12 L13.75,3 L3.75,3 L3.75,21 L13.75,21 L13.75,13.5 L15.25,13.5 L15.25,21 L20.25,21 L20.25,9 C20.25,8.31 19.97,7.68 19.52,7.23 Z M17.75,10 C17.2,10 16.75,9.55 16.75,9 C16.75,8.45 17.2,8 17.75,8 C18.3,8 18.75,8.45 18.75,9 C18.75,9.55 18.3,10 17.75,10 Z M7.75,18 L7.75,13.5 L5.75,13.5 L9.75,6 L9.75,11 L11.75,11 L7.75,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/ev_station_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

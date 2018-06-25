@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/phonelink_setup_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.985,1 L6.985,6 L8.985,6 L8.985,4 L18.985,4 L18.985,20 L8.985,20 L8.985,18 L6.985,18 L6.985,23 L20.985,23 L20.985,1 L6.985,1 Z M9.485,15.5 C9.775,15.38 10.035,15.21 10.285,15.02 L10.265,15.05 L11.675,15.6 L12.945,13.4 L11.765,12.45 L11.745,12.48 C11.765,12.32 11.795,12.16 11.795,12 C11.795,11.84 11.765,11.68 11.745,11.52 L11.765,11.55 L12.945,10.6 L11.685,8.4 L10.275,8.95 L10.295,8.98 C10.035,8.79 9.775,8.62 9.485,8.5 L9.255,7 L6.715,7 L6.485,8.5 C6.195,8.62 5.935,8.79 5.685,8.98 L5.705,8.95 L4.285,8.4 L3.015,10.6 L4.195,11.55 L4.215,11.52 C4.205,11.68 4.175,11.84 4.175,12 C4.175,12.16 4.205,12.32 4.225,12.48 L4.205,12.45 L3.025,13.4 L4.295,15.6 L5.705,15.05 L5.685,15.02 C5.935,15.21 6.195,15.38 6.485,15.5 L6.715,17 L9.255,17 L9.485,15.5 Z M5.985,12 C5.985,10.9 6.885,10 7.985,10 C9.085,10 9.985,10.9 9.985,12 C9.985,13.1 9.085,14 7.985,14 C6.885,14 5.985,13.1 5.985,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/phonelink_setup_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

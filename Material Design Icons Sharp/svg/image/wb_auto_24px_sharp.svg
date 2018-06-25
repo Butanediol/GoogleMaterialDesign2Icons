@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/wb_auto_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.95,12.65 L9.25,12.65 L8.1,9 L6.95,12.65 Z M22.1,7 L20.9,13.29 L19.4,7 L17.8,7 L16.31,13.29 L15.1,7 L14.34,7 C12.87,5.17 10.63,4 8.1,4 C3.68,4 0.1,7.58 0.1,12 C0.1,16.42 3.68,20 8.1,20 C11.23,20 13.94,18.19 15.25,15.57 L15.35,16 L17.1,16 L18.6,9.9 L20.1,16 L21.85,16 L23.9,7 L22.1,7 Z M10.4,16 L9.7,14 L6.5,14 L5.8,16 L3.9,16 L7.1,7 L9.1,7 L12.3,16 L10.4,16 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/wb_auto_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

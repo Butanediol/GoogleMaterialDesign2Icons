@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/switch_camera_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,5 L16.83,5 L15.59,3.65 C15.22,3.24 14.68,3 14.12,3 L9.88,3 C9.32,3 8.78,3.24 8.4,3.65 L7.17,5 L4,5 C2.9,5 2,5.9 2,7 L2,19 C2,20.1 2.9,21 4,21 L20,21 C21.1,21 22,20.1 22,19 L22,7 C22,5.9 21.1,5 20,5 Z M15,16.5 L15,14 L9,14 L9,16.5 L5.85,13.35 C5.65,13.15 5.65,12.84 5.85,12.64 L9,9.5 L9,12 L15,12 L15,9.5 L18.15,12.65 C18.35,12.85 18.35,13.16 18.15,13.36 L15,16.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/switch_camera_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

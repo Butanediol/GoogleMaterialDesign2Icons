@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/healing_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.03 3.72 3.66 7.34 7.28 3.71 3.66 0.09"></polygon>
+        <polygon id="path-3" points="4.29 0.71 0.66 4.34 4.29 7.96 7.91 4.33"></polygon>
+        <path d="M16.73,11.02 L20.71,7.04 C21.1,6.65 21.1,6.02 20.71,5.63 L16.37,1.29 C15.98,0.9 15.35,0.9 14.96,1.29 L10.98,5.27 L7,1.29 C6.8,1.1 6.55,1 6.29,1 C6.04,1 5.78,1.1 5.59,1.29 L1.25,5.63 C0.86,6.02 0.86,6.65 1.25,7.04 L5.23,11.02 L1.25,15 C0.86,15.39 0.86,16.02 1.25,16.41 L5.59,20.75 C5.98,21.14 6.61,21.14 7,20.75 L10.98,16.77 L14.96,20.75 C15.16,20.95 15.41,21.04 15.67,21.04 C15.93,21.04 16.18,20.94 16.38,20.75 L20.72,16.41 C21.11,16.02 21.11,15.39 20.72,15 L16.73,11.02 Z M11,8 C11.55,8 12,8.45 12,9 C12,9.55 11.55,10 11,10 C10.45,10 10,9.55 10,9 C10,8.45 10.45,8 11,8 Z M6.29,9.96 L2.66,6.34 L6.29,2.71 L9.91,6.33 L6.29,9.96 Z M9,12 C8.45,12 8,11.55 8,11 C8,10.45 8.45,10 9,10 C9.55,10 10,10.45 10,11 C10,11.55 9.55,12 9,12 Z M11,14 C10.45,14 10,13.55 10,13 C10,12.45 10.45,12 11,12 C11.55,12 12,12.45 12,13 C12,13.55 11.55,14 11,14 Z M13,10 C13.55,10 14,10.45 14,11 C14,11.55 13.55,12 13,12 C12.45,12 12,11.55 12,11 C12,10.45 12.45,10 13,10 Z M15.66,19.34 L12.03,15.72 L15.66,12.09 L19.28,15.71 L15.66,19.34 Z" id="path-5"></path>
+    </defs>
+    <g id="icon/image/healing_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(13.000000, 13.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Light-Color" transform="translate(3.000000, 3.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-4)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-6)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/flash_auto_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,2 L3,14 L6,14 L6,23 L13,11 L9,11 L13,2 L3,2 Z M19,2 L17,2 L13.8,11 L15.7,11 L16.4,9 L19.6,9 L20.3,11 L22.2,11 L19,2 Z M16.85,7.65 L18,4 L19.15,7.65 L16.85,7.65 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/flash_auto_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

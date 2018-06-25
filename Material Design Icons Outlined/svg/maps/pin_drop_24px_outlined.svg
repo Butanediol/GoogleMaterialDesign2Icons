@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/pin_drop_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,20 L19,20 L19,22 L5,22 L5,20 Z M18,8 C18,4.69 15.31,2 12,2 C8.69,2 6,4.69 6,8 C6,12.5 12,19 12,19 C12,19 18,12.5 18,8 Z M8,8 C8,5.79 9.79,4 12,4 C14.21,4 16,5.79 16,8 C16,10.13 13.92,13.46 12,15.91 C10.08,13.47 8,10.13 8,8 Z M12,6 C10.9,6 10,6.9 10,8 C10,9.1 10.9,10 12,10 C13.11,10 14,9.1 14,8 C14,6.9 13.1,6 12,6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/pin_drop_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

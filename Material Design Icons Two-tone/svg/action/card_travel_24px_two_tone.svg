@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/card_travel_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="2"></rect>
+        <polygon id="path-3" points="13 2 11 2 11 0 5 0 5 2 3 2 3 0 0 0 0 6 16 6 16 0 13 0"></polygon>
+        <path d="M18,4 L15,4 L15,2 C15,0.89 14.11,0 13,0 L7,0 C5.89,0 5,0.89 5,2 L5,4 L2,4 C0.89,4 0,4.89 0,6 L0,17 C0,18.11 0.89,19 2,19 L18,19 C19.11,19 20,18.11 20,17 L20,6 C20,4.89 19.11,4 18,4 Z M7,2 L13,2 L13,4 L7,4 L7,2 Z M18,17 L2,17 L2,15 L18,15 L18,17 Z M18,12 L2,12 L2,6 L5,6 L5,8 L7,8 L7,6 L13,6 L13,8 L15,8 L15,6 L18,6 L18,12 Z" id="path-5"></path>
+    </defs>
+    <g id="icon/action/card_travel_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(4.000000, 17.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Light-Color" transform="translate(4.000000, 8.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-4)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-6)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/toll_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,4 C10.58,4 7,7.58 7,12 C7,16.42 10.58,20 15,20 C19.42,20 23,16.42 23,12 C23,7.58 19.42,4 15,4 Z M15,18 C11.69,18 9,15.31 9,12 C9,8.69 11.69,6 15,6 C18.31,6 21,8.69 21,12 C21,15.31 18.31,18 15,18 Z M3,12 C3,9.39 4.67,7.17 7,6.35 L7,4.26 C3.55,5.15 1,8.27 1,12 C1,15.73 3.55,18.85 7,19.74 L7,17.65 C4.67,16.83 3,14.61 3,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/toll_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/games_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,7.5 L15,2 L9,2 L9,7.5 L12,10.5 L15,7.5 Z M7.5,9 L2,9 L2,15 L7.5,15 L10.5,12 L7.5,9 Z M9,16.5 L9,22 L15,22 L15,16.5 L12,13.5 L9,16.5 Z M16.5,9 L13.5,12 L16.5,15 L22,15 L22,9 L16.5,9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/games_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/redo_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.4288284,10.6 C16.5788284,8.99 14.1788284,8 11.5288284,8 C7.36882837,8 3.78882837,10.42 2.08882837,13.93 C1.76882837,14.6 2.12882837,15.4 2.83882837,15.64 C3.42882837,15.84 4.06882837,15.56 4.33882837,15 C5.63882837,12.34 8.36882837,10.5 11.5288284,10.5 C13.4788284,10.5 15.2588284,11.22 16.6488284,12.38 L14.7388284,14.29 C14.1088284,14.92 14.5488284,16 15.4388284,16 L21.0288284,16 C21.5788284,16 22.0288284,15.55 22.0288284,15 L22.0288284,9.41 C22.0288284,8.52 20.9488284,8.07 20.3188284,8.7 L18.4288284,10.6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/redo_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

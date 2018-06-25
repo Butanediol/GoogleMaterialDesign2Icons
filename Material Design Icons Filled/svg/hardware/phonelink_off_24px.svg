@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/phonelink_off_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,6 L22,4 L7.39,4 L9.39,6 L22,6 Z M24,19 L24,9 C24,8.45 23.55,8 23,8 L17,8 C16.45,8 16,8.45 16,9 L16,12.61 L18,14.61 L18,10 L22,10 L22,17 L20.39,17 L23.32,19.93 C23.71,19.8 24,19.44 24,19 Z M2.06,1.51 L0.65,2.92 L2.47,4.74 C2.18,5.08 2,5.52 2,6 L2,17 L0,17 L0,20 L17.73,20 L20.08,22.35 L21.49,20.94 L2.06,1.51 Z M4,17 L4,6.27 L14.73,17 L4,17 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/phonelink_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/gesture_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.59,3.89 C3.29,3.18 3.99,2.54 4.3,2.67 C4.8,2.87 4.3,3.7 4,4.19 C3.75,4.61 1.14,8.08 1.14,10.5 C1.14,11.78 1.62,12.84 2.48,13.48 C3.23,14.04 4.22,14.21 5.12,13.94 C6.19,13.63 7.07,12.54 8.18,11.17 C9.39,9.68 11.01,7.73 12.26,7.73 C13.89,7.73 13.91,8.74 14.02,9.52 C10.24,10.16 8.64,13.19 8.64,14.89 C8.64,16.59 10.08,17.98 11.85,17.98 C13.48,17.98 16.14,16.65 16.54,11.88 L19,11.88 L19,9.38 L16.53,9.38 C16.38,7.73 15.44,5.18 12.5,5.18 C10.25,5.18 8.32,7.09 7.56,8.02 C6.98,8.75 5.5,10.5 5.27,10.74 C5.02,11.04 4.59,11.58 4.16,11.58 C3.71,11.58 3.44,10.75 3.8,9.66 C4.15,8.57 5.2,6.8 5.65,6.14 C6.43,5 6.95,4.22 6.95,2.86 C6.95,0.69 5.31,0 4.44,0 C3.12,0 1.97,1 1.72,1.25 C1.36,1.61 1.06,1.91 0.84,2.18 L2.59,3.89 Z M11.88,15.55 C11.57,15.55 11.14,15.29 11.14,14.83 C11.14,14.23 11.87,12.63 14.01,12.07 C13.71,14.76 12.58,15.55 11.88,15.55 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/gesture_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(2.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

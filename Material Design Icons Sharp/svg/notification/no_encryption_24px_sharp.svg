@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/no_encryption_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.805,5.99745651 C8.805,4.28745651 10.195,2.89745651 11.905,2.89745651 C13.615,2.89745651 15.005,4.28745651 15.005,5.99745651 L15.005,7.99745651 L10.345,7.99745651 L19.905,17.5574565 L19.905,7.99745651 L16.905,7.99745651 L16.905,6.21745651 C16.905,3.60745651 14.995,1.27745651 12.395,1.02745651 C9.865,0.777456511 7.675,2.43745651 7.075,4.72745651 L8.805,6.45745651 L8.805,5.99745651 Z M4.315,4.80745651 L2.905,6.21745651 L4.685,7.99745651 L3.905,7.99745651 L3.905,21.9974565 L18.685,21.9974565 L19.685,22.9974565 L21.095,21.5874565 L4.315,4.80745651 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/no_encryption_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

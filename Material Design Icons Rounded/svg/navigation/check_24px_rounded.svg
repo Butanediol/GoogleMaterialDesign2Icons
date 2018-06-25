@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/check_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.795,15.8749928 L5.325,12.4049928 C5.13816847,12.2177401 4.88451764,12.1125072 4.62,12.1125072 C4.35548236,12.1125072 4.10183153,12.2177401 3.915,12.4049928 C3.525,12.7949928 3.525,13.4249928 3.915,13.8149928 L8.095,17.9949928 C8.485,18.3849928 9.115,18.3849928 9.505,17.9949928 L20.085,7.4149928 C20.475,7.0249928 20.475,6.3949928 20.085,6.0049928 C19.8981685,5.81774013 19.6445176,5.7125072 19.38,5.7125072 C19.1154824,5.7125072 18.8618315,5.81774013 18.675,6.0049928 L8.795,15.8749928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/check_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

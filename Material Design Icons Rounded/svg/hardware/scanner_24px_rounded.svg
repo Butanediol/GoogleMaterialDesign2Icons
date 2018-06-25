@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/scanner_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.8,10.0554266 L5.15,4.70542657 C4.63,4.51542657 4.05,4.78542657 3.85,5.30542657 C3.66,5.83542657 3.93,6.41542657 4.45,6.60542657 L17.6,11.3554266 L5,11.3554266 C3.9,11.3554266 3,12.2554266 3,13.3554266 L3,17.3554266 C3,18.4554266 3.9,19.3554266 5,19.3554266 L19,19.3554266 C20.1,19.3554266 21,18.4554266 21,17.3554266 L21,11.8554266 C21,11.0554266 20.5,10.2554266 19.8,10.0554266 Z M7,16.3554266 L5,16.3554266 L5,14.3554266 L7,14.3554266 L7,16.3554266 Z M18,16.3554266 L10,16.3554266 C9.45,16.3554266 9,15.9054266 9,15.3554266 C9,14.8054266 9.45,14.3554266 10,14.3554266 L18,14.3554266 C18.55,14.3554266 19,14.8054266 19,15.3554266 C19,15.9054266 18.55,16.3554266 18,16.3554266 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/scanner_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

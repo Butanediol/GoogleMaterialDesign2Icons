@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/gavel_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.395,21 L13.395,21 L13.395,23 L1.395,23 L1.395,21 Z M5.635,8.07 L8.465,5.24 L22.605,19.38 L19.775,22.21 L5.635,8.07 Z M12.715,1 L18.375,6.66 L15.545,9.49 L9.885,3.83 L12.715,1 Z M4.225,9.48 L9.885,15.14 L7.055,17.97 L1.395,12.31 L4.225,9.48 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/gavel_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

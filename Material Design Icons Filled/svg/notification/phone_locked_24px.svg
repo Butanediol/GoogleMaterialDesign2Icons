@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/phone_locked_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,15.5 C18.75,15.5 17.55,15.3 16.43,14.93 C16.08,14.82 15.69,14.9 15.41,15.17 L13.21,17.37 C10.38,15.93 8.06,13.62 6.62,10.78 L8.82,8.57 C9.1,8.31 9.18,7.92 9.07,7.57 C8.7,6.45 8.5,5.25 8.5,4 C8.5,3.45 8.05,3 7.5,3 L4,3 C3.45,3 3,3.45 3,4 C3,13.39 10.61,21 20,21 C20.55,21 21,20.55 21,20 L21,16.5 C21,15.95 20.55,15.5 20,15.5 Z M20,4 L20,3.5 C20,2.12 18.88,1 17.5,1 C16.12,1 15,2.12 15,3.5 L15,4 C14.45,4 14,4.45 14,5 L14,9 C14,9.55 14.45,10 15,10 L20,10 C20.55,10 21,9.55 21,9 L21,5 C21,4.45 20.55,4 20,4 Z M19,4 L16,4 L16,3.5 C16,2.67 16.67,2 17.5,2 C18.33,2 19,2.67 19,3.5 L19,4 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/phone_locked_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

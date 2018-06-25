@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/screen_lock_rotation_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.3,12.77 L19.73,10.2 L18.32,11.61 L20.54,13.83 L14.88,19.49 L3.56,8.17 L9.22,2.51 L11.32,4.61 L12.73,3.2 L10.28,0.75 C9.69,0.16 8.74,0.16 8.16,0.75 L1.8,7.11 C1.21,7.7 1.21,8.65 1.8,9.23 L13.82,21.25 C14.41,21.84 15.36,21.84 15.94,21.25 L22.3,14.89 C22.89,14.3 22.89,13.35 22.3,12.77 Z M7.52,20.48 C4.25,18.94 1.91,15.76 1.55,12 L0.05,12 C0.56,18.16 5.71,23 12,23 L12.66,22.97 L8.85,19.15 L7.52,20.48 Z M15.05,9 L20.05,9 C20.6,9 21.05,8.55 21.05,8 L21.05,4 C21.05,3.45 20.6,3 20.05,3 L20.05,2.5 C20.05,1.12 18.93,0 17.55,0 C16.17,0 15.05,1.12 15.05,2.5 L15.05,3 C14.5,3 14.05,3.45 14.05,4 L14.05,8 C14.05,8.55 14.5,9 15.05,9 Z M15.85,2.5 C15.85,1.56 16.61,0.8 17.55,0.8 C18.49,0.8 19.25,1.56 19.25,2.5 L19.25,3 L15.85,3 L15.85,2.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/screen_lock_rotation_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(0.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

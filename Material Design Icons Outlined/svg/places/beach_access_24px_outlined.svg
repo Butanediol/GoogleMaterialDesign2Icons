@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/beach_access_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.99685,19.5704 L19.56855,20.9988 L13.12685,14.5571 L14.55515,13.1288 L20.99685,19.5704 Z M13.11565,3.0012 C10.53565,3.0012 7.95565,3.9812 5.97565,5.9512 L5.96565,5.9612 C2.01565,9.9112 2.01565,16.3212 5.96565,20.2712 L20.26565,5.9612 C18.29565,3.9912 15.70565,3.0012 13.11565,3.0012 Z M6.13565,17.2712 C5.39565,16.0312 4.99565,14.6112 4.99565,13.1212 C4.99565,12.1912 5.15565,11.3012 5.45565,10.4512 C5.64565,12.3612 6.34565,14.2412 7.52565,15.8912 L6.13565,17.2712 Z M8.97565,14.4312 C7.62565,12.3812 7.11565,9.9312 7.59565,7.6012 C8.17565,7.4812 8.75565,7.4212 9.34565,7.4212 C11.14565,7.4212 12.89565,7.9712 14.42565,8.9812 L8.97565,14.4312 Z M10.44565,5.4612 C11.29565,5.1612 12.18565,5.0012 13.11565,5.0012 C14.60565,5.0012 16.02565,5.4012 17.26565,6.1412 L15.87565,7.5312 C14.22565,6.3512 12.35565,5.6512 10.44565,5.4612 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/beach_access_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

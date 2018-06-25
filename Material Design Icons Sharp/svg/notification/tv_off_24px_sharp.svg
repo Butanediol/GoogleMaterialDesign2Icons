@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/tv_off_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,7.005 L21,17.885 L23,19.885 L23,5.005 L13.42,5.005 L16.71,1.705 L16,1.005 L12,5.005 L8,1.005 L7.3,1.705 L10.58,5.005 L8.12,5.005 L10.12,7.005 L21,7.005 Z M2.41,2.135 L2.27,2.275 L1,3.545 L2.53,5.075 L1,5.075 L1,21.005 L18.46,21.005 L20.45,22.995 L21.71,21.735 L21.86,21.585 L2.41,2.135 Z M3,19.005 L3,7.005 L4.46,7.005 L16.46,19.005 L3,19.005 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/tv_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

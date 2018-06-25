@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/toggle/star_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,17.5195934 L16.15,20.0295934 C16.91,20.4895934 17.84,19.8095934 17.64,18.9495934 L16.54,14.2295934 L20.21,11.0495934 C20.88,10.4695934 20.52,9.3695934 19.64,9.2995934 L14.81,8.8895934 L12.92,4.4295934 C12.58,3.6195934 11.42,3.6195934 11.08,4.4295934 L9.19,8.8795934 L4.36,9.2895934 C3.48,9.3595934 3.12,10.4595934 3.79,11.0395934 L7.46,14.2195934 L6.36,18.9395934 C6.16,19.7995934 7.09,20.4795934 7.85,20.0195934 L12,17.5195934 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/toggle/star_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

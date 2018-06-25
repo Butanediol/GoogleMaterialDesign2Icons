@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/airline_seat_recline_extra_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.35,6.13968902 C4.45,5.49968902 4.23,4.25968902 4.86,3.34968902 C5.49,2.44968902 6.74,2.22968902 7.65,2.85968902 C8.55,3.49968902 8.77,4.73968902 8.14,5.64968902 C7.5,6.54968902 6.26,6.76968902 5.35,6.13968902 Z M16,19.499689 L6.5,19.499689 L4,7.49968902 L2,7.49968902 L4.85,21.499689 L16,21.499689 L16,19.499689 Z M16.23,15.499689 L11.35,15.499689 L10.32,11.399689 C11.9,12.289689 13.6,12.939689 15.47,12.619689 L15.47,10.489689 C13.84,10.799689 12.03,10.219689 10.78,9.23968902 L9.14,7.96968902 C8.91,7.78968902 8.65,7.66968902 8.38,7.58968902 C8.06,7.49968902 7.72,7.46968902 7.39,7.52968902 L7.37,7.52968902 C6.14,7.74968902 5.32,8.91968902 5.53,10.139689 L7.44,18.499689 L16.68,18.499689 L20.5,21.499689 L22,19.999689 L16.23,15.499689 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/airline_seat_recline_extra_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

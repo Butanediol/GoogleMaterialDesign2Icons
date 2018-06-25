@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/free_breakfast_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,19 L19,19 L19,21 L3,21 L3,19 Z M19,3 L3,3 L3,13 C3,15.21 4.79,17 7,17 L13,17 C15.21,17 17,15.21 17,13 L17,10 L19,10 C20.11,10 21,9.1 21,8 L21,5 C21,3.89 20.11,3 19,3 Z M15,13 C15,14.1 14.1,15 13,15 L7,15 C5.9,15 5,14.1 5,13 L5,5 L15,5 L15,13 Z M19,8 L17,8 L17,5 L19,5 L19,8 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/free_breakfast_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

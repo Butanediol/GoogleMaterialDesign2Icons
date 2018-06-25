@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/no_meeting_room_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.565,4.435 L12.565,8.315 L14.565,10.315 L14.565,5.435 L17.565,5.435 L17.565,13.315 L19.565,15.315 L19.565,3.435 L14.565,3.435 L14.565,2.435 L6.685,2.435 L8.685,4.435 L12.565,4.435 Z M2.975,1.565 L1.565,2.975 L5.565,6.975 L5.565,18.435 L3.565,18.435 L3.565,20.435 L14.565,20.435 L14.565,15.975 L21.025,22.435 L22.435,21.025 L2.975,1.565 Z M12.565,18.435 L7.565,18.435 L7.565,8.975 L12.565,13.975 L12.565,18.435 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/no_meeting_room_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

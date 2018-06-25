@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/bluetooth_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.65,6.99623277 L13.36,2.70623277 C12.73,2.07623277 11.65,2.51623277 11.65,3.40623277 L11.65,9.58623277 L7.76,5.69623277 C7.57316847,5.5089801 7.31951764,5.40374717 7.055,5.40374717 C6.79048236,5.40374717 6.53683153,5.5089801 6.35,5.69623277 C5.96,6.08623277 5.96,6.71623277 6.35,7.10623277 L11.24,11.9962328 L6.35,16.8862328 C5.96,17.2762328 5.96,17.9062328 6.35,18.2962328 C6.74,18.6862328 7.37,18.6862328 7.76,18.2962328 L11.65,14.4062328 L11.65,20.5862328 C11.65,21.4762328 12.73,21.9262328 13.36,21.2962328 L17.65,16.9962328 C18.04,16.6062328 18.04,15.9762328 17.65,15.5862328 L14.06,11.9962328 L17.65,8.41623277 C18.04,8.02623277 18.04,7.38623277 17.65,6.99623277 Z M13.65,5.82623277 L15.53,7.70623277 L13.65,9.58623277 L13.65,5.82623277 Z M15.53,16.2862328 L13.65,18.1662328 L13.65,14.4062328 L15.53,16.2862328 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/bluetooth_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

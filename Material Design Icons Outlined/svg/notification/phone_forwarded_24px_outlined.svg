@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/phone_forwarded_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,16.5 C17.75,16.5 16.55,16.3 15.43,15.93 C15.33,15.9 15.22,15.88 15.12,15.88 C14.86,15.88 14.61,15.98 14.41,16.17 L12.21,18.37 C9.38,16.93 7.06,14.62 5.62,11.78 L7.82,9.57 C8.1,9.31 8.18,8.92 8.07,8.57 C7.7,7.45 7.5,6.25 7.5,5 C7.5,4.45 7.05,4 6.5,4 L3,4 C2.45,4 2,4.45 2,5 C2,14.39 9.61,22 19,22 C19.55,22 20,21.55 20,21 L20,17.5 C20,16.95 19.55,16.5 19,16.5 Z M4.03,6 L5.53,6 C5.6,6.88 5.75,7.75 5.98,8.58 L4.78,9.79 C4.38,8.58 4.12,7.32 4.03,6 Z M18,19.97 C16.68,19.88 15.4,19.62 14.2,19.21 L15.4,18.01 C16.25,18.25 17.12,18.4 18,18.46 L18,19.97 Z M17,12 L22,7 L17,2 L17,5 L13,5 L13,9 L17,9 L17,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/phone_forwarded_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

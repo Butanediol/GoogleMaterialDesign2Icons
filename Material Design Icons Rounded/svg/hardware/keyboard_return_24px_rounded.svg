@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/keyboard_return_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.29125,7.9949928 L19.29125,10.9949928 L6.12125,10.9949928 L9.00125,8.1149928 C9.39125,7.7249928 9.39125,7.0949928 9.00125,6.7049928 C8.81441847,6.51774013 8.56076764,6.4125072 8.29625,6.4125072 C8.03173236,6.4125072 7.77808153,6.51774013 7.59125,6.7049928 L3.00125,11.2949928 C2.61125,11.6849928 2.61125,12.3149928 3.00125,12.7049928 L7.59125,17.2949928 C7.98125,17.6849928 8.61125,17.6849928 9.00125,17.2949928 C9.39125,16.9049928 9.39125,16.2749928 9.00125,15.8849928 L6.12125,12.9949928 L20.29125,12.9949928 C20.84125,12.9949928 21.29125,12.5449928 21.29125,11.9949928 L21.29125,7.9949928 C21.29125,7.4449928 20.84125,6.9949928 20.29125,6.9949928 C19.74125,6.9949928 19.29125,7.4449928 19.29125,7.9949928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/keyboard_return_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

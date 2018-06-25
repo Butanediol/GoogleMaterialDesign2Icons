@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/offline_bolt_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2.02 C6.49,2.02 2.02,6.49 2.02,12 C2.02,17.51 6.49,21.98 12,21.98 C17.51,21.98 21.98,17.51 21.98,12 C21.98,6.49 17.51,2.02 12,2.02 Z M11.48,17.88 L11.48,13.74 L8.82,13.74 C8.45,13.74 8.2,13.34 8.38,13.01 L12.06,5.84 C12.29,5.37 13,5.54 13,6.07 L13,10.26 L15.54,10.26 C15.91,10.26 16.15,10.65 15.99,10.98 L12.43,18.1 C12.19,18.58 11.48,18.41 11.48,17.88 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/offline_bolt_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

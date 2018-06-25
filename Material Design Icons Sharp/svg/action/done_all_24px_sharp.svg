@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/done_all_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.965,6.705 L16.555,5.295 L10.215,11.635 L11.625,13.045 L17.965,6.705 Z M22.205,5.295 L11.625,15.875 L7.445,11.705 L6.035,13.115 L11.625,18.705 L23.625,6.705 L22.205,5.295 Z M0.375,13.115 L5.965,18.705 L7.375,17.295 L1.795,11.705 L0.375,13.115 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/done_all_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

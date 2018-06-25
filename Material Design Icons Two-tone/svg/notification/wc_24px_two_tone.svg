@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/wc_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.44,20 L1.44,12.5 L0,12.5 L0,7 C0,5.9 0.864,5 1.92,5 L4.8,5 C5.856,5 6.72,5.9 6.72,7 L6.72,12.5 L5.28,12.5 L5.28,20 L1.44,20 Z M13.44,20 L13.44,14 L16.32,14 L13.8816,6.37 C13.6128,5.55 12.8832,5 12.0576,5 L11.9424,5 C11.1168,5 10.3776,5.55 10.1184,6.37 L7.68,14 L10.56,14 L10.56,20 L13.44,20 Z M3.36,4 C4.4256,4 5.28,3.11 5.28,2 C5.28,0.89 4.4256,0 3.36,0 C2.2944,0 1.44,0.89 1.44,2 C1.44,3.11 2.2944,4 3.36,4 Z M12,4 C13.0656,4 13.92,3.11 13.92,2 C13.92,0.89 13.0656,0 12,0 C10.9344,0 10.08,0.89 10.08,2 C10.08,3.11 10.9344,4 12,4 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/wc_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(3.840000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

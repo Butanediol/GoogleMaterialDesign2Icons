@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/slow_motion_video_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.025,9.79 L9.975,7.5 L9.975,16.5 L13.025,14.21 L15.975,12 L13.025,9.79 Z M13.025,9.79 L9.975,7.5 L9.975,16.5 L13.025,14.21 L15.975,12 L13.025,9.79 Z M13.025,9.79 L9.975,7.5 L9.975,16.5 L13.025,14.21 L15.975,12 L13.025,9.79 Z M10.975,4.07 L10.975,2.05 C8.965,2.25 7.135,3.05 5.655,4.26 L7.075,5.69 C8.185,4.83 9.515,4.25 10.975,4.07 Z M5.665,7.1 L4.235,5.68 C3.025,7.16 2.225,8.99 2.025,11 L4.045,11 C4.225,9.54 4.805,8.21 5.665,7.1 Z M4.045,13 L2.025,13 C2.225,15.01 3.025,16.84 4.235,18.32 L5.665,16.89 C4.805,15.79 4.225,14.46 4.045,13 Z M5.655,19.74 C7.135,20.95 8.975,21.75 10.975,21.95 L10.975,19.93 C9.515,19.75 8.185,19.17 7.075,18.31 L5.655,19.74 Z M21.975,12 C21.975,17.16 18.055,21.42 13.025,21.95 L13.025,19.93 C16.945,19.41 19.975,16.05 19.975,12 C19.975,7.95 16.945,4.59 13.025,4.07 L13.025,2.05 C18.055,2.58 21.975,6.84 21.975,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/slow_motion_video_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

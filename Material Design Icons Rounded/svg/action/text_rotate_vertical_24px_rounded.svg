@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/text_rotate_vertical_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.1365648,5.105 C14.6765648,5.105 14.2665648,5.375 14.0865648,5.795 L10.2065648,14.765 C9.93656483,15.395 10.4065648,16.105 11.0965648,16.105 C11.4865648,16.105 11.8365648,15.865 11.9865648,15.505 L12.6465648,13.905 L17.6465648,13.905 L18.3065648,15.505 C18.4565648,15.865 18.8065648,16.105 19.1965648,16.105 C19.8865648,16.105 20.3465648,15.395 20.0765648,14.765 L16.1965648,5.795 C16.0065648,5.375 15.5965648,5.105 15.1365648,5.105 Z M13.2665648,12.105 L15.1365648,7.085 L17.0065648,12.105 L13.2665648,12.105 Z M6.48656483,19.745 L8.27656483,17.955 C8.59656483,17.645 8.37656483,17.105 7.92656483,17.105 L7.13656483,17.105 L7.13656483,5.105 C7.13656483,4.555 6.68656483,4.105 6.13656483,4.105 C5.58656483,4.105 5.13656483,4.545 5.13656483,5.105 L5.13656483,17.105 L4.34656483,17.105 C3.89656483,17.105 3.67656483,17.645 3.99656483,17.955 L5.78656483,19.745 C5.97656483,19.945 6.29656483,19.945 6.48656483,19.745 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/text_rotate_vertical_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

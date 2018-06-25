@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/text_rotation_angle_down_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.625,20.75 L15.625,16.51 L14.215,17.92 L5.015,8.73 L3.605,10.14 L12.795,19.33 L11.385,20.75 L15.625,20.75 Z M11.875,8.23 L15.415,11.77 L14.495,13.96 L15.975,15.44 L20.395,4.3 L19.335,3.25 L8.195,7.67 L9.685,9.15 L11.875,8.23 Z M18.465,5.18 L16.235,10.05 L13.595,7.41 L18.465,5.18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/text_rotation_angle_down_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

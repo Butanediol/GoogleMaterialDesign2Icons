@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/toggle/toggle_on_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17,7 L7,7 C4.24,7 2,9.24 2,12 C2,14.76 4.24,17 7,17 L17,17 C19.76,17 22,14.76 22,12 C22,9.24 19.76,7 17,7 Z M17,15 C15.34,15 14,13.66 14,12 C14,10.34 15.34,9 17,9 C18.66,9 20,10.34 20,12 C20,13.66 18.66,15 17,15 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/toggle/toggle_on_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

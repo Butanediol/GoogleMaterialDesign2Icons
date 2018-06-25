@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/invert_colors_off_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,5.1 L12,9.15 L19.4,16.55 C20.55,13.67 19.99,10.27 17.65,7.94 L12,2.27 L8.56,5.71 L9.97,7.12 L12,5.1 Z M4.4,4.37 L2.99,5.78 L5.77,8.56 C3.23,11.7 3.42,16.31 6.34,19.24 C7.9,20.8 9.95,21.58 12,21.58 C13.78,21.58 15.56,20.99 17.02,19.81 L19.72,22.51 L21.13,21.1 L4.4,4.37 Z M12,19.59 C10.4,19.59 8.89,18.97 7.76,17.83 C6.62,16.69 6,15.19 6,13.59 C6,12.27 6.43,11.03 7.21,10 L12,14.79 L12,19.59 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/invert_colors_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

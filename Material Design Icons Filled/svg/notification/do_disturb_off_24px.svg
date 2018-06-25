@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/do_disturb_off_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17,11 L17,13 L16.12,13 L20.45,17.33 C21.43,15.79 22,13.96 22,12 C22,6.48 17.52,2 12,2 C10.04,2 8.21,2.57 6.67,3.55 L14.12,11 L17,11 Z M2.41,2.13 L1,3.54 L3.78,6.32 C2.66,7.93 2,9.89 2,12 C2,17.52 6.48,22 12,22 C14.11,22 16.07,21.34 17.68,20.22 L20.46,23 L21.87,21.59 L2.41,2.13 Z M7,13 L7,11 L8.46,11 L10.46,13 L7,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/do_disturb_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

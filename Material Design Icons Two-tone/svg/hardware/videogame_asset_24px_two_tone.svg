@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/videogame_asset_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,8 L18,8 L18,0 L0,0 L0,8 Z M15.5,1 C16.33,1 17,1.67 17,2.5 C17,3.33 16.33,4 15.5,4 C14.67,4 14,3.33 14,2.5 C14,1.67 14.67,1 15.5,1 Z M11.5,4 C12.33,4 13,4.67 13,5.5 C13,6.33 12.33,7 11.5,7 C10.67,7 10,6.33 10,5.5 C10,4.67 10.67,4 11.5,4 Z M1,3 L3,3 L3,1 L5,1 L5,3 L7,3 L7,5 L5,5 L5,7 L3,7 L3,5 L1,5 L1,3 Z" id="path-1"></path>
+        <path d="M20,0 L2,0 C0.9,0 0,0.9 0,2 L0,10 C0,11.1 0.9,12 2,12 L20,12 C21.1,12 22,11.1 22,10 L22,2 C22,0.9 21.1,0 20,0 Z M20,10 L2,10 L2,2 L20,2 L20,10 Z" id="path-3"></path>
+        <polygon id="path-5" points="2 6 4 6 4 4 6 4 6 2 4 2 4 0 2 0 2 2 0 2 0 4 2 4"></polygon>
+        <circle id="path-7" cx="1.5" cy="1.5" r="1.5"></circle>
+        <circle id="path-9" cx="1.5" cy="1.5" r="1.5"></circle>
+    </defs>
+    <g id="icon/hardware/videogame_asset_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(3.000000, 8.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(1.000000, 6.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(4.000000, 9.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-6)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(13.000000, 12.000000)">
+            <mask id="mask-8" fill="white">
+                <use xlink:href="#path-7"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-8)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(17.000000, 9.000000)">
+            <mask id="mask-10" fill="white">
+                <use xlink:href="#path-9"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-10)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

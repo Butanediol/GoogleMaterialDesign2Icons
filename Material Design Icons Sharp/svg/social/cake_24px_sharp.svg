@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/social/cake_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,7 C13.11,7 14,6.1 14,5 C14,4.62 13.9,4.27 13.71,3.97 L12,1 L10.29,3.97 C10.1,4.27 10,4.62 10,5 C10,6.1 10.9,7 12,7 Z M16.53,16.92 L15.53,15.92 L14.45,16.99 C13.15,18.29 10.87,18.3 9.56,16.99 L8.49,15.92 L7.4,16.99 C6.75,17.64 5.88,18 4.96,18 C4.23,18 3.56,17.77 3,17.39 L3,23 L21,23 L21,17.39 C20.25,17.9 19.29,18.14 18.26,17.91 C17.6,17.77 17.01,17.4 16.53,16.92 Z M18,10 L13,10 L13,8 L11,8 L11,10 L6,10 C4.34,10 3,11.34 3,13 L3,14.54 C3,15.62 3.88,16.5 4.96,16.5 C5.48,16.5 5.98,16.3 6.34,15.93 L8.48,13.8 L10.61,15.93 C11.35,16.67 12.64,16.67 13.38,15.93 L15.52,13.8 L17.65,15.93 C18.02,16.3 18.51,16.5 19.03,16.5 C20.11,16.5 20.99,15.62 20.99,14.54 L20.99,13 C21,11.34 19.66,10 18,10 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/social/cake_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

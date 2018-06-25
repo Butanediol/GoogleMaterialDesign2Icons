@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/settings_backup_restore_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.5,12 C15.5,10.9 14.6,10 13.5,10 C12.4,10 11.5,10.9 11.5,12 C11.5,13.1 12.4,14 13.5,14 C14.6,14 15.5,13.1 15.5,12 Z M13.5,3 C8.53,3 4.5,7.03 4.5,12 L1.5,12 L5.5,16 L9.5,12 L6.5,12 C6.5,8.13 9.63,5 13.5,5 C17.37,5 20.5,8.13 20.5,12 C20.5,15.87 17.37,19 13.5,19 C11.99,19 10.59,18.51 9.44,17.7 L8.02,19.14 C9.54,20.3 11.44,21 13.5,21 C18.47,21 22.5,16.97 22.5,12 C22.5,7.03 18.47,3 13.5,3 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/settings_backup_restore_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

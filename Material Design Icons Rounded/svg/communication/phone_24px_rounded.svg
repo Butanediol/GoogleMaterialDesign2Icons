@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/phone_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.221788,15.2681633 L16.681788,14.9781633 C16.071788,14.9081633 15.471788,15.1181633 15.041788,15.5481633 L13.201788,17.3881633 C10.371788,15.9481633 8.05178797,13.6381633 6.61178797,10.7981633 L8.46178797,8.94816326 C8.89178797,8.51816326 9.10178797,7.91816326 9.03178797,7.30816326 L8.74178797,4.78816326 C8.62178797,3.77816326 7.77178797,3.01816326 6.75178797,3.01816326 L5.02178797,3.01816326 C3.89178797,3.01816326 2.95178797,3.95816326 3.02178797,5.08816326 C3.55178797,13.6281633 10.381788,20.4481633 18.911788,20.9781633 C20.041788,21.0481633 20.981788,20.1081633 20.981788,18.9781633 L20.981788,17.2481633 C20.991788,16.2381633 20.231788,15.3881633 19.221788,15.2681633 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/phone_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

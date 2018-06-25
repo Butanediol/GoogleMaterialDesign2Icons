@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/donut_large_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,5.08 C16.06,5.52 18.48,7.94 18.92,11 L21.95,11 C21.48,6.28 17.72,2.52 13,2.05 L13,5.08 Z M18.92,13 C18.48,16.06 16.06,18.48 13,18.92 L13,21.95 C17.72,21.48 21.48,17.72 21.95,13 L18.92,13 Z M11,18.92 C7.61,18.43 5,15.52 5,12 C5,8.48 7.61,5.57 11,5.08 L11,2.05 C5.95,2.55 2,6.81 2,12 C2,17.19 5.95,21.45 11,21.95 L11,18.92 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/donut_large_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

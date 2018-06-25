@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/arrow_back_ios_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.0018702,2.985 C16.5118702,2.495 15.7218702,2.495 15.2318702,2.985 L6.92187017,11.295 C6.53187017,11.685 6.53187017,12.315 6.92187017,12.705 L15.2318702,21.015 C15.7218702,21.505 16.5118702,21.505 17.0018702,21.015 C17.4918702,20.525 17.4918702,19.735 17.0018702,19.245 L9.76187017,11.995 L17.0118702,4.745 C17.4918702,4.265 17.4918702,3.465 17.0018702,2.985 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/arrow_back_ios_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

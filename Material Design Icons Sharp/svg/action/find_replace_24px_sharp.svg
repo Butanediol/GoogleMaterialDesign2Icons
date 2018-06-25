@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/find_replace_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.255,5.255 C11.635,5.255 12.885,5.815 13.795,6.715 L11.255,9.255 L17.255,9.255 L17.255,3.255 L15.205,5.305 C13.935,4.035 12.185,3.255 10.255,3.255 C6.725,3.255 3.825,5.865 3.335,9.255 L5.355,9.255 C5.815,6.975 7.835,5.255 10.255,5.255 Z M15.895,14.395 C16.555,13.495 17.015,12.425 17.175,11.255 L15.155,11.255 C14.695,13.535 12.675,15.255 10.255,15.255 C8.875,15.255 7.625,14.695 6.715,13.795 L9.255,11.255 L3.255,11.255 L3.255,17.255 L5.305,15.205 C6.575,16.475 8.325,17.255 10.255,17.255 C11.805,17.255 13.235,16.745 14.395,15.895 L19.255,20.745 L20.745,19.255 L15.895,14.395 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/find_replace_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

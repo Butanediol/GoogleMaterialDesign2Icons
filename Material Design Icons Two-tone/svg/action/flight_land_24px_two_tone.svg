@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/flight_land_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.5,17 L19.5,17 L19.5,19 L0.5,19 L0.5,17 Z M17.34,13.85 C18.14,14.06 18.96,13.59 19.18,12.79 C19.39,11.99 18.92,11.17 18.12,10.95 L12.81,9.53 L10.05,0.51 L8.12,0 L8.12,8.28 L3.15,6.95 L2.22,4.63 L0.77,4.24 L0.77,9.41 L17.34,13.85 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/flight_land_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

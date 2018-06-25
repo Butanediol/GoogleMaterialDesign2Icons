@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/zoom_out_map_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,3 L17.3,5.3 L14.41,8.17 L15.83,9.59 L18.7,6.7 L21,9 L21,3 L15,3 Z M3,9 L5.3,6.7 L8.17,9.59 L9.59,8.17 L6.7,5.3 L9,3 L3,3 L3,9 Z M9,21 L6.7,18.7 L9.59,15.83 L8.17,14.41 L5.3,17.3 L3,15 L3,21 L9,21 Z M21,15 L18.7,17.3 L15.83,14.41 L14.41,15.83 L17.3,18.7 L15,21 L21,21 L21,15 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/zoom_out_map_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

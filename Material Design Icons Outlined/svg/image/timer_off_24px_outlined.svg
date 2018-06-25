@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/timer_off_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.625,8 L11.625,8.86 L13.625,10.86 L13.625,8 L11.625,8 Z M9.625,1 L15.625,1 L15.625,3 L9.625,3 L9.625,1 Z M12.625,6 C16.495,6 19.625,9.13 19.625,13 C19.625,14.12 19.355,15.18 18.885,16.12 L20.355,17.59 C21.155,16.25 21.625,14.68 21.625,13 C21.625,10.88 20.885,8.93 19.655,7.39 L21.075,5.97 C20.645,5.46 20.175,4.98 19.665,4.56 L18.245,5.98 C16.695,4.74 14.745,4 12.625,4 C10.945,4 9.375,4.47 8.035,5.27 L9.505,6.74 C10.445,6.27 11.505,6 12.625,6 Z M3.785,3.86 L2.375,5.27 L5.125,8.02 C4.185,9.45 3.625,11.16 3.625,13 C3.625,17.97 7.645,22 12.625,22 C14.465,22 16.175,21.45 17.605,20.5 L20.105,23 L21.515,21.59 L3.785,3.86 Z M12.625,20 C8.755,20 5.625,16.87 5.625,13 C5.625,11.71 5.975,10.51 6.585,9.48 L16.155,19.05 C15.115,19.65 13.915,20 12.625,20 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/timer_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

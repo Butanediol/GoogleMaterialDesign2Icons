@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/view_week_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,4 L3,4 C2.45,4 2,4.45 2,5 L2,19 C2,19.55 2.45,20 3,20 L21,20 C21.55,20 22,19.55 22,19 L22,5 C22,4.45 21.55,4 21,4 Z M8,18 L4,18 L4,6 L8,6 L8,18 Z M14,18 L10,18 L10,6 L14,6 L14,18 Z M20,18 L16,18 L16,6 L20,6 L20,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/view_week_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

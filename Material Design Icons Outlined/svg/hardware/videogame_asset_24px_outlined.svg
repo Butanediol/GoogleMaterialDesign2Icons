@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/videogame_asset_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,6 L3,6 C1.9,6 1,6.9 1,8 L1,16 C1,17.1 1.9,18 3,18 L21,18 C22.1,18 23,17.1 23,16 L23,8 C23,6.9 22.1,6 21,6 Z M21,16 L3,16 L3,8 L21,8 L21,16 Z M6,15 L8,15 L8,13 L10,13 L10,11 L8,11 L8,9 L6,9 L6,11 L4,11 L4,13 L6,13 L6,15 Z M14.5,12 C13.6715729,12 13,12.6715729 13,13.5 C13,14.3284271 13.6715729,15 14.5,15 C15.3284271,15 16,14.3284271 16,13.5 C16,12.6715729 15.3284271,12 14.5,12 Z M18.5,9 C17.6715729,9 17,9.67157288 17,10.5 C17,11.3284271 17.6715729,12 18.5,12 C19.3284271,12 20,11.3284271 20,10.5 C20,9.67157288 19.3284271,9 18.5,9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/videogame_asset_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

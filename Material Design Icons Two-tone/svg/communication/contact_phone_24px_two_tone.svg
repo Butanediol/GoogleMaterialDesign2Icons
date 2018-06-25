@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/contact_phone_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,0 L0,0 L0,14 L20,14 L20,0 Z M7,1 C8.65,1 10,2.35 10,4 C10,5.65 8.65,7 7,7 C5.35,7 4,5.65 4,4 C4,2.35 5.35,1 7,1 Z M13,13 L1,13 L1,11.59 C1,9.08 4.97,8 7,8 C9.03,8 13,9.08 13,11.58 L13,13 Z M15.85,9 L17.49,9 L19,11 L17.01,12.99 C15.7,12.01 14.73,10.61 14.28,9 C14.1,8.36 14,7.69 14,7 C14,6.31 14.1,5.64 14.28,5 C14.73,3.38 15.7,1.99 17.01,1.01 L19,3 L17.49,5 L15.85,5 C15.63,5.63 15.5,6.3 15.5,7 C15.5,7.7 15.63,8.37 15.85,9 Z" id="path-1"></path>
+        <path d="M2,18 L22,18 C23.1,18 23.99,17.1 23.99,16 L24,2 C24,0.9 23.1,0 22,0 L2,0 C0.9,0 0,0.9 0,2 L0,16 C0,17.1 0.9,18 2,18 Z M2,2 L22,2 L22,16 L2,16 L2,2 Z" id="path-3"></path>
+        <path d="M3.49,4 L5,2 L3.01,0.01 C1.7,0.99 0.73,2.38 0.28,4 C0.1,4.64 0,5.31 0,6 C0,6.69 0.1,7.36 0.28,8 C0.73,9.61 1.7,11.01 3.01,11.99 L5,10 L3.49,8 L1.85,8 C1.63,7.37 1.5,6.7 1.5,6 C1.5,5.3 1.63,4.63 1.85,4 L3.49,4 Z" id="path-5"></path>
+        <path d="M3,6 C4.65,6 6,4.65 6,3 C6,1.35 4.65,0 3,0 C1.35,0 0,1.35 0,3 C0,4.65 1.35,6 3,6 Z M3,2 C3.55,2 4,2.45 4,3 C4,3.55 3.55,4 3,4 C2.45,4 2,3.55 2,3 C2,2.45 2.45,2 3,2 Z" id="path-7"></path>
+        <path d="M6,0 C3.97,0 0,1.08 0,3.58 L0,5 L12,5 L12,3.59 C12,1.08 8.03,0 6,0 Z M2.48,3 C3.22,2.5 4.7,2 6,2 C7.3,2 8.77,2.49 9.52,3 L2.48,3 Z" id="path-9"></path>
+    </defs>
+    <g id="icon/communication/contact_phone_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(2.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(0.000000, 3.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(16.000000, 6.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-6)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(6.000000, 6.000000)">
+            <mask id="mask-8" fill="white">
+                <use xlink:href="#path-7"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-8)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(3.000000, 13.000000)">
+            <mask id="mask-10" fill="white">
+                <use xlink:href="#path-9"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-10)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/scatter_plot_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.20000003,11.2 C6.12820325,11.2 5.13782217,11.7717967 4.60192377,12.7 C4.06602537,13.6282032 4.06602537,14.7717968 4.60192377,15.7 C5.13782217,16.6282033 6.12820325,17.2 7.20000003,17.2 C8.27179682,17.2 9.2621779,16.6282033 9.7980763,15.7 C10.3339747,14.7717968 10.3339747,13.6282032 9.7980763,12.7 C9.2621779,11.7717967 8.27179682,11.2 7.20000003,11.2 Z M11.2,3.2 C9.54314578,3.2 8.20000003,4.54314575 8.20000003,6.2 C8.20000003,7.85685425 9.54314578,9.2 11.2,9.2 C12.8568543,9.2 14.2,7.85685425 14.2,6.2 C14.2,4.54314575 12.8568543,3.2 11.2,3.2 Z M16.8,14.8 C15.1431458,14.8 13.8,16.1431458 13.8,17.8 C13.8,19.4568542 15.1431458,20.8 16.8,20.8 C18.4568543,20.8 19.8,19.4568542 19.8,17.8 C19.8,16.1431458 18.4568543,14.8 16.8,14.8 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/scatter_plot_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

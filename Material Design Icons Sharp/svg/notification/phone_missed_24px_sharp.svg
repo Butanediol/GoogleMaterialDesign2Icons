@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/phone_missed_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.3052895,16.73 C20.3565181,13.94 16.3781758,12.22 12,12.22 C7.6118284,12.22 3.63348605,13.94 0.694710537,16.73 L0.00499791753,17.42 L3.64348188,21.06 L7.57184506,18.34 L7.56184923,14.85 C8.96126614,14.4 10.4606414,14.15 12,14.15 C13.5493544,14.15 15.0387339,14.39 16.4381508,14.85 L16.4281549,18.34 L20.3565181,21.06 L23.9950021,17.42 C23.9950021,17.41 23.4752187,16.9 23.3052895,16.73 Z M6.99208663,6.49 L11.9300292,11.43 L18.9970845,4.36 L17.5876718,2.94 L11.9300292,8.6 L8.39150354,5.06 L10.9904207,5.06 L10.9904207,3.06 L4.99291962,3.06 L4.99291962,9.06 L6.99208663,9.06 L6.99208663,6.49 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/phone_missed_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

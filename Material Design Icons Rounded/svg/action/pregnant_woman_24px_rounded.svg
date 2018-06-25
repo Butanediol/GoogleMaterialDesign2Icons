@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/pregnant_woman_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,4 C9,2.89 9.89,2 11,2 C12.11,2 13,2.89 13,4 C13,5.11 12.11,6 11,6 C9.89,6 9,5.11 9,4 Z M16,13 C15.99,11.66 15.17,10.49 14,10 C14,8.29 12.58,6.92 10.84,7 C9.22,7.09 8,8.54 8,10.16 L8,16 C8,16.55 8.45,17 9,17 L10,17 L10,20.5 C10,21.33 10.67,22 11.5,22 C12.33,22 13,21.33 13,20.5 L13,17 L15,17 C15.55,17 16,16.55 16,16 L16,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/pregnant_woman_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

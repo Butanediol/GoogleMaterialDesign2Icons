@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/do_disturb_off_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.29125,10.70875 L17.29125,12.70875 L16.41125,12.70875 L20.74125,17.03875 C21.72125,15.49875 22.29125,13.66875 22.29125,11.70875 C22.29125,6.18875 17.81125,1.70875 12.29125,1.70875 C10.33125,1.70875 8.50125,2.27875 6.96125,3.25875 L14.41125,10.70875 L17.29125,10.70875 Z M21.46125,20.58875 L3.41125,2.53875 C3.22441847,2.35149733 2.97076764,2.24626439 2.70625,2.24626439 C2.44173236,2.24626439 2.18808153,2.35149733 2.00125,2.53875 C1.61125,2.92875 1.61125,3.55875 2.00125,3.94875 L4.07125,6.01875 C2.95125,7.63875 2.29125,9.59875 2.29125,11.70875 C2.29125,17.22875 6.77125,21.70875 12.29125,21.70875 C14.40125,21.70875 16.36125,21.04875 17.97125,19.92875 L20.04125,21.99875 C20.43125,22.38875 21.06125,22.38875 21.45125,21.99875 C21.85125,21.60875 21.85125,20.97875 21.46125,20.58875 Z M7.29125,12.70875 L7.29125,10.70875 L8.75125,10.70875 L10.75125,12.70875 L7.29125,12.70875 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/do_disturb_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

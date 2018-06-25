@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/toggle/star_border_purple500_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.6485356,9.2945934 L14.8085356,8.8745934 L12.9185356,4.4245934 C12.5785356,3.6145934 11.4185356,3.6145934 11.0785356,4.4245934 L9.18853562,8.8845934 L4.35853562,9.2945934 C3.47853562,9.3645934 3.11853562,10.4645934 3.78853562,11.0445934 L7.45853562,14.2245934 L6.35853562,18.9445934 C6.15853562,19.8045934 7.08853562,20.4845934 7.84853562,20.0245934 L11.9985356,17.5245934 L16.1485356,20.0345934 C16.9085356,20.4945934 17.8385356,19.8145934 17.6385356,18.9545934 L16.5385356,14.2245934 L20.2085356,11.0445934 C20.8785356,10.4645934 20.5285356,9.3645934 19.6485356,9.2945934 Z M11.9985356,15.6545934 L8.23853562,17.9245934 L9.23853562,13.6445934 L5.91853562,10.7645934 L10.2985356,10.3845934 L11.9985356,6.3545934 L13.7085356,10.3945934 L18.0885356,10.7745934 L14.7685356,13.6545934 L15.7685356,17.9345934 L11.9985356,15.6545934 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/toggle/star_border_purple500_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

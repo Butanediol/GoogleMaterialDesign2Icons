@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/remove_shopping_cart_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.41,1.13 L0,2.54 L4.39,6.93 L6.6,11.59 L5.25,14.04 C5.09,14.32 5,14.65 5,15 C5,16.1 5.9,17 7,17 L14.46,17 L15.84,18.38 C15.34,18.74 15.01,19.33 15.01,20 C15.01,21.1 15.9,22 17,22 C17.67,22 18.26,21.67 18.62,21.16 L21.46,24 L22.87,22.59 L1.41,1.13 Z M7,15 L8.1,13 L10.46,13 L12.46,15 L7,15 Z M16.05,12.94 C16.59,12.8 17.04,12.45 17.3,11.97 L20.88,5.48 C21.25,4.82 20.76,4 20,4 L7.12,4 L16.05,12.94 Z M7,18 C5.9,18 5.01,18.9 5.01,20 C5.01,21.1 5.9,22 7,22 C8.1,22 9,21.1 9,20 C9,18.9 8.1,18 7,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/remove_shopping_cart_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

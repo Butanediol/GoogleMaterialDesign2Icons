@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/supervised_user_circle_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.51,9.99 C12.51,8.34 11.16,6.99 9.51,6.99 C7.86,6.99 6.51,8.34 6.51,9.99 C6.51,11.64 7.86,12.99 9.51,12.99 C11.16,12.99 12.51,11.64 12.51,9.99 Z M9.51,10.99 C8.96,10.99 8.51,10.54 8.51,9.99 C8.51,9.44 8.96,8.99 9.51,8.99 C10.06,8.99 10.51,9.44 10.51,9.99 C10.51,10.54 10.06,10.99 9.51,10.99 Z M16.01,12.99 C17.12,12.99 18.01,12.1 18.01,10.99 C18.01,9.88 17.12,8.99 16.01,8.99 C14.9,8.99 14,9.88 14.01,10.99 C14.01,12.1 14.9,12.99 16.01,12.99 Z M12,2 C6.48,2 2,6.48 2,12 C2,17.52 6.48,22 12,22 C17.52,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M5.85,17.11 C6.53,16.57 8.12,16 9.51,16 C9.58,16 9.66,16.01 9.74,16.01 C9.98,15.37 10.41,14.72 11.04,14.15 C10.48,14.05 9.95,13.99 9.51,13.99 C8.21,13.99 6.12,14.44 4.78,15.42 C4.28,14.38 4,13.22 4,11.99 C4,7.58 7.59,3.99 12,3.99 C16.41,3.99 20,7.58 20,11.99 C20,13.19 19.73,14.33 19.25,15.36 C18.25,14.77 16.89,14.49 16.01,14.49 C14.49,14.49 11.51,15.3 11.51,17.19 L11.51,19.97 C9.24,19.84 7.22,18.76 5.85,17.11 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/supervised_user_circle_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

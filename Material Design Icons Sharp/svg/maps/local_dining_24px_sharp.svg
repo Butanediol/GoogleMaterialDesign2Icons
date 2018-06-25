@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_dining_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.7995383,13.1283283 L10.6295383,10.2983283 L3.6095383,3.28832834 C2.0495383,4.84832834 2.0495383,7.37832834 3.6095383,8.94832834 L7.7995383,13.1283283 Z M14.5795383,11.3183283 C16.1095383,12.0283283 18.2595383,11.5283283 19.8495383,9.93832834 C21.7595383,8.02832834 22.1295383,5.28832834 20.6595383,3.81832834 C19.1995383,2.35832834 16.4595383,2.71832834 14.5395383,4.62832834 C12.9495383,6.21832834 12.4495383,8.36832834 13.1595383,9.89832834 L3.3995383,19.6583283 L4.8095383,21.0683283 L11.6995383,14.1983283 L18.5795383,21.0783283 L19.9895383,19.6683283 L13.1095383,12.7883283 L14.5795383,11.3183283 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_dining_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

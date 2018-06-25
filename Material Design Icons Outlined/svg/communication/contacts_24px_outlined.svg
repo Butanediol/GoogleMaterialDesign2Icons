@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/contacts_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,4 L4,4 C2.9,4 2,4.9 2,6 L2,18 C2,19.1 2.9,20 4,20 L20,20 C21.1,20 22,19.1 22,18 L22,6 C22,4.9 21.1,4 20,4 Z M20,18 L4,18 L4,6 L20,6 L20,18 Z M4,0 L20,0 L20,2 L4,2 L4,0 Z M4,22 L20,22 L20,24 L4,24 L4,22 Z M12,12 C13.38,12 14.5,10.88 14.5,9.5 C14.5,8.12 13.38,7 12,7 C10.62,7 9.5,8.12 9.5,9.5 C9.5,10.88 10.62,12 12,12 Z M12,8.5 C12.55,8.5 13,8.95 13,9.5 C13,10.05 12.55,10.5 12,10.5 C11.45,10.5 11,10.05 11,9.5 C11,8.95 11.45,8.5 12,8.5 Z M17,15.99 C17,13.9 13.69,13 12,13 C10.31,13 7,13.9 7,15.99 L7,17 L17,17 L17,15.99 Z M8.81,15.5 C9.42,14.98 10.84,14.5 12,14.5 C13.17,14.5 14.59,14.98 15.2,15.5 L8.81,15.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/contacts_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

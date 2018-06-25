@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/perm_scan_wifi_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,3.08562262 C7.41,3.08562262 3.86,4.61562262 0.89,6.67562262 C0.4,7.00562262 0.3,7.67562262 0.67,8.13562262 L10.45,20.1756226 C11.25,21.1556226 12.75,21.1656226 13.55,20.1756226 L23.33,8.15562262 C23.7,7.69562262 23.6,7.02562262 23.11,6.69562262 C20.14,4.62562262 16.59,3.08562262 12,3.08562262 Z M12,16.0856226 C11.45,16.0856226 11,15.6356226 11,15.0856226 L11,11.0856226 C11,10.5356226 11.45,10.0856226 12,10.0856226 C12.55,10.0856226 13,10.5356226 13,11.0856226 L13,15.0856226 C13,15.6356226 12.55,16.0856226 12,16.0856226 Z M11,8.08562262 L11,6.08562262 L13,6.08562262 L13,8.08562262 L11,8.08562262 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/perm_scan_wifi_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

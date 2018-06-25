@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/multiline_chart_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,7.175 L20.59,5.765 L17.74,8.975 C15.68,6.655 12.83,5.255 9.61,5.255 C6.72,5.255 4.07,6.415 2,8.255 L3.42,9.675 C5.12,8.185 7.27,7.255 9.61,7.255 C12.35,7.255 14.7,8.515 16.38,10.495 L13.5,13.735 L9.5,9.735 L2,17.245 L3.5,18.745 L9.5,12.735 L13.5,16.735 L17.55,12.185 C18.3,13.535 18.8,15.085 18.99,16.735 L21,16.735 C20.78,14.435 20.05,12.345 18.96,10.595 L22,7.175 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/multiline_chart_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

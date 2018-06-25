@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/voice_over_off_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.7623002,5.86 L15.0823002,7.55 C15.8823002,8.68 15.9123002,10.13 15.1723002,11.29 L16.8723002,12.99 C18.7723002,10.97 18.7423002,8.01 16.7623002,5.86 Z M20.0723002,2.5 L18.4423002,4.13 C21.1623002,7.1 21.2023002,11.52 18.5823002,14.69 L20.2223002,16.33 C23.9623002,12.44 23.9323002,6.49 20.0723002,2.5 Z M9.43230016,5.54 L12.9623002,9.07 C12.7623002,7.21 11.2923002,5.74 9.43230016,5.54 Z M4.41230016,3.36 L3.00230016,4.77 L5.62230016,7.39 C5.23230016,8 5.00230016,8.72 5.00230016,9.5 C5.00230016,11.71 6.79230016,13.5 9.00230016,13.5 C9.78230016,13.5 10.5023002,13.27 11.1123002,12.88 L15.5123002,17.28 C13.7423002,16.1 10.7823002,15.5 9.00230016,15.5 C6.33230016,15.5 1.00230016,16.84 1.00230016,19.5 L1.00230016,21.5 L17.0023002,21.5 L17.0023002,19.5 C17.0023002,19.13 16.8923002,18.8 16.7123002,18.48 L19.7323002,21.5 L21.1423002,20.09 L4.41230016,3.36 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/voice_over_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/camera_front_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,20 L5,20 L5,22 L10,22 L10,24 L13,21 L10,18 L10,20 Z M14,20 L14,22 L19,22 L19,20 L14,20 Z M12,8 C13.1,8 14,7.1 14,6 C14,4.9 13.1,4 12,4 C10.9,4 10.01,4.9 10.01,6 C10.01,7.1 10.9,8 12,8 Z M19,0 L5,0 L5,18 L19,18 L19,0 Z M7,2 L17,2 L17,12.5 C17,10.83 13.67,10 12,10 C10.33,10 7,10.83 7,12.5 L7,2 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/camera_front_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

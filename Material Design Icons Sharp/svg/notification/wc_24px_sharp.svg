@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/wc_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,22 L5,14.5 L3.5,14.5 L3.5,7 L10.5,7 L10.5,14.5 L9,14.5 L9,22 L5,22 Z M17.5,22 L17.5,16 L20.5,16 L17.5,7 L14.5,7 L11.5,16 L14.5,16 L14.5,22 L17.5,22 Z M7,6 C8.11,6 9,5.11 9,4 C9,2.89 8.11,2 7,2 C5.89,2 5,2.89 5,4 C5,5.11 5.89,6 7,6 Z M16,6 C17.11,6 18,5.11 18,4 C18,2.89 17.11,2 16,2 C14.89,2 14,2.89 14,4 C14,5.11 14.89,6 16,6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/wc_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

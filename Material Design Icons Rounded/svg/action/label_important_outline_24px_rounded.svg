@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/label_important_outline_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.6969523,19 L4.52695226,19 C3.73695226,19 3.25695226,18.12 3.68695226,17.46 L7.19695226,12 L3.68695226,6.54 C3.25695226,5.88 3.73695226,5 4.52695226,5 L14.6969523,5 C15.3469523,5 15.9569523,5.31 16.3269523,5.84 L20.2869523,11.42 C20.5369523,11.77 20.5369523,12.23 20.2869523,12.58 L16.3269523,18.16 C15.9569523,18.68 15.3469523,19 14.6969523,19 Z M6.19695226,17 L14.6969523,17 L18.1969523,12 L14.6969523,7 L6.19695226,7 L9.69695226,12 L6.19695226,17 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/label_important_outline_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

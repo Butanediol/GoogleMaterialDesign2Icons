@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/trending_down_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.6462428,16.9511815 L18.0862428,15.5111815 L13.2062428,10.6311815 L9.9162428,13.9211815 C9.5262428,14.3111815 8.8962428,14.3111815 8.5062428,13.9211815 L2.5062428,7.91118152 C2.31899013,7.72435 2.2137572,7.47069916 2.2137572,7.20618152 C2.2137572,6.94166388 2.31899013,6.68801305 2.5062428,6.50118152 C2.8962428,6.11118152 3.5262428,6.11118152 3.9162428,6.50118152 L9.2062428,11.8011815 L12.4962428,8.51118152 C12.8862428,8.12118152 13.5162428,8.12118152 13.9062428,8.51118152 L19.4962428,14.0911815 L20.9362428,12.6511815 C21.2462428,12.3411815 21.7862428,12.5611815 21.7862428,13.0011815 L21.7862428,17.2911815 C21.7862428,17.5711815 21.5662428,17.7911815 21.2862428,17.7911815 L16.9962428,17.7911815 C16.5562428,17.8011815 16.3362428,17.2611815 16.6462428,16.9511815 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/trending_down_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

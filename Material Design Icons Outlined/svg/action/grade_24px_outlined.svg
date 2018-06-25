@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/grade_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,7.63 L12.97,9.92 L13.44,11.03 L14.64,11.13 L17.11,11.34 L15.23,12.97 L14.32,13.76 L14.59,14.94 L15.15,17.35 L13.03,16.07 L12,15.43 L10.97,16.05 L8.85,17.33 L9.41,14.92 L9.68,13.74 L8.77,12.95 L6.89,11.32 L9.36,11.11 L10.56,11.01 L11.03,9.9 L12,7.63 Z M12,2.5 L9.19,9.13 L2,9.74 L7.46,14.47 L5.82,21.5 L12,17.77 L18.18,21.5 L16.54,14.47 L22,9.74 L14.81,9.13 L12,2.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/grade_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

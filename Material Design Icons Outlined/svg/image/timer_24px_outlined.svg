@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/timer_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,1.505 L9,1.505 L9,3.505 L15,3.505 L15,1.505 Z M11,14.505 L13,14.505 L13,8.505 L11,8.505 L11,14.505 Z M19.03,7.885 L20.45,6.465 C20.02,5.955 19.55,5.475 19.04,5.055 L17.62,6.475 C16.07,5.235 14.12,4.495 12,4.495 C7.03,4.495 3,8.525 3,13.495 C3,18.465 7.02,22.495 12,22.495 C16.98,22.495 21,18.465 21,13.495 C21,11.385 20.26,9.435 19.03,7.885 Z M12,20.505 C8.13,20.505 5,17.375 5,13.505 C5,9.635 8.13,6.505 12,6.505 C15.87,6.505 19,9.635 19,13.505 C19,17.375 15.87,20.505 12,20.505 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/timer_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

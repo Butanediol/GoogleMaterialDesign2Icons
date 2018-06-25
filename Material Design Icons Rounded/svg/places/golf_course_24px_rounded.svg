@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/golf_course_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,17.6980222 C18.1715729,17.6980222 17.5,18.3695951 17.5,19.1980222 C17.5,20.0264494 18.1715729,20.6980222 19,20.6980222 C19.8284271,20.6980222 20.5,20.0264494 20.5,19.1980222 C20.5,18.3695951 19.8284271,17.6980222 19,17.6980222 Z M10.5,17.7280222 L10.5,8.67802223 L14.72,6.52802223 C15.45,6.15802223 15.45,5.09802223 14.71,4.73802223 L9.95,2.40802223 C9.28,2.07802223 8.5,2.55802223 8.5,3.29802223 L8.5,18.6980222 C8.5,19.2480222 8.05,19.6980222 7.5,19.6980222 C6.95,19.6980222 6.5,19.2480222 6.5,18.6980222 L6.5,17.9680222 C4.71,18.3180222 3.5,18.9580222 3.5,19.6980222 C3.5,20.7980222 6.19,21.6980222 9.5,21.6980222 C12.81,21.6980222 15.5,20.7980222 15.5,19.6980222 C15.5,18.7080222 13.34,17.8880222 10.5,17.7280222 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/golf_course_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

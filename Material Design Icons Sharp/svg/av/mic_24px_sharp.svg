@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/mic_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,14.5 C13.66,14.5 15,13.16 15,11.5 L15,5.5 C15,3.84 13.66,2.5 12,2.5 C10.34,2.5 9,3.84 9,5.5 L9,11.5 C9,13.16 10.34,14.5 12,14.5 Z M17,11.5 C17,14.26 14.76,16.5 12,16.5 C9.24,16.5 7,14.26 7,11.5 L5,11.5 C5,15.03 7.61,17.93 11,18.42 L11,21.5 L13,21.5 L13,18.42 C16.39,17.93 19,15.03 19,11.5 L17,11.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/mic_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

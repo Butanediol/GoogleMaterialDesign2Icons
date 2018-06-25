@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/format_line_spacing_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.25,7 L8.75,7 L5.25,3.5 L1.75,7 L4.25,7 L4.25,17 L1.75,17 L5.25,20.5 L8.75,17 L6.25,17 L6.25,7 Z M10.25,5 L10.25,7 L22.25,7 L22.25,5 L10.25,5 Z M10.25,19 L22.25,19 L22.25,17 L10.25,17 L10.25,19 Z M10.25,13 L22.25,13 L22.25,11 L10.25,11 L10.25,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/format_line_spacing_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

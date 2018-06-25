@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/image_aspect_ratio_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,10 L14,10 L14,12 L16,12 L16,10 Z M16,14 L14,14 L14,16 L16,16 L16,14 Z M8,10 L6,10 L6,12 L8,12 L8,10 Z M12,10 L10,10 L10,12 L12,12 L12,10 Z M22,4 L2,4 L2,20 L22,20 L22,4 Z M20,18 L4,18 L4,6 L20,6 L20,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/image_aspect_ratio_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

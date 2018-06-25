@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/grade_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="11.11 3.83 8.64 3.62 7.44 3.52 6.97 2.41 6 0.13 5.03 2.41 4.56 3.52 3.36 3.62 0.89 3.83 2.77 5.46 3.68 6.25 3.41 7.42 2.84 9.84 4.97 8.56 6 7.93 7.03 8.56 9.16 9.84 8.59 7.42 8.32 6.25 9.23 5.46"></polygon>
+        <path d="M20,7.24 L12.81,6.63 L10,0 L7.19,6.63 L0,7.24 L5.46,11.97 L3.82,19 L10,15.27 L16.18,19 L14.54,11.97 L20,7.24 Z M12.59,12.42 L13.15,14.83 L11.03,13.55 L10,12.93 L8.97,13.55 L6.85,14.83 L7.41,12.42 L7.68,11.24 L6.77,10.45 L4.89,8.82 L7.36,8.61 L8.56,8.51 L9.03,7.4 L10,5.13 L10.97,7.42 L11.44,8.53 L12.64,8.63 L15.11,8.84 L13.23,10.47 L12.32,11.26 L12.59,12.42 Z" id="path-3"></path>
+    </defs>
+    <g id="icon/action/grade_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(6.000000, 7.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

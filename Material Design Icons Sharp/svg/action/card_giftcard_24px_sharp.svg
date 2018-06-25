@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/card_giftcard_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.995,6.5 L17.815,6.5 C17.925,6.19 17.995,5.85 17.995,5.5 C17.995,3.84 16.655,2.5 14.995,2.5 C13.945,2.5 13.035,3.04 12.495,3.85 L11.995,4.52 L11.495,3.84 C10.955,3.04 10.045,2.5 8.995,2.5 C7.335,2.5 5.995,3.84 5.995,5.5 C5.995,5.85 6.065,6.19 6.175,6.5 L2.005,6.5 L2.005,21.5 L21.995,21.5 L21.995,6.5 Z M14.995,4.5 C15.545,4.5 15.995,4.95 15.995,5.5 C15.995,6.05 15.545,6.5 14.995,6.5 C14.445,6.5 13.995,6.05 13.995,5.5 C13.995,4.95 14.445,4.5 14.995,4.5 Z M8.995,4.5 C9.545,4.5 9.995,4.95 9.995,5.5 C9.995,6.05 9.545,6.5 8.995,6.5 C8.445,6.5 7.995,6.05 7.995,5.5 C7.995,4.95 8.445,4.5 8.995,4.5 Z M19.995,19.5 L3.995,19.5 L3.995,17.5 L19.995,17.5 L19.995,19.5 Z M19.995,14.5 L3.995,14.5 L3.995,8.5 L9.075,8.5 L6.995,11.33 L8.615,12.5 L11.995,7.9 L15.375,12.5 L16.995,11.33 L14.915,8.5 L19.995,8.5 L19.995,14.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/card_giftcard_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

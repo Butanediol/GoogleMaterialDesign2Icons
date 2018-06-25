@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/rounded_corner_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,16 L18,16 L18,18 L16,18 L16,16 Z M16,14 L18,14 L18,12 L16,12 L16,14 Z M0,10 L2,10 L2,8 L0,8 L0,10 Z M0,14 L2,14 L2,12 L0,12 L0,14 Z M0,6 L2,6 L2,4 L0,4 L0,6 Z M0,2 L2,2 L2,0 L0,0 L0,2 Z M4,2 L6,2 L6,0 L4,0 L4,2 Z M12,18 L14,18 L14,16 L12,16 L12,18 Z M8,18 L10,18 L10,16 L8,16 L8,18 Z M12,18 L14,18 L14,16 L12,16 L12,18 Z M4,18 L6,18 L6,16 L4,16 L4,18 Z M0,18 L2,18 L2,16 L0,16 L0,18 Z M18,5 C18,2.24 15.76,0 13,0 L8,0 L8,2 L13,2 C14.65,2 16,3.35 16,5 L16,10 L18,10 L18,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/rounded_corner_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(3.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

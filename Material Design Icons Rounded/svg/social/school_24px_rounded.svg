@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/social/school_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.45375,13.17625 L4.45375,15.98625 C4.45375,16.71625 4.85375,17.39625 5.49375,17.74625 L10.49375,20.47625 C11.09375,20.80625 11.81375,20.80625 12.41375,20.47625 L17.41375,17.74625 C18.05375,17.39625 18.45375,16.71625 18.45375,15.98625 L18.45375,13.17625 L12.41375,16.47625 C11.81375,16.80625 11.09375,16.80625 10.49375,16.47625 L4.45375,13.17625 Z M10.49375,3.51625 L2.06375,8.11625 C1.37375,8.49625 1.37375,9.49625 2.06375,9.87625 L10.49375,14.47625 C11.09375,14.80625 11.81375,14.80625 12.41375,14.47625 L20.45375,10.08625 L20.45375,15.99625 C20.45375,16.54625 20.90375,16.99625 21.45375,16.99625 C22.00375,16.99625 22.45375,16.54625 22.45375,15.99625 L22.45375,9.58625 C22.45375,9.21625 22.25375,8.88625 21.93375,8.70625 L12.41375,3.51625 C11.81375,3.19625 11.09375,3.19625 10.49375,3.51625 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/social/school_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

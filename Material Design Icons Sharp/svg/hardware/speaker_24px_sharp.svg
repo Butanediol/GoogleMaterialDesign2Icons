@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/speaker_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,2.005 L5,2.005 L5,21.995 L19,21.995 L19,2.005 Z M12,4.005 C13.1,4.005 14,4.905 14,6.005 C14,7.105 13.1,8.005 12,8.005 C10.89,8.005 10,7.105 10,6.005 C10,4.905 10.89,4.005 12,4.005 Z M12,20.005 C9.24,20.005 7,17.765 7,15.005 C7,12.245 9.24,10.005 12,10.005 C14.76,10.005 17,12.245 17,15.005 C17,17.765 14.76,20.005 12,20.005 Z M12,12.005 C10.34,12.005 9,13.345 9,15.005 C9,16.665 10.34,18.005 12,18.005 C13.66,18.005 15,16.665 15,15.005 C15,13.345 13.66,12.005 12,12.005 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/speaker_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

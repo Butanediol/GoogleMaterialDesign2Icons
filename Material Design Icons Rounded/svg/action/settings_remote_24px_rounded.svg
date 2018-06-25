@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/settings_remote_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.005,9.5 L9.005,9.5 C8.455,9.5 8.005,9.95 8.005,10.5 L8.005,22.5 C8.005,23.05 8.455,23.5 9.005,23.5 L15.005,23.5 C15.555,23.5 16.005,23.05 16.005,22.5 L16.005,10.5 C16.005,9.95 15.555,9.5 15.005,9.5 Z M12.005,15.5 C10.905,15.5 10.005,14.6 10.005,13.5 C10.005,12.4 10.905,11.5 12.005,11.5 C13.105,11.5 14.005,12.4 14.005,13.5 C14.005,14.6 13.105,15.5 12.005,15.5 Z M7.825,7.32 C8.175,7.67 8.725,7.7 9.125,7.42 C9.935,6.84 10.935,6.5 12.005,6.5 C13.075,6.5 14.075,6.84 14.885,7.41 C15.285,7.69 15.835,7.67 16.185,7.32 C16.615,6.89 16.575,6.18 16.095,5.82 C14.945,4.99 13.535,4.5 12.005,4.5 C10.475,4.5 9.065,4.99 7.915,5.82 C7.425,6.17 7.395,6.89 7.825,7.32 Z M12.005,0.5 C9.365,0.5 6.945,1.43 5.055,2.97 C4.595,3.35 4.555,4.04 4.975,4.46 C5.335,4.82 5.905,4.85 6.295,4.53 C7.845,3.27 9.835,2.5 12.005,2.5 C14.175,2.5 16.165,3.27 17.705,4.54 C18.095,4.86 18.665,4.83 19.025,4.47 C19.445,4.05 19.405,3.36 18.945,2.98 C17.065,1.43 14.645,0.5 12.005,0.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/settings_remote_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

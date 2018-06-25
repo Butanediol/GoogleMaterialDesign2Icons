@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/airline_seat_flat_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,6.5 L22,12.5 L9,12.5 L9,6.5 L22,6.5 Z M2,13.5 L2,15.5 L8,15.5 L8,17.5 L16,17.5 L16,15.5 L22,15.5 L22,13.5 L2,13.5 Z M7.14,11.6 C8.3,10.41 8.28,8.52 7.1,7.36 C5.91,6.2 4.02,6.22 2.86,7.4 C1.7,8.59 1.72,10.48 2.9,11.64 C4.09,12.8 5.98,12.78 7.14,11.6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/airline_seat_flat_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

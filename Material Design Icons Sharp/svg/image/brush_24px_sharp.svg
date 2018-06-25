@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/brush_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.295,14.205 C5.635,14.205 4.295,15.545 4.295,17.205 C4.295,18.515 3.135,19.205 2.295,19.205 C3.215,20.425 4.785,21.205 6.295,21.205 C8.505,21.205 10.295,19.415 10.295,17.205 C10.295,15.545 8.955,14.205 7.295,14.205 Z M21.705,5.545 L18.955,2.795 L9.295,12.455 L12.045,15.205 L21.705,5.545 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/brush_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

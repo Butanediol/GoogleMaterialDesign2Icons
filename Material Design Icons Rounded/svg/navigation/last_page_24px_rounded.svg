@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/last_page_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.29125,8.11 L10.18125,12 L6.29125,15.89 C5.90125,16.28 5.90125,16.91 6.29125,17.3 C6.68125,17.69 7.31125,17.69 7.70125,17.3 L12.29125,12.71 C12.68125,12.32 12.68125,11.69 12.29125,11.3 L7.70125,6.7 C7.51441847,6.51274733 7.26076764,6.40751439 6.99625,6.40751439 C6.73173236,6.40751439 6.47808153,6.51274733 6.29125,6.7 C5.91125,7.09 5.91125,7.73 6.29125,8.11 Z M17.00125,6 C17.55125,6 18.00125,6.45 18.00125,7 L18.00125,17 C18.00125,17.55 17.55125,18 17.00125,18 C16.45125,18 16.00125,17.55 16.00125,17 L16.00125,7 C16.00125,6.45 16.45125,6 17.00125,6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/last_page_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

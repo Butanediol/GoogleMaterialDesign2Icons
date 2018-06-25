@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/playlist_add_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14,9 L2,9 L2,11 L14,11 L14,9 Z M14,5 L2,5 L2,7 L14,7 L14,5 Z M18,13 L18,9 L16,9 L16,13 L12,13 L12,15 L16,15 L16,19 L18,19 L18,15 L22,15 L22,13 L18,13 Z M2,15 L10,15 L10,13 L2,13 L2,15 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/playlist_add_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

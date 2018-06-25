@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/call_missed_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.09875,7.70375 L12.20875,14.59375 L6.61875,9.00375 L10.20875,9.00375 C10.75875,9.00375 11.20875,8.55375 11.20875,8.00375 C11.20875,7.45375 10.75875,7.00375 10.20875,7.00375 L4.20875,7.00375 C3.65875,7.00375 3.20875,7.45375 3.20875,8.00375 L3.20875,14.00375 C3.20875,14.55375 3.65875,15.00375 4.20875,15.00375 C4.75875,15.00375 5.20875,14.55375 5.20875,14.00375 L5.20875,10.41375 L11.49875,16.70375 C11.88875,17.09375 12.51875,17.09375 12.90875,16.70375 L20.49875,9.11375 C20.88875,8.72375 20.88875,8.09375 20.49875,7.70375 C20.11875,7.32375 19.47875,7.32375 19.09875,7.70375 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/call_missed_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

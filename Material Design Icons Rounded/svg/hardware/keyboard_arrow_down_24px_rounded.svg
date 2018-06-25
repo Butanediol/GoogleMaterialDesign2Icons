@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/keyboard_arrow_down_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.1249928,9 L12.0049928,12.88 L15.8849928,9 C16.2749928,8.61 16.9049928,8.61 17.2949928,9 C17.6849928,9.39 17.6849928,10.02 17.2949928,10.41 L12.7049928,15 C12.3149928,15.39 11.6849928,15.39 11.2949928,15 L6.7049928,10.41 C6.51774013,10.2231685 6.4125072,9.96951764 6.4125072,9.705 C6.4125072,9.44048236 6.51774013,9.18683153 6.7049928,9 C7.0949928,8.62 7.7349928,8.61 8.1249928,9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/keyboard_arrow_down_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

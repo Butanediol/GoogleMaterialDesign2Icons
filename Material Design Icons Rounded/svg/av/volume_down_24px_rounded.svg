@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/volume_down_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.75,12.005 C18.75,10.235 17.73,8.715 16.25,7.975 L16.25,16.025 C17.73,15.295 18.75,13.775 18.75,12.005 Z M5.25,10.005 L5.25,14.005 C5.25,14.555 5.7,15.005 6.25,15.005 L9.25,15.005 L12.54,18.295 C13.17,18.925 14.25,18.475 14.25,17.585 L14.25,6.415 C14.25,5.525 13.17,5.075 12.54,5.705 L9.25,9.005 L6.25,9.005 C5.7,9.005 5.25,9.455 5.25,10.005 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/volume_down_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

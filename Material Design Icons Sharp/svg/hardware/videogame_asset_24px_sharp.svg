@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/videogame_asset_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23,6 L1,6 L1,18 L23,18 L23,6 Z M11,13 L8,13 L8,16 L6,16 L6,13 L3,13 L3,11 L6,11 L6,8 L8,8 L8,11 L11,11 L11,13 Z M15.5,15 C14.67,15 14,14.33 14,13.5 C14,12.67 14.67,12 15.5,12 C16.33,12 17,12.67 17,13.5 C17,14.33 16.33,15 15.5,15 Z M19.5,12 C18.67,12 18,11.33 18,10.5 C18,9.67 18.67,9 19.5,9 C20.33,9 21,9.67 21,10.5 C21,11.33 20.33,12 19.5,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/videogame_asset_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

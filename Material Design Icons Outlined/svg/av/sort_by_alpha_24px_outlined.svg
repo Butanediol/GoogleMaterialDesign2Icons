@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/sort_by_alpha_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.215,4.66 L10.495,4.66 L12.855,2.3 L15.215,4.66 Z M10.525,19.37 L15.185,19.37 L12.855,21.7 L10.525,19.37 Z M6.375,6.27 L1.875,17.73 L3.715,17.73 L4.635,15.28 L9.745,15.28 L10.665,17.73 L12.505,17.73 L8.015,6.27 L6.375,6.27 Z M5.245,13.64 L7.185,8.46 L9.125,13.64 L5.245,13.64 Z M16.005,16.14 L22.125,16.14 L22.125,17.73 L13.595,17.73 L13.595,16.44 L19.515,7.88 L13.635,7.88 L13.635,6.28 L21.935,6.28 L21.935,7.54 L16.005,16.14 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/sort_by_alpha_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

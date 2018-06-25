@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/directions_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.71,11.29 L12.71,2.29 C12.32,1.9 11.69,1.9 11.3,2.29 L2.3,11.29 C1.91,11.68 1.91,12.31 2.3,12.7 L11.3,21.7 C11.69,22.09 12.32,22.09 12.71,21.7 L21.71,12.7 C22.1,12.32 22.1,11.69 21.71,11.29 Z M14,14.5 L14,12 L10,12 L10,15 L8,15 L8,11 C8,10.45 8.45,10 9,10 L14,10 L14,7.5 L17.5,11 L14,14.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/directions_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

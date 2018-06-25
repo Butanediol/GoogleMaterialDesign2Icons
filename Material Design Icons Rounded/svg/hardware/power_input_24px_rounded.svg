@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/power_input_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.5,10 C2.5,10.55 2.95,11 3.5,11 L20.5,11 C21.05,11 21.5,10.55 21.5,10 C21.5,9.45 21.05,9 20.5,9 L3.5,9 C2.95,9 2.5,9.45 2.5,10 Z M3.5,15 L6.5,15 C7.05,15 7.5,14.55 7.5,14 C7.5,13.45 7.05,13 6.5,13 L3.5,13 C2.95,13 2.5,13.45 2.5,14 C2.5,14.55 2.95,15 3.5,15 Z M10.5,15 L13.5,15 C14.05,15 14.5,14.55 14.5,14 C14.5,13.45 14.05,13 13.5,13 L10.5,13 C9.95,13 9.5,13.45 9.5,14 C9.5,14.55 9.95,15 10.5,15 Z M17.5,15 L20.5,15 C21.05,15 21.5,14.55 21.5,14 C21.5,13.45 21.05,13 20.5,13 L17.5,13 C16.95,13 16.5,13.45 16.5,14 C16.5,14.55 16.95,15 17.5,15 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/power_input_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

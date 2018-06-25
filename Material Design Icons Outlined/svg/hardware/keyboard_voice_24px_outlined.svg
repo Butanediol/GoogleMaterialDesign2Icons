@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/keyboard_voice_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,14.5 C13.66,14.5 14.99,13.16 14.99,11.5 L15,5.5 C15,3.84 13.66,2.5 12,2.5 C10.34,2.5 9,3.84 9,5.5 L9,11.5 C9,13.16 10.34,14.5 12,14.5 Z M10.8,5.4 C10.8,4.74 11.34,4.2 12,4.2 C12.66,4.2 13.2,4.74 13.2,5.4 L13.19,11.6 C13.19,12.26 12.66,12.8 12,12.8 C11.34,12.8 10.8,12.26 10.8,11.6 L10.8,5.4 Z M17.3,11.5 C17.3,14.5 14.76,16.6 12,16.6 C9.24,16.6 6.7,14.5 6.7,11.5 L5,11.5 C5,14.91 7.72,17.73 11,18.22 L11,21.5 L13,21.5 L13,18.22 C16.28,17.74 19,14.92 19,11.5 L17.3,11.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/keyboard_voice_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

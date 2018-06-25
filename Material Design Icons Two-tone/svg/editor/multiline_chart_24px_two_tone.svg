@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/multiline_chart_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,1.92 L18.59,0.51 L15.74,3.72 C13.68,1.4 10.83,0 7.61,0 C4.72,0 2.07,1.16 0,3 L1.42,4.42 C3.12,2.93 5.27,2 7.61,2 C10.35,2 12.7,3.26 14.38,5.24 L11.5,8.48 L7.5,4.48 L0,11.99 L1.5,13.49 L7.5,7.48 L11.5,11.48 L15.55,6.93 C16.3,8.28 16.8,9.83 16.99,11.48 L19,11.48 C18.78,9.18 18.05,7.09 16.96,5.34 L20,1.92 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/multiline_chart_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(2.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

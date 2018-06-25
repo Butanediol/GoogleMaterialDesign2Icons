@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/fiber_dvr_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.5,10.5 L19.5,10.5 L19.5,11.5 L17.5,11.5 L17.5,10.5 Z M4.5,10.5 L6.5,10.5 L6.5,13.5 L4.5,13.5 L4.5,10.5 Z M23,3 L1,3 L1,21 L23,21 L23,3 Z M8,13.5 C8,14.35 7.35,15 6.5,15 L3,15 L3,9 L6.5,9 C7.35,9 8,9.65 8,10.5 L8,13.5 Z M12.62,15 L11.12,15 L9.37,9 L10.87,9 L11.87,12.43 L12.87,9 L14.37,9 L12.62,15 Z M21,12.9 L20.1,12.9 L21,15 L19.5,15 L18.65,13 L17.5,13 L17.5,15 L16,15 L16,9 L21,9 L21,12.9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/fiber_dvr_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

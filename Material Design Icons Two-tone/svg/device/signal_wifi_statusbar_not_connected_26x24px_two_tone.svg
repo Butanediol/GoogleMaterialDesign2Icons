@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/signal_wifi_statusbar_not_connected_26x24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.7692308,11.0208333 C14.7692308,8.37583333 16.8369231,6.22916667 19.3846154,6.22916667 C20.1692308,6.22916667 20.8984615,6.44958333 21.5446154,6.81375 L23.6123077,4.14 C23.1692308,3.795 18.7015385,0 12,0 C5.29846154,0 0.830769231,3.795 0.387692308,4.14 L12,19.1666667 L15.8953846,14.1258333 C15.2030769,13.2920833 14.7692308,12.2091667 14.7692308,11.0208333 Z" id="path-1"></path>
+        <path d="M3.38461538,0.666666667 C1.60307692,0.666666667 0.153846154,2.17125 0.153846154,4.02083333 L1.76923077,4.02083333 C1.76923077,3.09125 2.48923077,2.34375 3.38461538,2.34375 C4.28,2.34375 5,3.09125 5,4.02083333 C5,4.48083333 4.81538462,4.9025 4.52923077,5.20916667 L3.52307692,6.26333333 C2.94153846,6.86708333 2.58153846,7.71041667 2.58153846,8.63041667 L2.58153846,9.05208333 L4.19692308,9.05208333 C4.19692308,7.79666667 4.55692308,7.28875 5.14769231,6.685 L5.86769231,5.91833333 C6.32923077,5.43916667 6.62461538,4.76833333 6.62461538,4.03041667 C6.61538462,2.17125 5.16615385,0.666666667 3.38461538,0.666666667 Z M2.50769231,12.11875 L4.26153846,12.11875 L4.26153846,10.2979167 L2.50769231,10.2979167 L2.50769231,12.11875 Z" id="path-3"></path>
+    </defs>
+    <g id="icon/device/signal_wifi_statusbar_not_connected_26x24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(0.000000, 2.416667)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(16.000000, 9.416667)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

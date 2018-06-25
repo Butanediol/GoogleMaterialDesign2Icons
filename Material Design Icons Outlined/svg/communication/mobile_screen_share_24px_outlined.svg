@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/mobile_screen_share_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.995,1 L6.995,1 C5.895,1 5.005,1.85 5.005,2.95 L5.005,20.95 C5.005,22.05 5.895,23 6.995,23 L16.995,23 C18.095,23 18.995,22.05 18.995,20.95 L18.995,2.95 C18.995,1.85 18.095,1 16.995,1 Z M16.995,19 L6.995,19 L6.995,5 L16.995,5 L16.995,19 Z M12.795,13.24 L12.795,14.99 L15.995,12 L12.795,9.02 L12.795,10.72 C9.685,11.15 8.445,13.28 7.995,15.42 C9.105,13.92 10.575,13.24 12.795,13.24 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/mobile_screen_share_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/airplanemode_inactive_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.14,15.660466 C20.81,15.870466 21.5,15.370466 21.5,14.660466 C21.5,14.300466 21.31,13.970466 21.01,13.770466 L13.5,9.080466 L13.5,3.580466 C13.5,2.750466 12.83,2.080466 12,2.080466 C11.17,2.080466 10.5,2.750466 10.5,3.580466 L10.5,6.690466 L19.15,15.340466 L20.14,15.660466 Z M19.23,21.080466 L20.64,19.670466 L4.91,3.940466 L3.5,5.350466 L8.49,10.340466 L2.99,13.780466 C2.69,13.960466 2.5,14.300466 2.5,14.660466 C2.5,15.360466 3.18,15.870466 3.86,15.660466 L10.5,13.580466 L10.5,19.080466 L8.7,20.430466 C8.57,20.520466 8.5,20.670466 8.5,20.830466 L8.5,21.420466 C8.5,21.750466 8.82,21.990466 9.14,21.900466 L12,21.080466 L14.86,21.900466 C15.18,21.990466 15.5,21.750466 15.5,21.420466 L15.5,20.830466 C15.5,20.670466 15.43,20.520466 15.3,20.430466 L13.5,19.080466 L13.5,15.350466 L19.23,21.080466 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/airplanemode_inactive_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

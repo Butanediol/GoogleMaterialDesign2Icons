@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/tonality_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,8 C0,12.08 3.06,15.44 7,15.93 L7,0.07 C3.05,0.56 0,3.92 0,8 Z" id="path-1"></path>
+        <path d="M10,0 C4.48,0 0,4.48 0,10 C0,15.52 4.48,20 10,20 C15.52,20 20,15.52 20,10 C20,4.48 15.52,0 10,0 Z M9,17.93 C5.06,17.44 2,14.08 2,10 C2,5.92 5.05,2.56 9,2.07 L9,17.93 Z M11,2.07 C12.03,2.2 13,2.52 13.87,3 L11,3 L11,2.07 Z M11,5 L16.24,5 C16.49,5.31 16.72,5.65 16.92,6 L11,6 L11,5 Z M11,8 L17.74,8 C17.82,8.33 17.89,8.66 17.93,9 L11,9 L11,8 Z M11,17.93 L11,17 L13.87,17 C13,17.48 12.03,17.8 11,17.93 Z M16.24,15 L11,15 L11,14 L16.92,14 C16.72,14.35 16.49,14.69 16.24,15 Z M17.74,12 L11,12 L11,11 L17.93,11 C17.89,11.34 17.82,11.67 17.74,12 Z" id="path-3"></path>
+    </defs>
+    <g id="icon/image/tonality_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(4.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

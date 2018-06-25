@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/network_check_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.9,4.77108045 C15.73,4.77108045 15.58,4.86108045 15.49,5.00108045 L15.42,5.15108045 L10.24,16.8010805 C10.08,17.0910805 9.98,17.4110805 9.98,17.7610805 C9.98,18.8710805 10.88,19.7710805 11.99,19.7710805 C12.95,19.7710805 13.76,19.0910805 13.95,18.1810805 L13.96,18.1510805 L16.4,5.27108045 C16.4,4.99108045 16.18,4.77108045 15.9,4.77108045 Z M1,8.77108045 L3,10.7710805 C5.88,7.89108045 9.79,6.69108045 13.53,7.15108045 L14.72,4.47108045 C9.89,3.61108045 4.74,5.04108045 1,8.77108045 Z M21,10.7710805 L23,8.77108045 C21.36,7.13108045 19.45,5.95108045 17.41,5.20108045 L16.88,8.02108045 C18.38,8.64108045 19.78,9.55108045 21,10.7710805 Z M17,14.7710805 L19,12.7710805 C18.2,11.9710805 17.3,11.3510805 16.34,10.8810805 L15.79,13.8010805 C16.21,14.0710805 16.62,14.3910805 17,14.7710805 Z M5,12.7710805 L7,14.7710805 C8.13,13.6410805 9.56,12.9810805 11.03,12.7710805 L12.31,9.89108045 C9.68,9.81108045 7.01,10.7610805 5,12.7710805 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/network_check_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

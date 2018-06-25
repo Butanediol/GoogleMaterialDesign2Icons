@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/feedback_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.995,2 L4.005,2 C2.905,2 2.005,2.9 2.005,4 L2.005,22 L5.995,18 L19.995,18 C21.095,18 21.995,17.1 21.995,16 L21.995,4 C21.995,2.9 21.095,2 19.995,2 Z M12.995,14 L10.995,14 L10.995,12 L12.995,12 L12.995,14 Z M12.995,9 C12.995,9.55 12.545,10 11.995,10 C11.445,10 10.995,9.55 10.995,9 L10.995,7 C10.995,6.45 11.445,6 11.995,6 C12.545,6 12.995,6.45 12.995,7 L12.995,9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/feedback_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

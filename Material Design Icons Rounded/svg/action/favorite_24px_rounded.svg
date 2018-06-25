@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/favorite_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.3497258,20.3071987 C12.5897258,20.9971987 11.4197258,20.9971987 10.6597258,20.2971987 L10.5497258,20.1971987 C5.29972579,15.4471987 1.86972579,12.3371987 1.99972579,8.4571987 C2.05972579,6.7571987 2.92972579,5.1271987 4.33972579,4.1671987 C6.97972579,2.3671987 10.2397258,3.2071987 11.9997258,5.2671987 C13.7597258,3.2071987 17.0197258,2.3571987 19.6597258,4.1671987 C21.0697258,5.1271987 21.9397258,6.7571987 21.9997258,8.4571987 C22.1397258,12.3371987 18.6997258,15.4471987 13.4497258,20.2171987 L13.3497258,20.3071987 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/favorite_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

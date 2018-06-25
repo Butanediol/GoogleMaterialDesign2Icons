@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/domain_disabled_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.255,0.845 L0.845,2.255 L2.845,4.255 L2.845,20.155 L18.745,20.155 L21.745,23.155 L23.155,21.745 L2.255,0.845 Z M6.845,18.155 L4.845,18.155 L4.845,16.155 L6.845,16.155 L6.845,18.155 Z M6.845,14.155 L4.845,14.155 L4.845,12.155 L6.845,12.155 L6.845,14.155 Z M4.845,10.155 L4.845,8.155 L6.845,8.155 L6.845,10.155 L4.845,10.155 Z M10.845,18.155 L8.845,18.155 L8.845,16.155 L10.845,16.155 L10.845,18.155 Z M8.845,14.155 L8.845,12.155 L10.845,12.155 L10.845,14.155 L8.845,14.155 Z M12.845,18.155 L12.845,16.155 L14.745,16.155 L16.745,18.155 L12.845,18.155 Z M8.845,4.155 L10.845,4.155 L10.845,6.155 L10.395,6.155 L12.845,8.605 L12.845,8.155 L20.845,8.155 L20.845,16.605 L22.845,18.605 L22.845,6.155 L12.845,6.155 L12.845,2.155 L6.395,2.155 L8.845,4.605 L8.845,4.155 Z M16.845,10.155 L18.845,10.155 L18.845,12.155 L16.845,12.155 L16.845,10.155 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/domain_disabled_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

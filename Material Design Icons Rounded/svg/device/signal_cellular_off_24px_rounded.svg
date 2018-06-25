@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/signal_cellular_off_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.9276077,2.91575582 C20.9276077,2.02575582 19.8476077,1.57575582 19.2176077,2.20575582 L12.6176077,8.80575582 L20.9276077,17.1157558 L20.9276077,2.91575582 Z M21.3676077,20.3857558 L5.54760766,4.56575582 C5.36077613,4.37850315 5.1071253,4.27327021 4.84260766,4.27327021 C4.57809002,4.27327021 4.32443919,4.37850315 4.13760766,4.56575582 C3.74760766,4.95575582 3.74760766,5.58575582 4.13760766,5.97575582 L9.79760766,11.6357558 L2.63760766,18.7957558 C2.00760766,19.4257558 2.44760766,20.5057558 3.33760766,20.5057558 L18.6576077,20.5057558 L19.9476077,21.7957558 C20.3376077,22.1857558 20.9676077,22.1857558 21.3576077,21.7957558 C21.7576077,21.4057558 21.7576077,20.7757558 21.3676077,20.3857558 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/signal_cellular_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

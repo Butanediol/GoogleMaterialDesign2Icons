@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/laptop_chromebook_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23,18.5 L22,18.5 L22,5.5 C22,4.4 21.1,3.5 20,3.5 L4,3.5 C2.9,3.5 2,4.4 2,5.5 L2,18.5 L1,18.5 C0.45,18.5 0,18.95 0,19.5 C0,20.05 0.45,20.5 1,20.5 L23,20.5 C23.55,20.5 24,20.05 24,19.5 C24,18.95 23.55,18.5 23,18.5 Z M13.5,18.5 L10.5,18.5 C10.22,18.5 10,18.28 10,18 C10,17.72 10.22,17.5 10.5,17.5 L13.5,17.5 C13.78,17.5 14,17.72 14,18 C14,18.28 13.78,18.5 13.5,18.5 Z M20,15.5 L4,15.5 L4,6.5 C4,5.95 4.45,5.5 5,5.5 L19,5.5 C19.55,5.5 20,5.95 20,6.5 L20,15.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/laptop_chromebook_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/social/plus_one_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.5,8.36402577 C8.95,8.36402577 8.5,8.81402577 8.5,9.36402577 L8.5,12.3640258 L5.5,12.3640258 C4.95,12.3640258 4.5,12.8140258 4.5,13.3640258 C4.5,13.9140258 4.95,14.3640258 5.5,14.3640258 L8.5,14.3640258 L8.5,17.3640258 C8.5,17.9140258 8.95,18.3640258 9.5,18.3640258 C10.05,18.3640258 10.5,17.9140258 10.5,17.3640258 L10.5,14.3640258 L13.5,14.3640258 C14.05,14.3640258 14.5,13.9140258 14.5,13.3640258 C14.5,12.8140258 14.05,12.3640258 13.5,12.3640258 L10.5,12.3640258 L10.5,9.36402577 C10.5,8.81402577 10.05,8.36402577 9.5,8.36402577 Z M15,7.15402577 C15,7.72402577 15.52,8.15402577 16.08,8.04402577 L17.5,7.76402577 L17.5,17.3640258 C17.5,17.9140258 17.95,18.3640258 18.5,18.3640258 C19.05,18.3640258 19.5,17.9140258 19.5,17.3640258 L19.5,6.63402577 C19.5,5.98402577 18.9,5.51402577 18.27,5.66402577 L15.7,6.28402577 C15.29,6.37402577 15,6.74402577 15,7.15402577 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/social/plus_one_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/fast_forward_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.195,16.89 L10.965,12.82 C11.525,12.42 11.525,11.58 10.965,11.19 L5.195,7.11 C4.525,6.65 3.615,7.12 3.615,7.93 L3.615,16.07 C3.615,16.88 4.525,17.35 5.195,16.89 Z M12.615,7.93 L12.615,16.07 C12.615,16.88 13.525,17.35 14.195,16.89 L19.965,12.82 C20.525,12.42 20.525,11.58 19.965,11.19 L14.195,7.12 C13.525,6.65 12.615,7.12 12.615,7.93 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/fast_forward_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

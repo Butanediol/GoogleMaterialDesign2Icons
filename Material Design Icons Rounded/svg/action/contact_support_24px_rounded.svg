@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/contact_support_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2 C7.31,2 3.5,5.81 3.5,10.5 C3.5,15.19 7.31,19 12,19 L12.5,19 L12.5,22 C17.36,19.66 20.5,15 20.5,10.5 C20.5,5.81 16.69,2 12,2 Z M13,16.5 L11,16.5 L11,14.5 L13,14.5 L13,16.5 Z M13.4,11.72 C13.39,11.73 13.38,11.75 13.37,11.77 C13.32,11.85 13.27,11.93 13.23,12.01 C13.21,12.04 13.2,12.08 13.19,12.12 C13.16,12.19 13.13,12.26 13.11,12.33 C13.04,12.54 13.01,12.76 13.01,13.01 L11,13.01 C11,12.5 11.08,12.07 11.2,11.71 C11.2,11.7 11.2,11.69 11.21,11.68 C11.22,11.64 11.25,11.62 11.26,11.58 C11.32,11.42 11.39,11.28 11.48,11.14 C11.51,11.09 11.55,11.04 11.58,10.99 C11.61,10.95 11.63,10.9 11.66,10.87 L11.67,10.88 C12.51,9.78 13.88,9.44 13.99,8.2 C14.08,7.22 13.38,6.27 12.42,6.07 C11.38,5.85 10.44,6.46 10.12,7.35 C9.98,7.71 9.65,8 9.24,8 L9.04,8 C8.44,8 8,7.41 8.17,6.83 C8.72,5.01 10.54,3.74 12.6,4.04 C14.29,4.29 15.64,5.68 15.93,7.37 C16.37,9.81 14.3,10.4 13.4,11.72 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/contact_support_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

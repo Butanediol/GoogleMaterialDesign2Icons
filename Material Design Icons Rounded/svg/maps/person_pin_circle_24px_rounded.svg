@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/person_pin_circle_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2.265 C8.14,2.265 5,5.405 5,9.265 C5,13.435 9.42,19.185 11.24,21.375 C11.64,21.855 12.37,21.855 12.77,21.375 C14.58,19.185 19,13.435 19,9.265 C19,5.405 15.86,2.265 12,2.265 Z M12,4.265 C13.1,4.265 14,5.165 14,6.265 C14,7.375 13.1,8.265 12,8.265 C10.9,8.265 10,7.375 10,6.265 C10,5.165 10.9,4.265 12,4.265 Z M12,14.265 C10.33,14.265 8.86,13.415 8,12.115 C8.02,10.795 10.67,10.065 12,10.065 C13.33,10.065 15.98,10.795 16,12.115 C15.14,13.415 13.67,14.265 12,14.265 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/person_pin_circle_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

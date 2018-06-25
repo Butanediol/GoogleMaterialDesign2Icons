@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/signal_wifi_statusbar_null_26x24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,4.90354167 C15.9230769,4.90354167 19.0338462,6.350625 20.9261538,7.53895833 L12.72,18.1572917 C12.3507692,18.6364583 11.6492308,18.6364583 11.28,18.1572917 L3.07384615,7.53895833 C4.96615385,6.350625 8.07692308,4.90354167 12,4.90354167 Z M12,2.986875 C5.29846154,2.986875 0.830769231,6.781875 0.387692308,7.126875 L10.56,20.294375 C11.2984615,21.2527083 12.7015385,21.2527083 13.44,20.294375 L23.6123077,7.126875 C23.1692308,6.781875 18.7015385,2.986875 12,2.986875 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/signal_wifi_statusbar_null_26x24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

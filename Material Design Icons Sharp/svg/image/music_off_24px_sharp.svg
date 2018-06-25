@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/music_off_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.93,9.67938472 L13.93,7.06938472 L17.93,7.06938472 L17.93,3.06938472 L11.93,3.06938472 L11.93,7.67938472 L13.93,9.67938472 Z M4.34,2.92938472 L2.93,4.33938472 L11.93,13.3393847 L11.93,13.6193847 C10.99,13.0793847 9.83,12.8693847 8.6,13.2993847 C7.26,13.7793847 6.23,14.9693847 5.99,16.3693847 C5.53,19.1093847 7.85,21.4493847 10.58,21.0193847 C12.54,20.7093847 13.93,18.9093847 13.93,16.9193847 L13.93,15.3393847 L19.66,21.0693847 L21.07,19.6593847 L11.93,10.5093847 L4.34,2.92938472 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/music_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

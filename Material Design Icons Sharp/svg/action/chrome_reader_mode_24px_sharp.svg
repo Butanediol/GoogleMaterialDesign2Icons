@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/chrome_reader_mode_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,11.5 L20,11.5 L20,13 L13,13 L13,11.5 Z M13,9 L20,9 L20,10.5 L13,10.5 L13,9 Z M13,14 L20,14 L20,15.5 L13,15.5 L13,14 Z M23,3.5 L1,3.5 L1,20.5 L23,20.5 L23,3.5 Z M21,18.5 L12,18.5 L12,5.5 L21,5.5 L21,18.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/chrome_reader_mode_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

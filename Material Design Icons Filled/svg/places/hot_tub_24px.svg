@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/hot_tub_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,8 C8.1045695,8 9,7.1045695 9,6 C9,4.8954305 8.1045695,4 7,4 C5.8954305,4 5,4.8954305 5,6 C5,7.1045695 5.8954305,8 7,8 Z M17.42,7.21 C17.99,7.83 18.24,8.62 18.09,9.41 L17.98,10 L19.89,10 L19.95,9.57 C20.16,8.21 19.68,6.86 18.65,5.86 L18.58,5.79 C18.01,5.17 17.76,4.38 17.91,3.59 L18,3 L16.11,3 L16.05,3.43 C15.85,4.79 16.32,6.14 17.35,7.15 L17.42,7.21 Z M11.15,12 C10.84,11.78 10.56,11.54 10.33,11.28 L8.93,9.73 C8.74,9.52 8.5,9.35 8.24,9.23 C7.95,9.09 7.62,9 7.28,9 L7.25,9 C6.01,9 5,10.01 5,11.25 L5,12 L2,12 L2,20 C2,21.1 2.9,22 4,22 L20,22 C21.1,22 22,21.1 22,20 L22,12 L11.15,12 Z M7,20 L5,20 L5,14 L7,14 L7,20 Z M11,20 L9,20 L9,14 L11,14 L11,20 Z M15,20 L13,20 L13,14 L15,14 L15,20 Z M19,20 L17,20 L17,14 L19,14 L19,20 Z M13.42,7.21 C13.99,7.83 14.24,8.62 14.09,9.41 L13.98,10 L15.89,10 L15.95,9.57 C16.16,8.21 15.68,6.86 14.65,5.86 L14.58,5.79 C14.01,5.17 13.76,4.38 13.91,3.59 L14,3 L12.11,3 L12.05,3.43 C11.85,4.79 12.32,6.14 13.35,7.15 L13.42,7.21 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/hot_tub_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

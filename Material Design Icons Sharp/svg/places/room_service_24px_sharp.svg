@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/room_service_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,17 L22,17 L22,19 L2,19 L2,17 Z M13.84,7.79 C13.94,7.55 14,7.28 14,7 C14,5.9 13.1,5 12,5 C10.9,5 10,5.9 10,7 C10,7.28 10.06,7.55 10.16,7.79 C6.25,8.6 3.27,11.93 3,16 L21,16 C20.73,11.93 17.75,8.6 13.84,7.79 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/room_service_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

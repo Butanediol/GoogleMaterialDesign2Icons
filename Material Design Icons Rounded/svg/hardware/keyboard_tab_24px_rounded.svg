@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/keyboard_tab_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.79,8.12 L15.67,11 L2.5,11 C1.95,11 1.5,11.45 1.5,12 C1.5,12.55 1.95,13 2.5,13 L15.67,13 L12.79,15.88 C12.4,16.27 12.4,16.9 12.79,17.29 C13.18,17.68 13.81,17.68 14.2,17.29 L18.79,12.7 C19.18,12.31 19.18,11.68 18.79,11.29 L14.2,6.7 C14.0131685,6.51274733 13.7595176,6.40751439 13.495,6.40751439 C13.2304824,6.40751439 12.9768315,6.51274733 12.79,6.7 C12.41,7.09 12.4,7.73 12.79,8.12 Z M20.5,7 L20.5,17 C20.5,17.55 20.95,18 21.5,18 C22.05,18 22.5,17.55 22.5,17 L22.5,7 C22.5,6.45 22.05,6 21.5,6 C20.95,6 20.5,6.45 20.5,7 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/keyboard_tab_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

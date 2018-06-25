@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/delete_sweep_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,16 L19,16 L19,18 L15,18 L15,16 Z M15,8 L22,8 L22,10 L15,10 L15,8 Z M15,12 L21,12 L21,14 L15,14 L15,12 Z M3,20 L13,20 L13,8 L3,8 L3,20 Z M14,5 L11,5 L10,4 L6,4 L5,5 L2,5 L2,7 L14,7 L14,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/delete_sweep_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/airline_seat_legroom_extra_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.49955253,12 L3.49955253,3 L1.49955253,3 L1.49955253,12 C1.49955253,14.76 3.73955253,17 6.49955253,17 L12.4995525,17 L12.4995525,15 L6.49955253,15 C4.83955253,15 3.49955253,13.66 3.49955253,12 Z M22.3295525,17.24 C21.9495525,16.52 21.0395525,16.27 20.2995525,16.61 L19.2095525,17.11 L15.7995525,10.13 C15.4595525,9.45 14.7695525,9 14.0095525,9 L10.4995525,9 L10.4995525,3 L4.49955253,3 L4.49955253,11 C4.49955253,12.66 5.83955253,14 7.49955253,14 L14.4995525,14 L17.9095525,21 L21.6295525,19.3 C22.3995525,18.94 22.7295525,18 22.3295525,17.24 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/airline_seat_legroom_extra_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

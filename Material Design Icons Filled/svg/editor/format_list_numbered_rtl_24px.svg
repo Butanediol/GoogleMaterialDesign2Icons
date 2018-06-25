@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/format_list_numbered_rtl_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,17 L20,17 L20,17.5 L19,17.5 L19,18.5 L20,18.5 L20,19 L18,19 L18,20 L21,20 L21,16 L18,16 L18,17 Z M19,8 L20,8 L20,4 L18,4 L18,5 L19,5 L19,8 Z M18,11 L19.8,11 L18,13.1 L18,14 L21,14 L21,13 L19.2,13 L21,10.9 L21,10 L18,10 L18,11 Z M2,5 L16,5 L16,7 L2,7 L2,5 Z M2,17 L16,17 L16,19 L2,19 L2,17 Z M2,11 L16,11 L16,13 L2,13 L2,11 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/format_list_numbered_rtl_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

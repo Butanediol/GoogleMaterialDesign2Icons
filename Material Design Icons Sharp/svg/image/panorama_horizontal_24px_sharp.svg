@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/panorama_horizontal_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,6.545 C6.6,7.315 9.28,7.705 12,7.705 C14.72,7.705 17.41,7.315 20,6.545 L20,17.455 C17.4,16.685 14.72,16.295 12,16.295 C9.28,16.295 6.59,16.685 4,17.455 L4,6.545 Z M2,3.765 L2,20.235 C2,20.235 2.77,19.975 2.88,19.935 C5.82,18.845 8.91,18.295 12,18.295 C15.09,18.295 18.18,18.845 21.12,19.935 C21.23,19.975 22,20.235 22,20.235 L22,3.765 C22,3.765 21.23,4.025 21.12,4.065 C18.18,5.145 15.09,5.705 12,5.705 C8.91,5.705 5.82,5.145 2.88,4.065 C2.77,4.015 2,3.765 2,3.765 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/panorama_horizontal_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

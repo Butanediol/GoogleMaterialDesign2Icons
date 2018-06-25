@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/directions_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.705,11.2949928 L12.705,2.2949928 C12.5181685,2.10774013 12.2645176,2.0025072 12,2.0025072 C11.7354824,2.0025072 11.4818315,2.10774013 11.295,2.2949928 L2.295,11.2949928 C1.905,11.6849928 1.905,12.3149928 2.295,12.7049928 L11.295,21.7049928 C11.685,22.0949928 12.315,22.0949928 12.705,21.7049928 L21.705,12.7049928 C22.095,12.3249928 22.095,11.6949928 21.705,11.2949928 Z M13.995,14.5049928 L13.995,12.0049928 L9.995,12.0049928 L9.995,14.0049928 C9.995,14.5549928 9.545,15.0049928 8.995,15.0049928 C8.445,15.0049928 7.995,14.5549928 7.995,14.0049928 L7.995,11.0049928 C7.995,10.4549928 8.445,10.0049928 8.995,10.0049928 L13.995,10.0049928 L13.995,7.5049928 L17.145,10.6549928 C17.345,10.8549928 17.345,11.1649928 17.145,11.3649928 L13.995,14.5049928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/directions_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

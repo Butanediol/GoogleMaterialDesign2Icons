@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/battery_unknown_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.67,2 L7,2 L7,0 L3,0 L3,2 L1.33,2 C0.6,2 0,2.6 0,3.33 L0,18.66 C0,19.4 0.6,20 1.33,20 L8.66,20 C9.4,20 10,19.4 10,18.67 L10,3.33 C10,2.6 9.4,2 8.67,2 Z M6,16 L4,16 L4,14 L6,14 L6,16 Z M7.3,10.69 C7.3,10.69 6.92,11.11 6.63,11.4 C6.15,11.88 5.8,12.55 5.8,13 L4.2,13 C4.2,12.17 4.66,11.48 5.13,11 L6.06,10.06 C6.33,9.79 6.5,9.41 6.5,9 C6.5,8.17 5.83,7.5 5,7.5 C4.17,7.5 3.5,8.17 3.5,9 L2,9 C2,7.34 3.34,6 5,6 C6.66,6 8,7.34 8,9 C8,9.66 7.73,10.26 7.3,10.69 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/battery_unknown_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(7.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

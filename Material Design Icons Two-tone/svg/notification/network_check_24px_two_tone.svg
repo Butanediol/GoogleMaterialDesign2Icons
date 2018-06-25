@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/network_check_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.9,1 C14.73,1 14.58,1.09 14.49,1.23 L14.42,1.38 L9.24,13.03 C9.08,13.32 8.98,13.64 8.98,13.99 C8.98,15.1 9.88,16 10.99,16 C11.95,16 12.76,15.32 12.95,14.41 L12.96,14.38 L15.4,1.5 C15.4,1.22 15.18,1 14.9,1 Z M0,5 L2,7 C4.88,4.12 8.79,2.92 12.53,3.38 L13.72,0.7 C8.89,-0.16 3.74,1.27 0,5 Z M20,7 L22,5 C20.36,3.36 18.45,2.18 16.41,1.43 L15.88,4.25 C17.38,4.87 18.78,5.78 20,7 Z M16,11 L18,9 C17.2,8.2 16.3,7.58 15.34,7.11 L14.79,10.03 C15.21,10.3 15.62,10.62 16,11 Z M4,9 L6,11 C7.13,9.87 8.56,9.21 10.03,9 L11.31,6.12 C8.68,6.04 6.01,6.99 4,9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/network_check_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(1.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

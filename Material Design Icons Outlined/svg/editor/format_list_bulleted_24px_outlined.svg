@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/format_list_bulleted_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.25,10.5 C3.42,10.5 2.75,11.17 2.75,12 C2.75,12.83 3.42,13.5 4.25,13.5 C5.08,13.5 5.75,12.83 5.75,12 C5.75,11.17 5.08,10.5 4.25,10.5 Z M4.25,4.5 C3.42,4.5 2.75,5.17 2.75,6 C2.75,6.83 3.42,7.5 4.25,7.5 C5.08,7.5 5.75,6.83 5.75,6 C5.75,5.17 5.08,4.5 4.25,4.5 Z M4.25,16.5 C3.42,16.5 2.75,17.18 2.75,18 C2.75,18.82 3.43,19.5 4.25,19.5 C5.07,19.5 5.75,18.82 5.75,18 C5.75,17.18 5.08,16.5 4.25,16.5 Z M7.25,19 L21.25,19 L21.25,17 L7.25,17 L7.25,19 Z M7.25,13 L21.25,13 L21.25,11 L7.25,11 L7.25,13 Z M7.25,5 L7.25,7 L21.25,7 L21.25,5 L7.25,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/format_list_bulleted_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

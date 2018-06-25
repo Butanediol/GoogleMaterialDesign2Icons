@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/nature_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.17,0.17 C2.41,0.17 0.17,2.41 0.17,5.17 C0.17,7.93 2.41,10.17 5.17,10.17 C7.93,10.17 10.17,7.93 10.17,5.17 C10.17,2.41 7.92,0.17 5.17,0.17 Z" id="path-1"></path>
+        <path d="M14.17,7.17 C14.17,3.3 11.04,0.17 7.17,0.17 C3.3,0.17 0.17,3.3 0.17,7.17 C0.17,10.64 2.69,13.51 6,14.06 L6,18 L0,18 L0,20 L14,20 L14,18 L8,18 L8,14.12 L7.97,14.12 C11.46,13.72 14.17,10.76 14.17,7.17 Z M7.17,12.17 C4.41,12.17 2.17,9.93 2.17,7.17 C2.17,4.41 4.41,2.17 7.17,2.17 C9.93,2.17 12.17,4.41 12.17,7.17 C12.17,9.93 9.92,12.17 7.17,12.17 Z" id="path-3"></path>
+    </defs>
+    <g id="icon/image/nature_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(7.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(5.000000, 2.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/snooze_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.99975,11.0949 L12.62975,11.0949 L8.99975,15.2949 L8.99975,17.0949 L14.99975,17.0949 L14.99975,15.0949 L11.36975,15.0949 L14.99975,10.8949 L14.99975,9.0949 L8.99975,9.0949 L8.99975,11.0949 Z M16.05615,3.4414 L17.33735,1.9056 L21.94475,5.7492 L20.66355,7.285 L16.05615,3.4414 Z M3.33645,7.2845 L2.05525,5.7487 L6.66265,1.9051 L7.94375,3.4409 L3.33645,7.2845 Z M11.99975,6.0949 C15.85975,6.0949 18.99975,9.2349 18.99975,13.0949 C18.99975,16.9549 15.85975,20.0949 11.99975,20.0949 C8.13975,20.0949 4.99975,16.9549 4.99975,13.0949 C4.99975,9.2349 8.13975,6.0949 11.99975,6.0949 Z M11.99975,4.0949 C7.02975,4.0949 2.99975,8.1249 2.99975,13.0949 C2.99975,18.0649 7.02975,22.0949 11.99975,22.0949 C16.96975,22.0949 20.99975,18.0649 20.99975,13.0949 C20.99975,8.1249 16.96975,4.0949 11.99975,4.0949 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/snooze_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

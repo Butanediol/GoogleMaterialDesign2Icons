@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/format_textdirection_l_to_r_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,10 L9,15 L11,15 L11,4 L13,4 L13,15 L15,15 L15,4 L17,4 L17,2 L9,2 C6.79,2 5,3.79 5,6 C5,8.21 6.79,10 9,10 Z M21,18 L17,14 L17,17 L5,17 L5,19 L17,19 L17,22 L21,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/format_textdirection_l_to_r_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

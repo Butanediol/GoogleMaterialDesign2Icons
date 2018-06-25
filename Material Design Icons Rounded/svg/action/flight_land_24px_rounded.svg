@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/flight_land_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.5,19.3431941 L3.5,19.3431941 C2.95,19.3431941 2.5,19.7931941 2.5,20.3431941 C2.5,20.8931941 2.95,21.3431941 3.5,21.3431941 L20.5,21.3431941 C21.05,21.3431941 21.5,20.8931941 21.5,20.3431941 C21.5,19.7931941 21.05,19.3431941 20.5,19.3431941 Z M3.51,11.9531941 L19.34,16.1931941 C20.14,16.4031941 20.96,15.9331941 21.18,15.1331941 C21.39,14.3331941 20.92,13.5131941 20.12,13.2931941 L14.81,11.8731941 L12.23,3.42319408 C12.12,3.06319408 11.84,2.79319408 11.48,2.69319408 C10.8,2.51319408 10.13,3.02319408 10.13,3.73319408 L10.13,10.6131941 L5.15,9.29319408 L4.4,7.43319408 C4.28,7.14319408 4.04,6.92319408 3.73,6.84319408 L3.4,6.75319408 C3.08,6.66319408 2.77,6.90319408 2.77,7.23319408 L2.77,10.9831941 C2.77,11.4431941 3.07,11.8331941 3.51,11.9531941 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/flight_land_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

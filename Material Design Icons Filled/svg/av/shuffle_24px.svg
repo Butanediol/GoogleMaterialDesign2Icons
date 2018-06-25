@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/shuffle_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.59,9.17 L5.41,4 L4,5.41 L9.17,10.58 L10.59,9.17 Z M14.5,4 L16.54,6.04 L4,18.59 L5.41,20 L17.96,7.46 L20,9.5 L20,4 L14.5,4 Z M14.83,13.41 L13.42,14.82 L16.55,17.95 L14.5,20 L20,20 L20,14.5 L17.96,16.54 L14.83,13.41 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/shuffle_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

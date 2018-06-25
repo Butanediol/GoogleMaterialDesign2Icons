@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/not_listed_location_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2.265 C8.14,2.265 5,5.405 5,9.265 C5,13.435 9.42,19.185 11.23,21.375 C11.63,21.855 12.36,21.855 12.76,21.375 C14.58,19.185 19,13.435 19,9.265 C19,5.405 15.86,2.265 12,2.265 Z M12.88,16.015 L11.13,16.015 L11.13,14.265 L12.88,14.265 L12.88,16.015 Z M13.26,11.975 C13.23,12.015 13.2,12.065 13.17,12.115 C13.15,12.155 13.12,12.195 13.1,12.235 C13.07,12.285 13.05,12.335 13.03,12.385 C13.01,12.425 12.99,12.465 12.98,12.515 C12.92,12.705 12.88,12.915 12.88,13.145 L11.12,13.145 C11.12,12.785 11.16,12.485 11.23,12.215 L11.25,12.215 L11.25,12.155 C11.76,10.395 13.61,10.295 13.73,8.915 C13.8,8.065 13.2,7.245 12.37,7.065 C11.46,6.865 10.63,7.395 10.34,8.185 C10.23,8.515 9.94,8.765 9.58,8.765 L9.42,8.765 C8.87,8.765 8.49,8.235 8.66,7.715 C9.16,6.135 10.75,5.035 12.55,5.315 C14.07,5.545 15.27,6.845 15.47,8.365 C15.74,10.355 14.05,10.875 13.26,11.975 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/not_listed_location_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/cast_for_education_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23,3 L1,3 L1,8 L3,8 L3,5 L21,5 L21,19 L14,19 L14,21 L23,21 L23,3 Z M1,18 L1,21 L4,21 C4,19.34 2.66,18 1,18 Z M1,14 L1,16 C3.76,16 6,18.24 6,21 L8,21 C8,17.13 4.87,14 1,14 Z M1,10 L1,12 C5.97,12 10,16.03 10,21 L12,21 C12,14.92 7.07,10 1,10 Z M11,11.09 L11,13.09 L14.5,15 L18,13.09 L18,11.09 L14.5,13 L11,11.09 Z M14.5,6 L9,9 L14.5,12 L20,9 L14.5,6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/cast_for_education_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

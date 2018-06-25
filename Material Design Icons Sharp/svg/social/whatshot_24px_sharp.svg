@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/social/whatshot_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.5,1.335 C13.5,1.335 14.24,3.985 14.24,6.135 C14.24,8.195 12.89,9.865 10.83,9.865 C8.76,9.865 7.2,8.195 7.2,6.135 L7.23,5.775 C5.21,8.175 4,11.285 4,14.665 C4,19.085 7.58,22.665 12,22.665 C16.42,22.665 20,19.085 20,14.665 C20,9.275 17.41,4.465 13.5,1.335 Z M11.71,19.665 C9.93,19.665 8.49,18.265 8.49,16.525 C8.49,14.905 9.54,13.765 11.3,13.405 C13.07,13.045 14.9,12.195 15.92,10.825 C16.31,12.115 16.51,13.475 16.51,14.865 C16.51,17.515 14.36,19.665 11.71,19.665 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/social/whatshot_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

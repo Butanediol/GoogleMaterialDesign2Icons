@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/edit_location_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,0 C2.69,0 0,2.69 0,6 C0,9.54 3.82,14.86 6,17.47 C7.75,15.36 12,9.84 12,6 C12,2.69 9.31,0 6,0 Z M3.95,9.49 L2.51,9.49 L2.51,8.05 L6.44,4.13 L7.87,5.56 L3.95,9.49 Z M9.29,4.15 L8.59,4.85 L7.15,3.41 L7.85,2.71 C8,2.56 8.24,2.56 8.39,2.71 L9.29,3.61 C9.44,3.76 9.44,4 9.29,4.15 Z" id="path-1"></path>
+        <path d="M8,0 C3.59,0 0,3.59 0,8 C0,13.57 6.96,21.34 7.26,21.67 L8,22.49 L8.74,21.67 C9.04,21.34 16,13.57 16,8 C16,3.59 12.41,0 8,0 Z M8,19.47 C5.82,16.86 2,11.54 2,8 C2,4.69 4.69,2 8,2 C11.31,2 14,4.69 14,8 C14,11.83 9.75,17.36 8,19.47 Z" id="path-3"></path>
+        <polygon id="path-5" points="0.51 4.05 0.51 5.49 1.95 5.49 5.87 1.56 4.44 0.13"></polygon>
+        <path d="M1.39,0.71 C1.24,0.56 1,0.56 0.85,0.71 L0.15,1.41 L1.59,2.85 L2.29,2.15 C2.44,2 2.44,1.76 2.29,1.61 L1.39,0.71 Z" id="path-7"></path>
+    </defs>
+    <g id="icon/maps/edit_location_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(6.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(4.000000, 1.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(8.000000, 7.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-6)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(13.000000, 5.000000)">
+            <mask id="mask-8" fill="white">
+                <use xlink:href="#path-7"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-8)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

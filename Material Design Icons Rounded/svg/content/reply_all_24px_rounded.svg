@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/reply_all_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.79125,6.35700582 C6.79125,5.41700582 5.65125,4.93700582 4.98125,5.60700582 L0.50125,10.0870058 C0.11125,10.4770058 0.11125,11.1070058 0.50125,11.4970058 L4.98125,15.9770058 C5.65125,16.6570058 6.79125,16.1770058 6.79125,15.2370058 C6.79125,14.9570058 6.68125,14.6870058 6.48125,14.4870058 L2.79125,10.7970058 L6.48125,7.10700582 C6.68125,6.90700582 6.79125,6.63700582 6.79125,6.35700582 Z M12.79125,7.79700582 L12.79125,6.20700582 C12.79125,5.31700582 11.71125,4.86700582 11.08125,5.49700582 L6.49125,10.0870058 C6.10125,10.4770058 6.10125,11.1070058 6.49125,11.4970058 L11.08125,16.0870058 C11.71125,16.7170058 12.79125,16.2670058 12.79125,15.3770058 L12.79125,13.6970058 C17.79125,13.6970058 21.29125,15.2970058 23.79125,18.7970058 C22.79125,13.7970058 19.79125,8.79700582 12.79125,7.79700582 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/reply_all_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

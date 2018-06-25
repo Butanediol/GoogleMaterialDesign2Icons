@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/skip_previous_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.995,6 C7.545,6 7.995,6.45 7.995,7 L7.995,17 C7.995,17.55 7.545,18 6.995,18 C6.445,18 5.995,17.55 5.995,17 L5.995,7 C5.995,6.45 6.445,6 6.995,6 Z M10.655,12.82 L16.425,16.89 C17.085,17.36 18.005,16.88 18.005,16.07 L18.005,7.93 C18.005,7.12 17.095,6.65 16.425,7.11 L10.655,11.18 C10.085,11.58 10.085,12.42 10.655,12.82 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/skip_previous_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

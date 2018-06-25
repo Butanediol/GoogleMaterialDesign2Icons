@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/send_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.67125,20.4 L21.12125,12.92 C21.93125,12.57 21.93125,11.43 21.12125,11.08 L3.67125,3.6 C3.01125,3.31 2.28125,3.8 2.28125,4.51 L2.27125,9.12 C2.27125,9.62 2.64125,10.05 3.14125,10.11 L17.27125,12 L3.14125,13.88 C2.64125,13.95 2.27125,14.38 2.27125,14.88 L2.28125,19.49 C2.28125,20.2 3.01125,20.69 3.67125,20.4 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/send_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/add_photo_alternate_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.52,5.5 L18.5,5.5 L18.5,3.48 C18.5,2.94 18.06,2.5 17.52,2.5 L17.49,2.5 C16.94,2.5 16.5,2.94 16.5,3.48 L16.5,5.5 L14.49,5.5 C13.95,5.5 13.51,5.94 13.5,6.48 L13.5,6.51 C13.5,7.06 13.94,7.5 14.49,7.5 L16.5,7.5 L16.5,9.51 C16.5,10.05 16.94,10.5 17.49,10.49 L17.52,10.49 C18.06,10.49 18.5,10.05 18.5,9.51 L18.5,7.5 L20.52,7.5 C21.06,7.5 21.5,7.06 21.5,6.52 L21.5,6.48 C21.5,5.94 21.06,5.5 20.52,5.5 Z M15.5,9.51 L15.5,8.5 L14.49,8.5 C13.96,8.5 13.46,8.29 13.08,7.92 C12.71,7.54 12.5,7.04 12.5,6.48 C12.5,6.12 12.6,5.79 12.77,5.5 L4.5,5.5 C3.4,5.5 2.5,6.4 2.5,7.5 L2.5,19.5 C2.5,20.6 3.4,21.5 4.5,21.5 L16.5,21.5 C17.6,21.5 18.5,20.6 18.5,19.5 L18.5,11.22 C18.2,11.39 17.86,11.5 17.48,11.5 C16.39,11.49 15.5,10.6 15.5,9.51 Z M15.46,19.5 L5.5,19.5 C5.09,19.5 4.85,19.03 5.1,18.7 L7.08,16.07 C7.29,15.79 7.7,15.81 7.9,16.09 L9.5,18.5 L12.11,15.02 C12.31,14.76 12.7,14.75 12.9,15.01 L15.85,18.69 C16.11,19.02 15.88,19.5 15.46,19.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/add_photo_alternate_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

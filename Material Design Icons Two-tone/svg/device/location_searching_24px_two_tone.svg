@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/location_searching_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.94,10 C19.48,5.83 16.17,2.52 12,2.06 L12,0 L10,0 L10,2.06 C5.83,2.52 2.52,5.83 2.06,10 L0,10 L0,12 L2.06,12 C2.52,16.17 5.83,19.48 10,19.94 L10,22 L12,22 L12,19.94 C16.17,19.48 19.48,16.17 19.94,12 L22,12 L22,10 L19.94,10 Z M11,18 C7.13,18 4,14.87 4,11 C4,7.13 7.13,4 11,4 C14.87,4 18,7.13 18,11 C18,14.87 14.87,18 11,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/location_searching_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

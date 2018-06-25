@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/keyboard_capslock_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,8.4062428 L15.89,12.2962428 C16.28,12.6862428 16.91,12.6862428 17.3,12.2962428 C17.69,11.9062428 17.69,11.2762428 17.3,10.8862428 L12.71,6.2962428 C12.5231685,6.10899013 12.2695176,6.0037572 12.005,6.0037572 C11.7404824,6.0037572 11.4868315,6.10899013 11.3,6.2962428 L6.7,10.8862428 C6.31,11.2762428 6.31,11.9062428 6.7,12.2962428 C7.09,12.6862428 7.72,12.6862428 8.11,12.2962428 L12,8.4062428 Z M7,17.9962428 L17,17.9962428 C17.55,17.9962428 18,17.5462428 18,16.9962428 C18,16.4462428 17.55,15.9962428 17,15.9962428 L7,15.9962428 C6.45,15.9962428 6,16.4462428 6,16.9962428 C6,17.5462428 6.45,17.9962428 7,17.9962428 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/keyboard_capslock_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

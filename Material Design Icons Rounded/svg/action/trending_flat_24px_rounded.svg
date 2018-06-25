@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/trending_flat_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.254363,11.65 L18.464363,8.86 C18.144363,8.54 17.604363,8.76 17.604363,9.21 L17.604363,11 L3.60436298,11 C3.05436298,11 2.60436298,11.45 2.60436298,12 C2.60436298,12.55 3.05436298,13 3.60436298,13 L17.604363,13 L17.604363,14.79 C17.604363,15.24 18.144363,15.46 18.454363,15.14 L21.244363,12.35 C21.444363,12.16 21.444363,11.84 21.254363,11.65 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/trending_flat_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

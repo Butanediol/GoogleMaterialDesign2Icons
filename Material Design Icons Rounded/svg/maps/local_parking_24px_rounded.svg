@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_parking_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.2895676,3 L7.49956761,3 C6.39956761,3 5.49956761,3.9 5.49956761,5 L5.49956761,19 C5.49956761,20.1 6.39956761,21 7.49956761,21 C8.59956761,21 9.49956761,20.1 9.49956761,19 L9.49956761,15 L12.4995676,15 C16.0695676,15 18.9195676,11.87 18.4495676,8.21 C18.0595676,5.19 15.3395676,3 12.2895676,3 Z M12.6995676,11 L9.49956761,11 L9.49956761,7 L12.6995676,7 C13.7995676,7 14.6995676,7.9 14.6995676,9 C14.6995676,10.1 13.7995676,11 12.6995676,11 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_parking_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

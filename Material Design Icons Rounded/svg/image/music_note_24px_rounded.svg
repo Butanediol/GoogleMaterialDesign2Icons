@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/music_note_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.9992525,4.99938472 L11.9992525,13.5493847 C11.0592525,13.0093847 9.89925246,12.7993847 8.66925246,13.2293847 C7.32925246,13.7093847 6.29925246,14.8993847 6.05925246,16.2993847 C5.59925246,19.0393847 7.91925246,21.3793847 10.6492525,20.9493847 C12.6092525,20.6393847 13.9992525,18.8393847 13.9992525,16.8493847 L13.9992525,6.99938472 L15.9992525,6.99938472 C17.0992525,6.99938472 17.9992525,6.09938472 17.9992525,4.99938472 C17.9992525,3.89938472 17.0992525,2.99938472 15.9992525,2.99938472 L13.9992525,2.99938472 C12.8992525,2.99938472 11.9992525,3.89938472 11.9992525,4.99938472 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/music_note_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

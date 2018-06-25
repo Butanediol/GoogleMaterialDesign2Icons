@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/navigate_next_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,6.71063109 C8.61,7.10063109 8.61,7.73063109 9,8.12063109 L12.88,12.0006311 L9,15.8806311 C8.61,16.2706311 8.61,16.9006311 9,17.2906311 C9.39,17.6806311 10.02,17.6806311 10.41,17.2906311 L15,12.7006311 C15.39,12.3106311 15.39,11.6806311 15,11.2906311 L10.41,6.70063109 C10.03,6.32063109 9.39,6.32063109 9,6.71063109 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/navigate_next_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

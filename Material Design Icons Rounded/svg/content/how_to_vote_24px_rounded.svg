@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/how_to_vote_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.34,15.0206309 C11.73,15.4106309 12.36,15.4106309 12.75,15.0206309 L19.11,8.66063093 C19.5,8.27063093 19.5,7.64063093 19.11,7.25063093 L14.16,2.30063093 C13.78,1.90063093 13.15,1.90063093 12.76,2.29063093 L6.39,8.66063093 C6,9.05063093 6,9.68063093 6.39,10.0706309 L11.34,15.0206309 Z M13.46,4.41063093 L17,7.95063093 L12.05,12.9006309 L8.51,9.36063093 L13.46,4.41063093 Z M20.41,15.4106309 L18.29,13.2906309 C18.11,13.1106309 17.85,13.0006309 17.59,13.0006309 L17.32,13.0006309 L15.32,15.0006309 L17.23,15.0006309 L19,17.0006309 L5,17.0006309 L6.78,15.0006309 L8.83,15.0006309 L6.83,13.0006309 L6.41,13.0006309 C6.14,13.0006309 5.89,13.1106309 5.7,13.2906309 L3.58,15.4106309 C3.21,15.7906309 3,16.3006309 3,16.8306309 L3,20.0006309 C3,21.1006309 3.9,22.0006309 5,22.0006309 L19,22.0006309 C20.1,22.0006309 21,21.1106309 21,20.0006309 L21,16.8306309 C21,16.3006309 20.79,15.7906309 20.41,15.4106309 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/how_to_vote_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

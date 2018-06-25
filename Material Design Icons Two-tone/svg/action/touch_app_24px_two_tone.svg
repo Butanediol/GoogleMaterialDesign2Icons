@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/touch_app_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.12,11.44 L11.88,9.82 C13.17,8.82 14,7.26 14,5.5 C14,2.47 11.53,0 8.5,0 C5.47,0 3,2.47 3,5.5 C3,7.63 4.22,9.48 6,10.39 L6,13.65 L4.16,13.26 L4.06,13.24 C3.96,13.22 3.86,13.21 3.74,13.21 C3.21,13.21 2.71,13.42 2.33,13.8 L0.93,15.22 L6.02,20.31 C6.45,20.75 7.05,21 7.67,21 L13.97,21 C14.95,21 15.78,20.3 15.94,19.33 L16.74,14.62 C16.96,13.32 16.31,12.04 15.12,11.44 Z M5,5.5 C5,3.57 6.57,2 8.5,2 C10.43,2 12,3.57 12,5.5 C12,6.45 11.62,7.31 11,7.94 L11,5.5 C11,4.12 9.88,3 8.5,3 C7.12,3 6,4.12 6,5.5 L6,7.94 C5.38,7.31 5,6.45 5,5.5 Z M14.77,14.29 L13.97,19 L7.67,19 C7.58,19 7.5,18.96 7.43,18.9 L3.75,15.22 L8,16.11 L8,5.5 C8,5.22 8.22,5 8.5,5 C8.78,5 9,5.22 9,5.5 L9,11.5 L10.76,11.5 L14.22,13.23 C14.62,13.43 14.84,13.86 14.77,14.29 Z" id="path-1"></path>
+        <path d="M11.23,8.23 L7.77,6.5 L6,6.5 L6,0.5 C6,0.22 5.78,0 5.5,0 C5.22,0 5,0.22 5,0.5 L5,11.11 L0.75,10.22 L4.43,13.9 C4.49,13.96 4.58,14 4.67,14 L10.97,14 L11.77,9.29 C11.84,8.86 11.62,8.43 11.23,8.23 Z" id="path-3"></path>
+    </defs>
+    <g id="icon/action/touch_app_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(3.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Light-Color" transform="translate(6.000000, 8.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-4)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/format_quote_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.62,18 L13.38,18 L15.38,14 L13,14 L13,6 L21,6 L21,13.24 L18.62,18 Z M16.62,16 L17.38,16 L19,12.76 L19,8 L15,8 L15,12 L18.62,12 L16.62,16 Z M8.62,18 L3.38,18 L5.38,14 L3,14 L3,6 L11,6 L11,13.24 L8.62,18 Z M6.62,16 L7.38,16 L9,12.76 L9,8 L5,8 L5,12 L8.62,12 L6.62,16 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/format_quote_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

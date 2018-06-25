@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/arrow_forward_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5.20875,12.9999928 L16.37875,12.9999928 L11.49875,17.8799928 C11.10875,18.2699928 11.10875,18.9099928 11.49875,19.2999928 C11.88875,19.6899928 12.51875,19.6899928 12.90875,19.2999928 L19.49875,12.7099928 C19.88875,12.3199928 19.88875,11.6899928 19.49875,11.2999928 L12.91875,4.6999928 C12.7319185,4.51274013 12.4782676,4.4075072 12.21375,4.4075072 C11.9492324,4.4075072 11.6955815,4.51274013 11.50875,4.6999928 C11.11875,5.0899928 11.11875,5.7199928 11.50875,6.1099928 L16.37875,10.9999928 L5.20875,10.9999928 C4.65875,10.9999928 4.20875,11.4499928 4.20875,11.9999928 C4.20875,12.5499928 4.65875,12.9999928 5.20875,12.9999928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/arrow_forward_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

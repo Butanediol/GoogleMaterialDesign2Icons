@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/monochrome_photos_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,5 L16.8,5 L15,3 L9,3 L7.2,5 L2,5 L2,21 L22,21 L22,5 Z M20,19 L12,19 L12,18 C9.2,18 7,15.8 7,13 C7,10.2 9.2,8 12,8 L12,7 L20,7 L20,19 Z M17,13 C17,10.2 14.8,8 12,8 L12,9.8 C13.8,9.8 15.2,11.2 15.2,13 C15.2,14.8 13.8,16.2 12,16.2 L12,18 C14.8,18 17,15.8 17,13 Z M8.8,13 C8.8,14.8 10.2,16.2 12,16.2 L12,9.8 C10.2,9.8 8.8,11.2 8.8,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/monochrome_photos_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/call_merge_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.705,19.84875 C18.095,19.45875 18.095,18.82875 17.705,18.43875 L15.005,15.73875 L13.595,17.14875 L16.295,19.84875 C16.685,20.23875 17.325,20.23875 17.705,19.84875 Z M8.715,8.14875 L11.005,8.14875 L11.005,13.73875 L6.295,18.43875 C5.905,18.82875 5.905,19.45875 6.295,19.84875 C6.685,20.23875 7.315,20.23875 7.705,19.84875 L13.005,14.54875 L13.005,8.14875 L15.295,8.14875 C15.745,8.14875 15.965,7.60875 15.645,7.29875 L12.355,4.00875 C12.155,3.80875 11.845,3.80875 11.645,4.00875 L8.355,7.29875 C8.045,7.60875 8.265,8.14875 8.715,8.14875 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/call_merge_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

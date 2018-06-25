@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_gas_station_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.52,7.23 L19.53,7.22 L15.81,3.5 L14.75,4.56 L16.86,6.67 C15.92,7.03 15.25,7.93 15.25,9 C15.25,10.38 16.37,11.5 17.75,11.5 C18.11,11.5 18.44,11.42 18.75,11.29 L18.75,18.5 C18.75,19.05 18.3,19.5 17.75,19.5 C17.2,19.5 16.75,19.05 16.75,18.5 L16.75,14 C16.75,12.9 15.85,12 14.75,12 L13.75,12 L13.75,5 C13.75,3.9 12.85,3 11.75,3 L5.75,3 C4.65,3 3.75,3.9 3.75,5 L3.75,21 L13.75,21 L13.75,13.5 L15.25,13.5 L15.25,18.5 C15.25,19.88 16.37,21 17.75,21 C19.13,21 20.25,19.88 20.25,18.5 L20.25,9 C20.25,8.31 19.97,7.68 19.52,7.23 Z M11.75,13.5 L11.75,19 L5.75,19 L5.75,12 L11.75,12 L11.75,13.5 Z M11.75,10 L5.75,10 L5.75,5 L11.75,5 L11.75,10 Z M17.75,10 C17.2,10 16.75,9.55 16.75,9 C16.75,8.45 17.2,8 17.75,8 C18.3,8 18.75,8.45 18.75,9 C18.75,9.55 18.3,10 17.75,10 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_gas_station_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

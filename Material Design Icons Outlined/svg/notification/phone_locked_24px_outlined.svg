@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/phone_locked_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,16.5 C18.75,16.5 17.55,16.3 16.43,15.93 C16.33,15.9 16.22,15.88 16.12,15.88 C15.86,15.88 15.61,15.98 15.41,16.17 L13.21,18.37 C10.38,16.93 8.06,14.62 6.62,11.78 L8.82,9.57 C9.1,9.31 9.18,8.92 9.07,8.57 C8.7,7.45 8.5,6.25 8.5,5 C8.5,4.45 8.05,4 7.5,4 L4,4 C3.45,4 3,4.45 3,5 C3,14.39 10.61,22 20,22 C20.55,22 21,21.55 21,21 L21,17.5 C21,16.95 20.55,16.5 20,16.5 Z M5.03,6 L6.53,6 C6.6,6.88 6.75,7.75 6.98,8.58 L5.78,9.79 C5.38,8.58 5.12,7.32 5.03,6 Z M19,19.97 C17.68,19.88 16.4,19.62 15.2,19.21 L16.4,18.01 C17.25,18.25 18.12,18.4 19,18.46 L19,19.97 Z M20,5 L20,4.5 C20,3.12 18.88,2 17.5,2 C16.12,2 15,3.12 15,4.5 L15,5 C14.45,5 14,5.45 14,6 L14,10 C14,10.55 14.45,11 15,11 L20,11 C20.55,11 21,10.55 21,10 L21,6 C21,5.45 20.55,5 20,5 Z M19,5 L16,5 L16,4.5 C16,3.67 16.67,3 17.5,3 C18.33,3 19,3.67 19,4.5 L19,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/phone_locked_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

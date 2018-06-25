@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/settings_input_antenna_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,4 C7.13,4 4,7.13 4,11 L6,11 C6,8.24 8.24,6 11,6 C13.76,6 16,8.24 16,11 L18,11 C18,7.13 14.87,4 11,4 Z M12,13.29 C12.88,12.9 13.5,12.03 13.5,11 C13.5,9.62 12.38,8.5 11,8.5 C9.62,8.5 8.5,9.62 8.5,11 C8.5,12.02 9.12,12.9 10,13.29 L10,16.59 L6.59,20 L8,21.41 L11,18.41 L14,21.41 L15.41,20 L12,16.59 L12,13.29 Z M11,0 C4.93,0 0,4.93 0,11 L2,11 C2,6.03 6.03,2 11,2 C15.97,2 20,6.03 20,11 L22,11 C22,4.93 17.07,0 11,0 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/settings_input_antenna_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(1.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

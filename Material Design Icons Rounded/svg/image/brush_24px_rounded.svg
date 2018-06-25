@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/brush_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.49875,14.0012428 C5.83875,14.0012428 4.49875,15.3412428 4.49875,17.0012428 C4.49875,18.3112428 3.33875,19.0012428 2.49875,19.0012428 C3.41875,20.2212428 4.98875,21.0012428 6.49875,21.0012428 C8.70875,21.0012428 10.49875,19.2112428 10.49875,17.0012428 C10.49875,15.3412428 9.15875,14.0012428 7.49875,14.0012428 Z M21.20875,4.6312428 L19.86875,3.2912428 C19.6819185,3.10399013 19.4282676,2.9987572 19.16375,2.9987572 C18.8992324,2.9987572 18.6455815,3.10399013 18.45875,3.2912428 L9.49875,12.2512428 L12.24875,15.0012428 L21.20875,6.0412428 C21.59875,5.6512428 21.59875,5.0212428 21.20875,4.6312428 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/brush_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

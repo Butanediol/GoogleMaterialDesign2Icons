@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/pie_chart_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.0829734,3.18 L11.0829734,20.82 C11.0829734,21.46 10.4929734,21.94 9.87297338,21.8 C5.40297338,20.8 2.08297338,16.79 2.08297338,12 C2.08297338,7.21 5.40297338,3.2 9.87297338,2.2 C10.4929734,2.06 11.0829734,2.54 11.0829734,3.18 Z M13.1129734,3.18 L13.1129734,9.99 C13.1129734,10.54 13.5629734,10.99 14.1129734,10.99 L20.9029734,10.99 C21.5429734,10.99 22.0229734,10.4 21.8829734,9.77 C21.0329734,6.01 18.0829734,3.05 14.3329734,2.2 C13.7029734,2.06 13.1129734,2.54 13.1129734,3.18 Z M13.1129734,14.01 L13.1129734,20.82 C13.1129734,21.46 13.7029734,21.94 14.3329734,21.8 C18.0929734,20.95 21.0429734,17.98 21.8929734,14.22 C22.0329734,13.6 21.5429734,13 20.9129734,13 L14.1229734,13 C13.5629734,13.01 13.1129734,13.46 13.1129734,14.01 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/pie_chart_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

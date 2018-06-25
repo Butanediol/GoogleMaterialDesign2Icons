@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/colorize_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.6593691,5.41 L18.5793691,6.33 L15.8893691,9.02 L14.9693691,8.1 L17.6593691,5.41 Z M17.6693691,3 C17.4093691,3 17.1593691,3.1 16.9593691,3.29 L13.8393691,6.41 L11.9093691,4.5 L10.4993691,5.91 L11.9193691,7.33 L2.99936907,16.25 L2.99936907,21 L7.74936907,21 L16.6693691,12.08 L18.0893691,13.5 L19.4993691,12.09 L17.5793691,10.17 L20.6993691,7.05 C21.0993691,6.65 21.0993691,6.02 20.7093691,5.63 L18.3693691,3.29 C18.1693691,3.1 17.9193691,3 17.6693691,3 Z M6.91936907,19 L4.99936907,17.08 L13.0593691,9.02 L14.9793691,10.94 L6.91936907,19 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/colorize_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

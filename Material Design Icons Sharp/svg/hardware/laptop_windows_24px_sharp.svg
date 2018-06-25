@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/laptop_windows_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,18.5 L20,17.5 L21.99,17.5 L22,3.5 L2,3.5 L2,17.5 L4,17.5 L4,18.5 L0,18.5 L0,20.5 L24,20.5 L24,18.5 L20,18.5 Z M4,5.5 L20,5.5 L20,15.5 L4,15.5 L4,5.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/laptop_windows_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

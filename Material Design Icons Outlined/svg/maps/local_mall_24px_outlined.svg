@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_mall_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,6.5 L17,6.5 C17,3.74 14.76,1.5 12,1.5 C9.24,1.5 7,3.74 7,6.5 L5,6.5 C3.9,6.5 3,7.4 3,8.5 L3,20.5 C3,21.6 3.9,22.5 5,22.5 L19,22.5 C20.1,22.5 21,21.6 21,20.5 L21,8.5 C21,7.4 20.1,6.5 19,6.5 Z M12,3.5 C13.66,3.5 15,4.84 15,6.5 L9,6.5 C9,4.84 10.34,3.5 12,3.5 Z M19,20.5 L5,20.5 L5,8.5 L19,8.5 L19,20.5 Z M12,12.5 C10.34,12.5 9,11.16 9,9.5 L7,9.5 C7,12.26 9.24,14.5 12,14.5 C14.76,14.5 17,12.26 17,9.5 L15,9.5 C15,11.16 13.66,12.5 12,12.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_mall_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

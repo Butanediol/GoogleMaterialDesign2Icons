@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/invert_colors_off_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.94,4.6999928 L11.94,8.7499928 L19.34,16.1499928 C20.49,13.2699928 19.93,9.8699928 17.59,7.5399928 L12.65,2.5899928 C12.4631685,2.40274013 12.2095176,2.2975072 11.945,2.2975072 C11.6804824,2.2975072 11.4268315,2.40274013 11.24,2.5899928 L8.5,5.3099928 L9.91,6.7199928 L11.94,4.6999928 Z M3.63,4.6799928 C3.24,5.0699928 3.24,5.6999928 3.63,6.0899928 L5.71,8.1699928 C3.17,11.3099928 3.36,15.9199928 6.28,18.8499928 C7.84,20.3999928 9.89,21.1799928 11.94,21.1799928 C13.72,21.1799928 15.5,20.5899928 16.96,19.4099928 L18.96,21.4099928 C19.35,21.7999928 19.98,21.7999928 20.37,21.4099928 C20.76,21.0199928 20.76,20.3899928 20.37,19.9999928 L5.05,4.6799928 C4.66,4.2899928 4.02,4.2899928 3.63,4.6799928 Z M11.94,19.1899928 C10.34,19.1899928 8.83,18.5699928 7.7,17.4299928 C6.56,16.2899928 5.94,14.7899928 5.94,13.1899928 C5.94,11.8699928 6.37,10.6299928 7.15,9.5999928 L11.94,14.3899928 L11.94,19.1899928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/invert_colors_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

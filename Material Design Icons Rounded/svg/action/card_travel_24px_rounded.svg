@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/card_travel_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,6.5 L17,6.5 L17,4.5 C17,3.39 16.11,2.5 15,2.5 L9,2.5 C7.89,2.5 7,3.39 7,4.5 L7,6.5 L4,6.5 C2.89,6.5 2,7.39 2,8.5 L2,19.5 C2,20.61 2.89,21.5 4,21.5 L20,21.5 C21.11,21.5 22,20.61 22,19.5 L22,8.5 C22,7.39 21.11,6.5 20,6.5 Z M9,4.5 L15,4.5 L15,6.5 L9,6.5 L9,4.5 Z M20,19.5 L4,19.5 L4,17.5 L20,17.5 L20,19.5 Z M20,14.5 L4,14.5 L4,9.5 C4,8.95 4.45,8.5 5,8.5 L7,8.5 L7,9.5 C7,10.05 7.45,10.5 8,10.5 C8.55,10.5 9,10.05 9,9.5 L9,8.5 L15,8.5 L15,9.5 C15,10.05 15.45,10.5 16,10.5 C16.55,10.5 17,10.05 17,9.5 L17,8.5 L19,8.5 C19.55,8.5 20,8.95 20,9.5 L20,14.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/card_travel_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

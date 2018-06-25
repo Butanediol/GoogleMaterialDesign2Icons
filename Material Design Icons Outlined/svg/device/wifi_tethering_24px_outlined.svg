@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/wifi_tethering_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,10.675 C10.9,10.675 10,11.575 10,12.675 C10,13.775 10.9,14.675 12,14.675 C13.1,14.675 14,13.775 14,12.675 C14,11.575 13.1,10.675 12,10.675 Z M18,12.675 C18,9.365 15.31,6.675 12,6.675 C8.69,6.675 6,9.365 6,12.675 C6,14.895 7.21,16.825 9,17.865 L10,16.125 C8.81,15.425 8,14.155 8,12.675 C8,10.465 9.79,8.675 12,8.675 C14.21,8.675 16,10.465 16,12.675 C16,14.155 15.19,15.425 14,16.125 L15,17.865 C16.79,16.825 18,14.895 18,12.675 Z M12,2.675 C6.48,2.675 2,7.155 2,12.675 C2,16.375 4.01,19.595 6.99,21.325 L7.99,19.595 C5.61,18.205 4,15.635 4,12.675 C4,8.255 7.58,4.675 12,4.675 C16.42,4.675 20,8.255 20,12.675 C20,15.635 18.39,18.205 16,19.595 L17,21.325 C19.99,19.595 22,16.375 22,12.675 C22,7.155 17.52,2.675 12,2.675 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/wifi_tethering_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

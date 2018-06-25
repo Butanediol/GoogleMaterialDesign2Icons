@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/rotate_right_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.585,7.085 L11.035,2.535 L11.035,5.605 C7.095,6.095 4.035,9.455 4.035,13.535 C4.035,17.615 7.085,20.975 11.035,21.465 L11.035,19.445 C8.195,18.965 6.035,16.505 6.035,13.535 C6.035,10.565 8.195,8.105 11.035,7.625 L11.035,11.535 L15.585,7.085 Z M19.965,12.535 C19.795,11.145 19.245,9.805 18.345,8.645 L16.925,10.065 C17.465,10.815 17.805,11.665 17.945,12.535 L19.965,12.535 Z M13.035,19.435 L13.035,21.455 C14.425,21.285 15.775,20.745 16.935,19.845 L15.495,18.405 C14.745,18.945 13.905,19.295 13.035,19.435 Z M16.925,17.015 L18.345,18.425 C19.245,17.265 19.795,15.925 19.965,14.535 L17.945,14.535 C17.805,15.405 17.465,16.255 16.925,17.015 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/rotate_right_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

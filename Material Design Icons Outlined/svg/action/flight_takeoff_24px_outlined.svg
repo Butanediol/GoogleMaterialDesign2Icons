@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/flight_takeoff_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.52001495,18.715 L21.5200149,18.715 L21.5200149,20.715 L2.52001495,20.715 L2.52001495,18.715 Z M22.0900149,9.355 C21.8800149,8.555 21.0500149,8.075 20.2500149,8.295 L14.9400149,9.715 L8.04001495,3.285 L6.11001495,3.795 L10.2500149,10.965 L5.28001495,12.295 L3.31001495,10.755 L1.86001495,11.145 L4.45001495,15.635 L21.0200149,11.205 C21.8300149,10.975 22.3000149,10.155 22.0900149,9.355 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/flight_takeoff_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

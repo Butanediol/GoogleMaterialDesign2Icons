@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/arrow_left_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.58625,8.70623277 L9.99625,11.2962328 C9.60625,11.6862328 9.60625,12.3162328 9.99625,12.7062328 L12.58625,15.2962328 C13.21625,15.9262328 14.29625,15.4762328 14.29625,14.5862328 L14.29625,9.40623277 C14.29625,8.51623277 13.21625,8.07623277 12.58625,8.70623277 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/arrow_left_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

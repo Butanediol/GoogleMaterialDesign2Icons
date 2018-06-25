@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/desktop_access_disabled_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.915,0.845 L0.505,2.255 L1.505,3.245 L1.505,15.155 C1.505,16.255 2.395,17.155 3.495,17.155 L10.505,17.155 L10.505,19.155 L8.505,19.155 L8.505,21.155 L16.505,21.155 L16.505,19.155 L14.505,19.155 L14.505,17.155 L15.405,17.155 L21.405,23.155 L22.815,21.745 L1.915,0.845 Z M3.495,15.155 L3.495,5.245 L13.405,15.155 L3.495,15.155 Z M5.055,1.155 L7.055,3.155 L21.505,3.155 L21.505,15.155 L19.055,15.155 L21.055,17.155 L21.495,17.155 C22.595,17.155 23.495,16.255 23.495,15.155 L23.495,3.155 C23.495,2.055 22.595,1.155 21.495,1.155 L5.055,1.155 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/desktop_access_disabled_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

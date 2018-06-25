@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/phone_bluetooth_speaker_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.7092188,10.5007812 L16.9992188,8.21078116 L16.9992188,12.0007812 L17.4992188,12.0007812 L20.3492188,9.15078116 L18.2092188,7.00078116 L20.3592188,4.85078116 L17.4992188,2.00078116 L16.9992188,2.00078116 L16.9992188,5.79078116 L14.7092188,3.50078116 L13.9992188,4.21078116 L16.7892188,7.00078116 L13.9992188,9.79078116 L14.7092188,10.5007812 Z M17.9992188,3.91078116 L18.9392188,4.85078116 L17.9992188,5.79078116 L17.9992188,3.91078116 Z M17.9992188,8.21078116 L18.9392188,9.15078116 L17.9992188,10.0907812 L17.9992188,8.21078116 Z M20.9992188,16.4607812 L15.7292188,15.8507812 L13.2092188,18.3707812 C10.3792188,16.9307812 8.05921884,14.6207812 6.61921884,11.7807812 L9.14921884,9.25078116 L8.53921884,4.00078116 L3.02921884,4.00078116 C2.44921884,14.1807812 10.8192188,22.5507812 20.9992188,21.9707812 L20.9992188,16.4607812 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/phone_bluetooth_speaker_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

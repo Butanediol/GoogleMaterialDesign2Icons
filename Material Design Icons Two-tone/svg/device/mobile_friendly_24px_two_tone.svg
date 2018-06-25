@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/mobile_friendly_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,0 L6,0 C4.9,0 4,0.9 4,2 L4,5 L6,5 L6,3 L16,3 L16,19 L6,19 L6,17 L4,17 L4,20 C4,21.1 4.9,22 6,22 L16,22 C17.1,22 18,21.1 18,20 L18,2 C18,0.9 17.1,0 16,0 Z M4.01,12.47 L1.46,9.92 L0.19,11.19 L4,15 L11.19,7.81 L9.92,6.54 L4.01,12.47 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/mobile_friendly_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(3.000000, 1.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

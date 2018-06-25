@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/sd_card_alert_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,2 L10.83,2 C10.3,2 9.79,2.21 9.41,2.59 L4.6,7.42 C4.23,7.79 4.02,8.3 4.02,8.82 L4,20 C4,21.1 4.9,22 6,22 L18,22 C19.1,22 20,21.1 20,20 L20,4 C20,2.9 19.1,2 18,2 Z M13,17 L11,17 L11,15 L13,15 L13,17 Z M12,13 C11.45,13 11,12.55 11,12 L11,9 C11,8.45 11.45,8 12,8 C12.55,8 13,8.45 13,9 L13,12 C13,12.55 12.55,13 12,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/sd_card_alert_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/remove_shopping_cart_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.975,0.565 L0.565,1.975 L4.955,6.365 L7.165,11.025 L5.815,13.475 C5.655,13.755 5.565,14.085 5.565,14.435 C5.565,15.535 6.465,16.435 7.565,16.435 L15.025,16.435 L16.405,17.815 C15.905,18.175 15.575,18.765 15.575,19.435 C15.575,20.535 16.465,21.435 17.565,21.435 C18.235,21.435 18.825,21.105 19.185,20.595 L22.025,23.435 L23.435,22.025 L1.975,0.565 Z M7.565,14.435 L8.665,12.435 L11.025,12.435 L13.025,14.435 L7.565,14.435 Z M20.565,3.435 L7.685,3.435 L9.685,5.435 L18.875,5.435 L16.115,10.435 L14.675,10.435 L16.615,12.375 C17.155,12.235 17.605,11.885 17.865,11.405 L21.445,4.915 C21.815,4.255 21.325,3.435 20.565,3.435 Z M7.565,17.435 C6.465,17.435 5.575,18.335 5.575,19.435 C5.575,20.535 6.465,21.435 7.565,21.435 C8.665,21.435 9.565,20.535 9.565,19.435 C9.565,18.335 8.665,17.435 7.565,17.435 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/remove_shopping_cart_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

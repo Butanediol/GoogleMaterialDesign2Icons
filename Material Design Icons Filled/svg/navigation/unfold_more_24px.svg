@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/unfold_more_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,5.83 L15.17,9 L16.58,7.59 L12,3 L7.41,7.59 L8.83,9 L12,5.83 Z M12,18.17 L8.83,15 L7.42,16.41 L12,21 L16.59,16.41 L15.17,15 L12,18.17 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/unfold_more_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/clear_all_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,13 L18,13 C18.55,13 19,12.55 19,12 C19,11.45 18.55,11 18,11 L6,11 C5.45,11 5,11.45 5,12 C5,12.55 5.45,13 6,13 Z M4,17 L16,17 C16.55,17 17,16.55 17,16 C17,15.45 16.55,15 16,15 L4,15 C3.45,15 3,15.45 3,16 C3,16.55 3.45,17 4,17 Z M7,8 C7,8.55 7.45,9 8,9 L20,9 C20.55,9 21,8.55 21,8 C21,7.45 20.55,7 20,7 L8,7 C7.45,7 7,7.45 7,8 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/clear_all_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

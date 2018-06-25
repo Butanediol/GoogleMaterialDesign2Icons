@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_library_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,11.4427228 C10.18,9.74272276 7.88,8.55272276 5.32,8.09272276 C4.11,7.88272276 3,8.84272276 3,10.0727228 L3,16.3127228 C3,17.9927228 3.72,18.8727228 4.71,19.0027228 C7.21,19.3227228 9.48,20.3527228 11.34,21.8727228 C11.69,22.1627228 12.26,22.1927228 12.61,21.9127228 C14.48,20.3827228 16.77,19.3327228 19.29,19.0127228 C20.23,18.8827228 21,17.9527228 21,16.9927228 L21,10.0727228 C21,8.84272276 19.89,7.88272276 18.68,8.09272276 C16.12,8.55272276 13.82,9.74272276 12,11.4427228 Z M12,7.89272276 C13.66,7.89272276 15,6.55272276 15,4.89272276 C15,3.23272276 13.66,1.89272276 12,1.89272276 C10.34,1.89272276 9,3.23272276 9,4.89272276 C9,6.55272276 10.34,7.89272276 12,7.89272276 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_library_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/print_disabled_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.23,0.82 L0.82,2.23 L5.82,7.22 C4.16,7.22 2.82,8.56 2.82,10.22 L2.82,16.22 L6.82,16.22 L6.82,20.22 L18.82,20.22 L21.77,23.18 L23.18,21.77 L2.23,0.82 Z M6.82,14.22 L4.82,14.22 L4.82,10.22 C4.82,9.67 5.27,9.22 5.82,9.22 L7.82,9.22 L10.82,12.22 L6.82,12.22 L6.82,14.22 Z M8.82,18.22 L8.82,14.22 L12.82,14.22 L16.82,18.22 L8.82,18.22 Z M8.82,4.22 L16.82,4.22 L16.82,7.22 L11.48,7.22 L13.48,9.22 L19.82,9.22 C20.37,9.22 20.82,9.67 20.82,10.22 L20.82,14.22 L18.82,14.23 L18.82,12.22 L16.48,12.22 L20.48,16.22 L22.82,16.22 L22.82,10.22 C22.82,8.56 21.48,7.22 19.82,7.22 L18.82,7.22 L18.82,2.22 L6.82,2.22 L6.82,2.58 L8.82,4.58 L8.82,4.22 Z M18.82,9.73 C18.2677153,9.73 17.82,10.1777153 17.82,10.73 C17.82,11.2822847 18.2677153,11.73 18.82,11.73 C19.3722847,11.73 19.82,11.2822847 19.82,10.73 C19.82,10.1777153 19.3722847,9.73 18.82,9.73 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/print_disabled_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

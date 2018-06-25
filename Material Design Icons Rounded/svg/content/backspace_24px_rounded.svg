@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/backspace_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.8975,3 L6.8975,3 C6.2075,3 5.6675,3.35 5.3075,3.88 L0.2675,11.45 C0.0475,11.79 0.0475,12.22 0.2675,12.56 L5.3075,20.12 C5.6675,20.64 6.2075,21 6.8975,21 L21.8975,21 C22.9975,21 23.8975,20.1 23.8975,19 L23.8975,5 C23.8975,3.9 22.9975,3 21.8975,3 Z M18.1975,16.3 C17.8075,16.69 17.1775,16.69 16.7875,16.3 L13.8975,13.41 L11.0075,16.3 C10.6175,16.69 9.9875,16.69 9.5975,16.3 C9.41024733,16.1131685 9.30501439,15.8595176 9.30501439,15.595 C9.30501439,15.3304824 9.41024733,15.0768315 9.5975,14.89 L12.4875,12 L9.5975,9.11 C9.41024733,8.92316847 9.30501439,8.66951764 9.30501439,8.405 C9.30501439,8.14048236 9.41024733,7.88683153 9.5975,7.7 C9.9875,7.31 10.6175,7.31 11.0075,7.7 L13.8975,10.59 L16.7875,7.7 C17.1775,7.31 17.8075,7.31 18.1975,7.7 C18.5875,8.09 18.5875,8.72 18.1975,9.11 L15.3075,12 L18.1975,14.89 C18.5775,15.27 18.5775,15.91 18.1975,16.3 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/backspace_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

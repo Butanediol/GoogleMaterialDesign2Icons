@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/zoom_out_map_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.85,3.85 L17.3,5.3 L15.12,7.46 C14.73,7.85 14.73,8.49 15.12,8.88 C15.51,9.27 16.15,9.27 16.54,8.88 L18.7,6.7 L20.15,8.15 C20.46,8.46 21,8.24 21,7.79 L21,3.5 C21,3.22 20.78,3 20.5,3 L16.21,3 C15.76,3 15.54,3.54 15.85,3.85 Z M3.85,8.15 L5.3,6.7 L7.46,8.88 C7.85,9.27 8.49,9.27 8.88,8.88 C9.27,8.49 9.27,7.85 8.88,7.46 L6.7,5.3 L8.15,3.85 C8.46,3.54 8.24,3 7.79,3 L3.5,3 C3.22,3 3,3.22 3,3.5 L3,7.79 C3,8.24 3.54,8.46 3.85,8.15 Z M8.15,20.15 L6.7,18.7 L8.88,16.54 C9.27,16.15 9.27,15.51 8.88,15.12 C8.49,14.73 7.85,14.73 7.46,15.12 L5.3,17.3 L3.85,15.85 C3.54,15.54 3,15.76 3,16.21 L3,20.5 C3,20.78 3.22,21 3.5,21 L7.79,21 C8.24,21 8.46,20.46 8.15,20.15 Z M20.15,15.85 L18.7,17.3 L16.54,15.12 C16.15,14.73 15.51,14.73 15.12,15.12 C14.73,15.51 14.73,16.15 15.12,16.54 L17.3,18.7 L15.85,20.15 C15.54,20.46 15.76,21 16.21,21 L20.5,21 C20.78,21 21,20.78 21,20.5 L21,16.21 C21,15.76 20.46,15.54 20.15,15.85 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/zoom_out_map_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

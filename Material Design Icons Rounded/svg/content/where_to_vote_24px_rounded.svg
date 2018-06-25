@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/where_to_vote_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2.265 C8.14,2.265 5,5.405 5,9.265 C5,13.435 9.42,19.185 11.23,21.375 C11.63,21.855 12.36,21.855 12.76,21.375 C14.58,19.185 19,13.435 19,9.265 C19,5.405 15.86,2.265 12,2.265 Z M16.31,8.425 L11.18,13.555 C10.79,13.945 10.16,13.945 9.77,13.555 L7.7,11.485 C7.31,11.095 7.31,10.455 7.7,10.065 C8.09,9.675 8.73,9.675 9.12,10.065 L10.48,11.425 L14.9,7.005 C15.29,6.615 15.93,6.615 16.32,7.005 C16.7,7.405 16.7,8.035 16.31,8.425 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/where_to_vote_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/burst_mode_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1,5 L3,5 L3,19 L1,19 L1,5 Z M5,5 L7,5 L7,19 L5,19 L5,5 Z M22,5 L10,5 C9.45,5 9,5.45 9,6 L9,18 C9,18.55 9.45,19 10,19 L22,19 C22.55,19 23,18.55 23,18 L23,6 C23,5.45 22.55,5 22,5 Z M11,17 L13.5,13.85 L15.29,16 L17.79,12.78 L21,17 L11,17 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/burst_mode_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

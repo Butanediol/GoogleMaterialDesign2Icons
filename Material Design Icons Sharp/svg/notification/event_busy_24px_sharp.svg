@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/event_busy_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.31,18 L11.75,15.56 L14.19,18 L15.25,16.94 L12.81,14.5 L15.25,12.06 L14.19,11 L11.75,13.44 L9.31,11 L8.25,12.06 L10.69,14.5 L8.25,16.94 L9.31,18 Z M21,4 L18,4 L18,2 L16,2 L16,4 L8,4 L8,2 L6,2 L6,4 L3.01,4 L3,22 L21,22 L21,4 Z M19,20 L5,20 L5,9 L19,9 L19,20 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/event_busy_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

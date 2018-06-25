@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/person_add_disabled_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.48,11.95 C14.65,11.97 14.82,12 15,12 C17.21,12 19,10.21 19,8 C19,5.79 17.21,4 15,4 C12.79,4 11,5.79 11,8 C11,8.18 11.03,8.35 11.05,8.52 L14.48,11.95 Z M16.69,14.16 L22.53,20 L23,20 L23,18 C23,15.86 19.44,14.5 16.69,14.16 Z M3.94430453e-31,3.12 L4,7.12 L4,10 L1,10 L1,12 L4,12 L4,15 L6,15 L6,12 L8.88,12 L11.39,14.51 C9.19,15.11 7,16.3 7,18 L7,20 L16.88,20 L20.88,24 L22.29,22.59 L1.41,1.71 L3.94430453e-31,3.12 Z M6.88,10 L6,10 L6,9.12 L6.88,10 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/person_add_disabled_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

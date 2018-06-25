@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/donut_large_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.025,5.08 C16.085,5.52 18.505,7.94 18.945,11 L21.975,11 C21.505,6.28 17.745,2.52 13.025,2.05 L13.025,5.08 Z M18.945,13 C18.505,16.06 16.085,18.48 13.025,18.92 L13.025,21.95 C17.745,21.48 21.505,17.72 21.975,13 L18.945,13 Z M11.025,18.92 C7.635,18.43 5.025,15.52 5.025,12 C5.025,8.48 7.635,5.57 11.025,5.08 L11.025,2.05 C5.975,2.55 2.025,6.81 2.025,12 C2.025,17.19 5.975,21.45 11.025,21.95 L11.025,18.92 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/donut_large_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

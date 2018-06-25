@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/do_disturb_off_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.5,3.5 C16.91,3.5 20.5,7.09 20.5,11.5 C20.5,12.91 20.13,14.23 19.49,15.38 L20.95,16.84 C21.93,15.29 22.5,13.46 22.5,11.5 C22.5,5.98 18.02,1.5 12.5,1.5 C10.54,1.5 8.71,2.07 7.17,3.05 L8.63,4.51 C9.77,3.87 11.09,3.5 12.5,3.5 Z M17.5,10.5 L14.62,10.5 L16.62,12.5 L17.5,12.5 L17.5,10.5 Z M2.91,1.63 L1.5,3.04 L4.28,5.82 C3.16,7.43 2.5,9.39 2.5,11.5 C2.5,17.02 6.98,21.5 12.5,21.5 C14.61,21.5 16.57,20.84 18.18,19.72 L20.96,22.5 L22.37,21.09 L2.91,1.63 Z M12.5,19.5 C8.09,19.5 4.5,15.91 4.5,11.5 C4.5,9.94 4.95,8.5 5.73,7.27 L8.96,10.5 L7.5,10.5 L7.5,12.5 L10.96,12.5 L16.73,18.27 C15.5,19.05 14.06,19.5 12.5,19.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/do_disturb_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

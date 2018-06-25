@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/offline_bolt_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2.02 C6.49,2.02 2.02,6.49 2.02,12 C2.02,17.51 6.49,21.98 12,21.98 C17.51,21.98 21.98,17.51 21.98,12 C21.98,6.49 17.51,2.02 12,2.02 Z M11.48,20 L11.48,13.74 L8,13.74 L13,4 L13,10.26 L16.35,10.26 L11.48,20 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/offline_bolt_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

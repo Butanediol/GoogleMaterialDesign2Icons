@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/airplay_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.41,21.5 L15.58,21.5 C16.47,21.5 16.92,20.42 16.29,19.79 L12.7,16.2 C12.5131685,16.0127473 12.2595176,15.9075144 11.995,15.9075144 C11.7304824,15.9075144 11.4768315,16.0127473 11.29,16.2 L7.7,19.79 C7.08,20.42 7.52,21.5 8.41,21.5 Z M21,2.5 L3,2.5 C1.9,2.5 1,3.4 1,4.5 L1,16.5 C1,17.6 1.9,18.5 3,18.5 L6,18.5 C6.55,18.5 7,18.05 7,17.5 C7,16.95 6.55,16.5 6,16.5 L4,16.5 C3.45,16.5 3,16.05 3,15.5 L3,5.5 C3,4.95 3.45,4.5 4,4.5 L20,4.5 C20.55,4.5 21,4.95 21,5.5 L21,15.5 C21,16.05 20.55,16.5 20,16.5 L18,16.5 C17.45,16.5 17,16.95 17,17.5 C17,18.05 17.45,18.5 18,18.5 L21,18.5 C22.1,18.5 23,17.6 23,16.5 L23,4.5 C23,3.4 22.1,2.5 21,2.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/airplay_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

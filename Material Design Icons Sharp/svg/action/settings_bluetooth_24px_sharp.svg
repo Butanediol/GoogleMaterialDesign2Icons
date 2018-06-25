@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/settings_bluetooth_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.645,24 L13.645,24 L13.645,22 L11.645,22 L11.645,24 Z M7.645,24 L9.645,24 L9.645,22 L7.645,22 L7.645,24 Z M15.645,24 L17.645,24 L17.645,22 L15.645,22 L15.645,24 Z M18.355,5.71 L12.645,0 L11.645,0 L11.645,7.59 L7.055,3 L5.645,4.41 L11.235,10 L5.645,15.59 L7.055,17 L11.645,12.41 L11.645,20 L12.645,20 L18.355,14.29 L14.055,10 L18.355,5.71 Z M13.645,3.83 L15.525,5.71 L13.645,7.59 L13.645,3.83 Z M15.525,14.29 L13.645,16.17 L13.645,12.41 L15.525,14.29 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/settings_bluetooth_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

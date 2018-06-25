@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/golf_course_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.5,21 C20.3284271,21 21,20.3284271 21,19.5 C21,18.6715729 20.3284271,18 19.5,18 C18.6715729,18 18,18.6715729 18,19.5 C18,20.3284271 18.6715729,21 19.5,21 Z M17,5.92 L9,2 L9,20 L7,20 L7,18.27 C5.21,18.62 4,19.26 4,20 C4,21.1 6.69,22 10,22 C13.31,22 16,21.1 16,20 C16,19.01 13.84,18.19 11,18.03 L11,8.98 L17,5.92 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/golf_course_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

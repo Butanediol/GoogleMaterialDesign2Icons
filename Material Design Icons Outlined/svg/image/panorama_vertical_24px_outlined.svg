@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/panorama_vertical_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.935,21.12 C18.835,18.18 18.295,15.09 18.295,12 C18.295,8.91 18.845,5.82 19.935,2.88 C19.975,2.77 19.995,2.66 19.995,2.57 C19.995,2.23 19.765,2 19.365,2 L4.625,2 C4.225,2 3.995,2.23 3.995,2.57 C3.995,2.67 4.015,2.77 4.055,2.88 C5.155,5.82 5.705,8.91 5.705,12 C5.705,15.09 5.155,18.18 4.065,21.12 C4.015,21.23 3.995,21.34 3.995,21.43 C3.995,21.76 4.225,22 4.625,22 L19.375,22 C19.765,22 20.005,21.76 20.005,21.43 C19.995,21.33 19.975,21.23 19.935,21.12 Z M6.535,20 C7.305,17.4 7.695,14.72 7.695,12 C7.695,9.28 7.305,6.6 6.535,4 L17.445,4 C16.675,6.6 16.285,9.28 16.285,12 C16.285,14.72 16.675,17.4 17.445,20 L6.535,20 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/panorama_vertical_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

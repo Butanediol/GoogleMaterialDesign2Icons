@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/record_voice_over_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,13 C11.209139,13 13,11.209139 13,9 C13,6.790861 11.209139,5 9,5 C6.790861,5 5,6.790861 5,9 C5,11.209139 6.790861,13 9,13 Z M9,15 C6.33,15 1,16.34 1,19 L1,21 L17,21 L17,19 C17,16.34 11.67,15 9,15 Z M15.08,7.05 C15.92,8.23 15.92,9.76 15.08,10.94 L16.76,12.63 C18.78,10.61 18.78,7.56 16.76,5.36 L15.08,7.05 Z M20.07,2 L18.44,3.63 C21.21,6.65 21.21,11.19 18.44,14.37 L20.07,16 C23.97,12.11 23.98,6.05 20.07,2 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/record_voice_over_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

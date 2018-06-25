@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/swap_calls_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.65,4.85 L14.86,7.64 C14.54,7.96 14.76,8.5 15.21,8.5 L17,8.5 L17,15.38 C17,16.38 16.33,17.31 15.34,17.47 C14.09,17.68 13,16.71 13,15.5 L13,8.67 C13,6.58 11.47,4.72 9.39,4.52 C7.01,4.29 5,6.16 5,8.5 L5,15.5 L3.21,15.5 C2.76,15.5 2.54,16.04 2.86,16.35 L5.65,19.14 C5.85,19.34 6.16,19.34 6.36,19.14 L9.15,16.35 C9.46,16.04 9.24,15.5 8.79,15.5 L7,15.5 L7,8.62 C7,7.62 7.67,6.69 8.66,6.53 C9.91,6.32 11,7.29 11,8.5 L11,15.33 C11,17.42 12.53,19.28 14.61,19.48 C16.99,19.71 19,17.84 19,15.5 L19,8.5 L20.79,8.5 C21.24,8.5 21.46,7.96 21.14,7.65 L18.35,4.86 C18.16,4.66 17.84,4.66 17.65,4.85 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/swap_calls_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

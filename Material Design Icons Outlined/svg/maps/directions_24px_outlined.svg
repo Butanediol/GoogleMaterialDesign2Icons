@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/directions_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.4274519,10.5931281 L13.4174519,1.5831281 C12.6674519,0.833128104 11.3474519,0.823128104 10.5874519,1.5831281 L1.58745192,10.5831281 C0.807451923,11.3631281 0.807451923,12.6231281 1.58745192,13.4031281 L10.5874519,22.4031281 C10.9774519,22.7931281 11.4874519,22.9831281 11.9974519,22.9831281 C12.5074519,22.9831281 13.0174519,22.7931281 13.4074519,22.4031281 L22.3974519,13.4131281 C23.1874519,12.6531281 23.1974519,11.3931281 22.4274519,10.5931281 Z M12.0074519,20.9931281 L3.00745192,11.9931281 L12.0074519,2.9931281 L21.0074519,11.9931281 L12.0074519,20.9931281 Z M7.99745192,11.0031281 L7.99745192,15.0031281 L9.99745192,15.0031281 L9.99745192,12.0031281 L13.9974519,12.0031281 L13.9974519,14.5031281 L17.4974519,11.0031281 L13.9974519,7.5031281 L13.9974519,10.0031281 L8.99745192,10.0031281 C8.44745192,10.0031281 7.99745192,10.4531281 7.99745192,11.0031281 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/directions_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

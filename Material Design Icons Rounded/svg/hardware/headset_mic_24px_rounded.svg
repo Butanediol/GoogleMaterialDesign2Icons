@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/headset_mic_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.4,1.01975109 C6.62,1.32975109 3,5.51975109 3,10.3097511 L3,16.9997511 C3,18.6597511 4.34,19.9997511 6,19.9997511 L7,19.9997511 C8.1,19.9997511 9,19.0997511 9,17.9997511 L9,13.9997511 C9,12.8997511 8.1,11.9997511 7,11.9997511 L5,11.9997511 L5,10.2897511 C5,6.44975109 7.96,3.10975109 11.79,2.99975109 C15.76,2.88975109 19,6.05975109 19,9.99975109 L19,11.9997511 L17,11.9997511 C15.9,11.9997511 15,12.8997511 15,13.9997511 L15,17.9997511 C15,19.0997511 15.9,19.9997511 17,19.9997511 L19,19.9997511 L19,20.9997511 L13,20.9997511 C12.45,20.9997511 12,21.4497511 12,21.9997511 C12,22.5497511 12.45,22.9997511 13,22.9997511 L18,22.9997511 C19.66,22.9997511 21,21.6597511 21,19.9997511 L21,9.99975109 C21,4.82975109 16.64,0.679751086 11.4,1.01975109 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/headset_mic_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/perm_scan_wifi_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,3 C6.95,3 3.15,4.85 0,7.23 L12,22 L24,7.25 C20.85,4.87 17.05,3 12,3 Z M13,16 L11,16 L11,10 L13,10 L13,16 Z M11,8 L11,6 L13,6 L13,8 L11,8 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/perm_scan_wifi_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

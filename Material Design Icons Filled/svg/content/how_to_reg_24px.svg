@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/how_to_reg_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9,17 L12,14.06 C11.61,14.02 11.32,14 11,14 C8.33,14 3,15.34 3,18 L3,20 L12,20 L9,17 Z M11,12 C13.21,12 15,10.21 15,8 C15,5.79 13.21,4 11,4 C8.79,4 7,5.79 7,8 C7,10.21 8.79,12 11,12 Z M15.47,20.5 L12,17 L13.4,15.59 L15.47,17.67 L20.6,12.5 L22,13.91 L15.47,20.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/how_to_reg_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/no_encryption_gmailerrorred_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.805,6.20875 C8.805,4.49875 10.195,3.10875 11.905,3.10875 C13.615,3.10875 15.005,4.49875 15.005,6.20875 L15.005,8.20875 L10.345,8.20875 L19.905,17.76875 L19.905,10.20875 C19.905,9.10875 19.005,8.20875 17.905,8.20875 L16.905,8.20875 L16.905,6.20875 C16.905,3.44875 14.665,1.20875 11.905,1.20875 C9.585,1.20875 7.645,2.79875 7.085,4.94875 L8.805,6.66875 L8.805,6.20875 Z M5.025,5.71875 C4.83816847,5.53149733 4.58451764,5.42626439 4.32,5.42626439 C4.05548236,5.42626439 3.80183153,5.53149733 3.615,5.71875 C3.225,6.10875 3.225,6.73875 3.615,7.12875 L4.945,8.45875 C4.325,8.80875 3.905,9.45875 3.905,10.20875 L3.905,20.20875 C3.905,21.30875 4.805,22.20875 5.905,22.20875 L18.685,22.20875 L18.975,22.49875 C19.365,22.88875 19.995,22.88875 20.385,22.49875 C20.775,22.10875 20.775,21.47875 20.385,21.08875 L5.025,5.71875 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/no_encryption_gmailerrorred_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

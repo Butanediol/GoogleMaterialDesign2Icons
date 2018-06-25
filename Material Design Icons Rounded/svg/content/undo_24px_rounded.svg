@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/undo_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.4661716,8 C9.81617163,8 7.41617163,8.99 5.56617163,10.6 L3.67617163,8.71 C3.04617163,8.08 1.96617163,8.52 1.96617163,9.41 L1.96617163,15 C1.96617163,15.55 2.41617163,16 2.96617163,16 L8.55617163,16 C9.44617163,16 9.89617163,14.92 9.26617163,14.29 L7.35617163,12.38 C8.74617163,11.22 10.5161716,10.5 12.4761716,10.5 C15.6361716,10.5 18.3661716,12.34 19.6661716,15 C19.9361716,15.56 20.5761716,15.84 21.1661716,15.64 C21.8761716,15.41 22.2361716,14.6 21.9161716,13.92 C20.1961716,10.42 16.6161716,8 12.4661716,8 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/undo_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

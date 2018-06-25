@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_library_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,11.275 C9.64,9.075 6.48,7.725 3,7.725 L3,18.725 C6.48,18.725 9.64,20.075 12,22.275 C14.36,20.085 17.52,18.725 21,18.725 L21,7.725 C17.52,7.725 14.36,9.075 12,11.275 Z M12,7.725 C13.66,7.725 15,6.385 15,4.725 C15,3.065 13.66,1.725 12,1.725 C10.34,1.725 9,3.065 9,4.725 C9,6.385 10.34,7.725 12,7.725 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_library_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

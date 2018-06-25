@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_car_wash_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.58,7.1 L5.43,7.1 L3,14.1 L3,23.1 L6,23.1 L6,21.1 L18,21.1 L18,23.1 L21,23.1 L21,14.1 L18.58,7.1 Z M6.5,18.1 C5.67,18.1 5,17.43 5,16.6 C5,15.77 5.67,15.1 6.5,15.1 C7.33,15.1 8,15.77 8,16.6 C8,17.43 7.33,18.1 6.5,18.1 Z M17.5,18.1 C16.67,18.1 16,17.43 16,16.6 C16,15.77 16.67,15.1 17.5,15.1 C18.33,15.1 19,15.77 19,16.6 C19,17.43 18.33,18.1 17.5,18.1 Z M5,13.1 L6.5,8.6 L17.5,8.6 L19,13.1 L5,13.1 Z M17,5.1 C17.83,5.1 18.5,4.43 18.5,3.6 C18.5,2.6 17,0.9 17,0.9 C17,0.9 15.5,2.6 15.5,3.6 C15.5,4.43 16.17,5.1 17,5.1 Z M12,5.1 C12.83,5.1 13.5,4.43 13.5,3.6 C13.5,2.6 12,0.9 12,0.9 C12,0.9 10.5,2.6 10.5,3.6 C10.5,4.43 11.17,5.1 12,5.1 Z M7,5.1 C7.83,5.1 8.5,4.43 8.5,3.6 C8.5,2.6 7,0.9 7,0.9 C7,0.9 5.5,2.6 5.5,3.6 C5.5,4.43 6.17,5.1 7,5.1 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_car_wash_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

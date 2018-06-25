@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/signal_cellular_connected_no_internet_4_bar_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.2932386,17.2970058 C20.8432386,17.2970058 21.2932386,16.8470058 21.2932386,16.2970058 L21.2932386,10.2970058 C21.2932386,9.74700582 20.8432386,9.29700582 20.2932386,9.29700582 C19.7432386,9.29700582 19.2932386,9.74700582 19.2932386,10.2970058 L19.2932386,16.2970058 C19.2932386,16.8470058 19.7432386,17.2970058 20.2932386,17.2970058 Z M19.2932386,21.2970058 L21.2932386,21.2970058 L21.2932386,19.2970058 L19.2932386,19.2970058 L19.2932386,21.2970058 Z M3.70323859,21.2970058 L17.2932386,21.2970058 L17.2932386,10.2970058 C17.2932386,8.63700582 18.6332386,7.29700582 20.2932386,7.29700582 L21.2932386,7.29700582 L21.2932386,3.70700582 C21.2932386,2.81700582 20.2132386,2.36700582 19.5832386,2.99700582 L3.00323859,19.5870058 C2.37323859,20.2170058 2.81323859,21.2970058 3.70323859,21.2970058 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/signal_cellular_connected_no_internet_4_bar_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

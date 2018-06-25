@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/bluetooth_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.355,7.71 L12.645,2 L11.645,2 L11.645,9.59 L7.055,5 L5.645,6.41 L11.235,12 L5.645,17.59 L7.055,19 L11.645,14.41 L11.645,22 L12.645,22 L18.355,16.29 L14.055,12 L18.355,7.71 Z M13.645,5.83 L15.525,7.71 L13.645,9.59 L13.645,5.83 Z M15.525,16.29 L13.645,18.17 L13.645,14.41 L15.525,16.29 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/bluetooth_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

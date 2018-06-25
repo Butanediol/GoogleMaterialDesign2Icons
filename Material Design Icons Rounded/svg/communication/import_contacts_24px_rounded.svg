@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/import_contacts_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.505,3.6775 C15.555,3.6775 13.455,4.0775 12.005,5.1775 C10.555,4.0775 8.455,3.6775 6.505,3.6775 C5.055,3.6775 3.515,3.8975 2.225,4.4675 C1.495,4.7975 1.005,5.5075 1.005,6.3175 L1.005,17.5975 C1.005,18.8975 2.225,19.8575 3.485,19.5375 C4.465,19.2875 5.505,19.1775 6.505,19.1775 C8.065,19.1775 9.725,19.4375 11.065,20.0975 C11.665,20.3975 12.345,20.3975 12.935,20.0975 C14.275,19.4275 15.935,19.1775 17.495,19.1775 C18.495,19.1775 19.535,19.2875 20.515,19.5375 C21.775,19.8675 22.995,18.9075 22.995,17.5975 L22.995,6.3175 C22.995,5.5075 22.505,4.7975 21.775,4.4675 C20.495,3.8975 18.955,3.6775 17.505,3.6775 Z M21.005,16.4075 C21.005,17.0375 20.425,17.4975 19.805,17.3875 C19.055,17.2475 18.275,17.1875 17.505,17.1875 C15.805,17.1875 13.355,17.8375 12.005,18.6875 L12.005,7.1775 C13.355,6.3275 15.805,5.6775 17.505,5.6775 C18.425,5.6775 19.335,5.7675 20.205,5.9575 C20.665,6.0575 21.005,6.4675 21.005,6.9375 L21.005,16.4075 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/import_contacts_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

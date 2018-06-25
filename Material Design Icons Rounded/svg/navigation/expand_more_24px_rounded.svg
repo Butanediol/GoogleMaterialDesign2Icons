@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/expand_more_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.875,8.9999928 L11.995,12.8799928 L8.115,8.9999928 C7.92816847,8.81274013 7.67451764,8.7075072 7.41,8.7075072 C7.14548236,8.7075072 6.89183153,8.81274013 6.705,8.9999928 C6.315,9.3899928 6.315,10.0199928 6.705,10.4099928 L11.295,14.9999928 C11.685,15.3899928 12.315,15.3899928 12.705,14.9999928 L17.295,10.4099928 C17.685,10.0199928 17.685,9.3899928 17.295,8.9999928 C16.905,8.6199928 16.265,8.6099928 15.875,8.9999928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/expand_more_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

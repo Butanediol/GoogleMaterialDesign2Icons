@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/navigation/unfold_less_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.12,19.2999928 C8.51,19.6899928 9.14,19.6899928 9.53,19.2999928 L12,16.8299928 L14.47,19.2999928 C14.86,19.6899928 15.49,19.6899928 15.88,19.2999928 C16.27,18.9099928 16.27,18.2799928 15.88,17.8899928 L12.71,14.7199928 C12.5231685,14.5327401 12.2695176,14.4275072 12.005,14.4275072 C11.7404824,14.4275072 11.4868315,14.5327401 11.3,14.7199928 L8.13,17.8899928 C7.73,18.2699928 7.73,18.9099928 8.12,19.2999928 Z M15.88,4.6999928 C15.6931685,4.51274013 15.4395176,4.4075072 15.175,4.4075072 C14.9104824,4.4075072 14.6568315,4.51274013 14.47,4.6999928 L12,7.1699928 L9.53,4.6999928 C9.34316847,4.51274013 9.08951764,4.4075072 8.825,4.4075072 C8.56048236,4.4075072 8.30683153,4.51274013 8.12,4.6999928 C7.73,5.0899928 7.73,5.7299928 8.12,6.1199928 L11.29,9.2899928 C11.68,9.6799928 12.31,9.6799928 12.7,9.2899928 L15.87,6.1199928 C16.27,5.7299928 16.27,5.0899928 15.88,4.6999928 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/unfold_less_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

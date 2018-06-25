@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/hdr_weak_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,8 C2.79,8 1,9.79 1,12 C1,14.21 2.79,16 5,16 C7.21,16 9,14.21 9,12 C9,9.79 7.21,8 5,8 Z M17,6 C13.69,6 11,8.69 11,12 C11,15.31 13.69,18 17,18 C20.31,18 23,15.31 23,12 C23,8.69 20.31,6 17,6 Z M17,16 C14.79,16 13,14.21 13,12 C13,9.79 14.79,8 17,8 C19.21,8 21,9.79 21,12 C21,14.21 19.21,16 17,16 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/hdr_weak_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

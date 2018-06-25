@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/beenhere_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,1.1025 L5,1.1025 C3.9,1.1025 3.01,2.0025 3.01,3.1025 L3,16.0325 C3,16.7225 3.35,17.3325 3.88,17.6925 L11.45,22.7325 C11.79,22.9525 12.22,22.9525 12.56,22.7325 L20.12,17.6925 C20.65,17.3325 21,16.7225 21,16.0325 L21,3.1025 C21,2.0025 20.1,1.1025 19,1.1025 Z M18.3,7.8025 L10.71,15.3925 C10.32,15.7825 9.69,15.7825 9.3,15.3925 L5.71,11.8025 C5.32,11.4125 5.32,10.7825 5.71,10.3925 C6.1,10.0025 6.73,10.0025 7.12,10.3925 L10,13.2725 L16.88,6.3925 C17.27,6.0025 17.9,6.0025 18.29,6.3925 C18.68,6.7825 18.69,7.4125 18.3,7.8025 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/beenhere_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

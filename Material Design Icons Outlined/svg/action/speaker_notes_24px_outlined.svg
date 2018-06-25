@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/speaker_notes_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,2 L4,2 C2.9,2 2.01,2.9 2.01,4 L2,22 L6,18 L20,18 C21.1,18 22,17.1 22,16 L22,4 C22,2.9 21.1,2 20,2 Z M20,16 L5.17,16 L4.58,16.59 L4,17.17 L4,4 L20,4 L20,16 Z M6,12 L8,12 L8,14 L6,14 L6,12 Z M6,9 L8,9 L8,11 L6,11 L6,9 Z M6,6 L8,6 L8,8 L6,8 L6,6 Z M10,12 L15,12 L15,14 L10,14 L10,12 Z M10,9 L18,9 L18,11 L10,11 L10,9 Z M10,6 L18,6 L18,8 L10,8 L10,6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/speaker_notes_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

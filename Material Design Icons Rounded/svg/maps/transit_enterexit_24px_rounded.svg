@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/transit_enterexit_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.7943708,17.703163 L8.29437078,17.703163 C7.19437078,17.703163 6.29437078,16.803163 6.29437078,15.703163 L6.29437078,9.20316301 C6.29437078,8.37316301 6.96437078,7.70316301 7.79437078,7.70316301 C8.62437078,7.70316301 9.29437078,8.37316301 9.29437078,9.20316301 L9.29437078,12.473163 L15.2443708,6.70316301 C15.8143708,6.15316301 16.7243708,6.16316301 17.2843708,6.72316301 C17.8443708,7.28316301 17.8443708,8.19316301 17.2943708,8.76316301 L11.4443708,14.703163 L14.7943708,14.703163 C15.6243708,14.703163 16.2943708,15.373163 16.2943708,16.203163 C16.2943708,17.033163 15.6243708,17.703163 14.7943708,17.703163 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/transit_enterexit_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

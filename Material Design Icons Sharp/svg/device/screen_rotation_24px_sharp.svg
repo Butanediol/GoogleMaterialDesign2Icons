@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/screen_rotation_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.48,2.52 C19.75,4.07 22.09,7.24 22.45,11 L23.95,11 C23.44,4.84 18.29,0 12,0 L11.34,0.03 L15.15,3.84 L16.48,2.52 Z M7.52,21.48 C4.25,19.94 1.91,16.76 1.55,13 L0.05,13 C0.56,19.16 5.71,24 12,24 L12.66,23.97 L8.85,20.16 L7.52,21.48 Z M9.17,0.69 L0.69,9.17 L14.83,23.31 L23.31,14.83 L9.17,0.69 Z M14.83,21.19 L2.81,9.17 L9.17,2.81 L21.19,14.83 L14.83,21.19 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/screen_rotation_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

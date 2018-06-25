@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/compass_calibration_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.0055182,13 C9.79637917,13 8.00551817,14.790861 8.00551817,17 C8.00551817,19.209139 9.79637917,21 12.0055182,21 C14.2146572,21 16.0055182,19.209139 16.0055182,17 C16.0055182,14.790861 14.2146572,13 12.0055182,13 Z M12.0055182,3 C8.49551817,3 5.28551817,4.29 2.80551817,6.41 C2.36551817,6.79 2.32551817,7.47 2.74551817,7.89 L6.34551817,11.49 C6.70551817,11.85 7.26551817,11.88 7.66551817,11.57 C8.86551817,10.63 10.3755182,10.07 12.0055182,10.07 C13.6455182,10.07 15.1455182,10.63 16.3455182,11.56 C16.7455182,11.87 17.3055182,11.84 17.6555182,11.48 L21.2555182,7.88 C21.6755182,7.46 21.6355182,6.78 21.1855182,6.4 C18.7255182,4.28 15.5155182,3 12.0055182,3 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/compass_calibration_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

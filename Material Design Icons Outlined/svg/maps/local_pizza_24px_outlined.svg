@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_pizza_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,2 C8.43,2 5.23,3.54 3.01,6 L12,22 L20.99,6 C18.78,3.55 15.57,2 12,2 Z M12,17.92 L5.51,6.36 C7.32,4.85 9.62,4 12,4 C14.38,4 16.68,4.85 18.49,6.36 L12,17.92 Z M9,5.5 C8.17,5.5 7.5,6.17 7.5,7 C7.5,7.83 8.17,8.5 9,8.5 C9.83,8.5 10.5,7.83 10.5,7 C10.5,6.17 9.82,5.5 9,5.5 Z M10.5,13 C10.5,13.83 11.17,14.5 12,14.5 C12.82,14.5 13.5,13.83 13.5,13 C13.5,12.17 12.82,11.5 12,11.5 C11.18,11.5 10.5,12.17 10.5,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_pizza_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/airline_seat_flat_angled_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.995,16.42902 L8.635,11.95902 L10.715,6.29902005 L23.065,10.76902 L20.995,16.42902 Z M0.935,12.38902 L7.435,14.72902 L7.435,19.24902 L15.435,19.24902 L15.435,17.61902 L19.955,19.24902 L20.645,17.35902 L1.625,10.49902 L0.935,12.38902 Z M6.735,10.44902 C8.225,9.72902005 8.855,7.93902005 8.145,6.44902005 C7.425,4.95902005 5.635,4.32902005 4.135,5.04902005 C2.645,5.75902005 2.015,7.54902005 2.735,9.04902005 C3.445,10.53902 5.235,11.16902 6.735,10.44902 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/airline_seat_flat_angled_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

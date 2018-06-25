@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/money_off_csred_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.42,6.9 C13.84,6.9 14.55,7.44 14.81,8.3 C14.94,8.73 15.37,9 15.82,9 L15.88,9 C16.58,9 17.1,8.29 16.85,7.64 C16.41,6.49 15.44,5.56 13.92,5.19 L13.92,4.5 C13.92,3.67 13.25,3 12.42,3 C11.59,3 10.92,3.67 10.92,4.5 L10.92,5.16 C10.53,5.24 10.17,5.37 9.82,5.52 L11.33,7.03 C11.65,6.95 12.02,6.9 12.42,6.9 Z M4.69,4.62 C4.3,5.01 4.3,5.64 4.69,6.03 L7.42,8.77 C7.42,10.85 8.98,11.99 11.33,12.68 L14.84,16.19 C14.5,16.68 13.79,17.1 12.42,17.1 C10.77,17.1 9.92,16.51 9.59,15.67 C9.44,15.28 9.1,15 8.69,15 L8.52,15 C7.8,15 7.28,15.74 7.57,16.39 C8.16,17.72 9.46,18.51 10.93,18.83 L10.93,19.5 C10.93,20.33 11.6,21 12.43,21 C13.26,21 13.93,20.33 13.93,19.5 L13.93,18.85 C14.89,18.67 15.76,18.3 16.39,17.73 L17.9,19.24 C18.29,19.63 18.92,19.63 19.31,19.24 C19.7,18.85 19.7,18.22 19.31,17.83 L6.1,4.62 C5.91316847,4.43274733 5.65951764,4.32751439 5.395,4.32751439 C5.13048236,4.32751439 4.87683153,4.43274733 4.69,4.62 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/editor/money_off_csred_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

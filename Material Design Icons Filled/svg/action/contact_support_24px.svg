@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/contact_support_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.5,2 C6.81,2 3,5.81 3,10.5 C3,15.19 6.81,19 11.5,19 L12,19 L12,22 C16.86,19.66 20,15 20,10.5 C20,5.81 16.19,2 11.5,2 Z M12.5,16.5 L10.5,16.5 L10.5,14.5 L12.5,14.5 L12.5,16.5 Z M12.5,13 L10.5,13 C10.5,9.75 13.5,10 13.5,8 C13.5,6.9 12.6,6 11.5,6 C10.4,6 9.5,6.9 9.5,8 L7.5,8 C7.5,5.79 9.29,4 11.5,4 C13.71,4 15.5,5.79 15.5,8 C15.5,10.5 12.5,10.75 12.5,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/contact_support_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

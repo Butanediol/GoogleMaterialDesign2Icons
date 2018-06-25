@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/commute_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,0 L3,0 C1.34,0 0,1.34 0,3 L0,11 C0,12.66 1.34,14 3,14 L2,15 L2,16 L3,16 L5,14 L7,14 L7,9 L2,9 L2,2 L11,2 L11,4 L13,4 L13,3 C13,1.34 11.66,0 10,0 Z M3,10 C3.55,10 4,10.45 4,11 C4,11.55 3.55,12 3,12 C2.45,12 2,11.55 2,11 C2,10.45 2.45,10 3,10 Z M18.57,5.66 C18.43,5.26 18.05,5 17.6,5 L10.41,5 C9.95,5 9.58,5.26 9.43,5.66 L8.01,9.77 L8.01,15.28 C8.01,15.66 8.32,16 8.7,16 L9.32,16 C9.7,16 10,15.62 10,15.24 L10,14 L18,14 L18,15.24 C18,15.62 18.31,16 18.69,16 L19.3,16 C19.68,16 19.99,15.66 19.99,15.28 L20,13.91 L20,9.77 L18.57,5.66 Z M10.41,6 L17.6,6 L18.63,9 L9.38,9 L10.41,6 Z M10,12 C9.45,12 9,11.55 9,11 C9,10.45 9.45,10 10,10 C10.55,10 11,10.45 11,11 C11,11.55 10.55,12 10,12 Z M18,12 C17.45,12 17,11.55 17,11 C17,10.45 17.45,10 18,10 C18.55,10 19,10.45 19,11 C19,11.55 18.55,12 18,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/commute_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(2.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

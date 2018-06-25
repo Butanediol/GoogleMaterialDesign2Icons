@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/youtube_searched_for_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.01,11 L14.21,11 L13.94,10.73 C14.92,9.59 15.51,8.12 15.51,6.5 C15.51,2.91 12.6,0 9.01,0 C5.42,0 2.51,3 2.51,6.5 L0,6.5 L3.84,10.5 L8,6.5 L4.51,6.5 C4.51,4 6.53,2 9.01,2 C11.49,2 13.51,4.01 13.51,6.5 C13.51,8.98 11.49,11 9.01,11 C8.36,11 7.75,10.86 7.19,10.62 L5.71,12.1 C6.68,12.67 7.8,13 9.01,13 C10.62,13 12.09,12.41 13.23,11.43 L13.5,11.7 L13.5,12.49 L18.51,17.48 L20,16 L15.01,11 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/youtube_searched_for_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(2.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

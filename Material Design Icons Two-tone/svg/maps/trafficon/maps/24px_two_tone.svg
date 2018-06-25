@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/trafficon/maps/24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,14 L6,14 L6,0 L0,0 L0,14 Z M3,1 C3.83,1 4.5,1.67 4.5,2.5 C4.5,3.33 3.83,4 3,4 C2.17,4 1.5,3.33 1.5,2.5 C1.5,1.67 2.17,1 3,1 Z M3,5.5 C3.83,5.5 4.5,6.17 4.5,7 C4.5,7.83 3.83,8.5 3,8.5 C2.17,8.5 1.5,7.83 1.5,7 C1.5,6.17 2.17,5.5 3,5.5 Z M3,10 C3.83,10 4.5,10.67 4.5,11.5 C4.5,12.33 3.83,13 3,13 C2.17,13 1.5,12.33 1.5,11.5 C1.5,10.67 2.17,10 3,10 Z" id="path-1"></path>
+        <path d="M16,2 L13,2 L13,1 C13,0.45 12.55,0 12,0 L4,0 C3.45,0 3,0.45 3,1 L3,2 L0,2 C0,3.86 1.28,5.41 3,5.86 L3,7 L0,7 C0,8.86 1.28,10.41 3,10.86 L3,12 L0,12 C0,13.86 1.28,15.41 3,15.86 L3,17 C3,17.55 3.45,18 4,18 L12,18 C12.55,18 13,17.55 13,17 L13,15.86 C14.72,15.41 16,13.86 16,12 L13,12 L13,10.86 C14.72,10.41 16,8.86 16,7 L13,7 L13,5.86 C14.72,5.41 16,3.86 16,2 Z M11,16 L5,16 L5,2 L11,2 L11,16 Z" id="path-3"></path>
+        <path d="M2,3 C2.83,3 3.5,2.33 3.5,1.5 C3.5,0.67 2.83,0 2,0 C1.17,0 0.5,0.67 0.5,1.5 C0.5,2.33 1.17,3 2,3 Z" id="path-5"></path>
+        <path d="M2,3.5 C2.83,3.5 3.5,2.83 3.5,2 C3.5,1.17 2.83,0.5 2,0.5 C1.17,0.5 0.5,1.17 0.5,2 C0.5,2.83 1.17,3.5 2,3.5 Z" id="path-7"></path>
+        <path d="M2,3 C2.83,3 3.5,2.33 3.5,1.5 C3.5,0.67 2.83,0 2,0 C1.17,0 0.5,0.67 0.5,1.5 C0.5,2.33 1.17,3 2,3 Z" id="path-9"></path>
+    </defs>
+    <g id="icon/maps/trafficon/maps/24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Light-Color" transform="translate(9.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" opacity="0.3" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Disabled" mask="url(#mask-2)" fill="#000000" fill-opacity="0.38">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(4.000000, 3.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-4)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(10.000000, 15.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-6)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(10.000000, 10.000000)">
+            <mask id="mask-8" fill="white">
+                <use xlink:href="#path-7"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-8)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+        <g id="↳-Dark-Color" transform="translate(10.000000, 6.000000)">
+            <mask id="mask-10" fill="white">
+                <use xlink:href="#path-9"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-10)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

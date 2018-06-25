@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/mouse_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13,1.035 L13,8.965 L20,8.965 C20,4.885 16.95,1.525 13,1.035 Z M4,14.965 C4,19.385 7.58,22.965 12,22.965 C16.42,22.965 20,19.385 20,14.965 L20,10.965 L4,10.965 L4,14.965 Z M11,1.035 C7.05,1.525 4,4.885 4,8.965 L11,8.965 L11,1.035 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/mouse_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

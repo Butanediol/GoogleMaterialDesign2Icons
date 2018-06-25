@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/star_rate_18px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,15.8501794 L15.28,18.2368461 C15.8,18.6235127 16.5066667,18.1035127 16.3066667,17.4901794 L15.0533333,13.6368461 L18.2933333,11.3301794 C18.8266667,10.9568461 18.56,10.1168461 17.9066667,10.1168461 L13.9333333,10.1168461 L12.64,6.09017941 C12.44,5.47684608 11.5733333,5.47684608 11.3733333,6.09017941 L10.0666667,10.1168461 L6.09333333,10.1168461 C5.44,10.1168461 5.17333333,10.9568461 5.70666667,11.3301794 L8.94666667,13.6368461 L7.69333333,17.4901794 C7.49333333,18.1035127 8.2,18.6101794 8.72,18.2368461 L12,15.8501794 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/star_rate_18px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

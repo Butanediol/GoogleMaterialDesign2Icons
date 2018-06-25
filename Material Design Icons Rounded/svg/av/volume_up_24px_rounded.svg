@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/volume_up_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,10.0018131 L3,14.0018131 C3,14.5518131 3.45,15.0018131 4,15.0018131 L7,15.0018131 L10.29,18.2918131 C10.92,18.9218131 12,18.4718131 12,17.5818131 L12,6.41181306 C12,5.52181306 10.92,5.07181306 10.29,5.70181306 L7,9.00181306 L4,9.00181306 C3.45,9.00181306 3,9.45181306 3,10.0018131 Z M16.5,12.0018131 C16.5,10.2318131 15.48,8.71181306 14,7.97181306 L14,16.0218131 C15.48,15.2918131 16.5,13.7718131 16.5,12.0018131 Z M14,4.45181306 L14,4.65181306 C14,5.03181306 14.25,5.36181306 14.6,5.50181306 C17.18,6.53181306 19,9.06181306 19,12.0018131 C19,14.9418131 17.18,17.4718131 14.6,18.5018131 C14.24,18.6418131 14,18.9718131 14,19.3518131 L14,19.5518131 C14,20.1818131 14.63,20.6218131 15.21,20.4018131 C18.6,19.1118131 21,15.8418131 21,12.0018131 C21,8.16181306 18.6,4.89181306 15.21,3.60181306 C14.63,3.37181306 14,3.82181306 14,4.45181306 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/volume_up_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/loupe_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.998347,6.99834698 L10.998347,6.99834698 L10.998347,10.998347 L6.99834698,10.998347 L6.99834698,12.998347 L10.998347,12.998347 L10.998347,16.998347 L12.998347,16.998347 L12.998347,12.998347 L16.998347,12.998347 L16.998347,10.998347 L12.998347,10.998347 L12.998347,6.99834698 Z M12.728347,2.02834698 C6.64834698,1.58834698 1.58834698,6.64834698 2.02834698,12.728347 C2.40834698,18.008347 7.02834698,21.998347 12.318347,21.998347 L21.998347,21.998347 L21.998347,12.318347 C21.998347,7.01834698 18.018347,2.40834698 12.728347,2.02834698 Z M11.998347,19.998347 C7.58834698,19.998347 3.99834698,16.408347 3.99834698,11.998347 C3.99834698,7.58834698 7.58834698,3.99834698 11.998347,3.99834698 C16.408347,3.99834698 19.998347,7.58834698 19.998347,11.998347 C19.998347,16.408347 16.408347,19.998347 11.998347,19.998347 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/loupe_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

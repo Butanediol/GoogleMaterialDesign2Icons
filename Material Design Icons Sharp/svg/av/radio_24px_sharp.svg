@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/radio_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,7.17 L2,22.5 L22,22.5 L22,6.5 L8.3,6.5 L16.56,3.16 L15.88,1.5 L2,7.17 Z M7,20.5 C5.34,20.5 4,19.16 4,17.5 C4,15.84 5.34,14.5 7,14.5 C8.66,14.5 10,15.84 10,17.5 C10,19.16 8.66,20.5 7,20.5 Z M20,12.5 L18,12.5 L18,10.5 L16,10.5 L16,12.5 L4,12.5 L4,8.5 L20,8.5 L20,12.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/radio_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

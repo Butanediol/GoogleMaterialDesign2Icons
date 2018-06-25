@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/history_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.5,3 C8.53,3 4.5,7.03 4.5,12 L1.5,12 L5.39,15.89 L5.46,16.03 L9.5,12 L6.5,12 C6.5,8.13 9.63,5 13.5,5 C17.37,5 20.5,8.13 20.5,12 C20.5,15.87 17.37,19 13.5,19 C11.57,19 9.82,18.21 8.56,16.94 L7.14,18.36 C8.77,19.99 11.01,21 13.5,21 C18.47,21 22.5,16.97 22.5,12 C22.5,7.03 18.47,3 13.5,3 Z M12.5,8 L12.5,13 L16.75,15.52 L17.52,14.23 L14,12.14 L14,8 L12.5,8 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/history_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

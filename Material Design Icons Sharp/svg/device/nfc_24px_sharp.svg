@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/device/nfc_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22,2 L2,2 L2,22 L22,22 L22,2 Z M20,20 L4,20 L4,4 L20,4 L20,20 Z M18,6 L11,6 L11,10.28 C10.4,10.63 10,11.26 10,12 C10,13.1 10.9,14 12,14 C13.1,14 14,13.1 14,12 C14,11.26 13.6,10.62 13,10.28 L13,8 L16,8 L16,16 L8,16 L8,8 L10,8 L10,6 L6,6 L6,18 L18,18 L18,6 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/device/nfc_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

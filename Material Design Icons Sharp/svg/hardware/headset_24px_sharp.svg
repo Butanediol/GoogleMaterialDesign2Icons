@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/hardware/headset_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.4,2.51975109 C6.62,2.82975109 3,7.01975109 3,11.8097511 L3,21.4997511 L9,21.4997511 L9,13.4997511 L5,13.4997511 L5,11.7897511 C5,7.94975109 7.96,4.60975109 11.79,4.49975109 C15.76,4.38975109 19,7.55975109 19,11.4997511 L19,13.4997511 L15,13.4997511 L15,21.4997511 L21,21.4997511 L21,11.4997511 C21,6.32975109 16.64,2.17975109 11.4,2.51975109 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/hardware/headset_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

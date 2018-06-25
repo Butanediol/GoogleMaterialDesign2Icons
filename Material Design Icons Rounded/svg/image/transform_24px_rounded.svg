@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/image/transform_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,16.005 L9,16.005 C8.45,16.005 8,15.555 8,15.005 L8,4.005 L8.79,4.005 C9.24,4.005 9.46,3.465 9.14,3.155 L7.35,1.355 C7.15,1.155 6.84,1.155 6.64,1.355 L4.85,3.155 C4.54,3.465 4.76,4.005 5.21,4.005 L6,4.005 L6,6.005 L3,6.005 C2.45,6.005 2,6.455 2,7.005 C2,7.555 2.45,8.005 3,8.005 L6,8.005 L6,16.005 C6,17.105 6.9,18.005 8,18.005 L16,18.005 L16,20.005 L15.21,20.005 C14.76,20.005 14.54,20.545 14.86,20.855 L16.65,22.645 C16.85,22.845 17.16,22.845 17.36,22.645 L19.15,20.855 C19.47,20.545 19.24,20.005 18.8,20.005 L18,20.005 L18,18.005 L21,18.005 C21.55,18.005 22,17.555 22,17.005 C22,16.455 21.55,16.005 21,16.005 Z M16,14.005 L18,14.005 L18,8.005 C18,6.905 17.1,6.005 16,6.005 L10,6.005 L10,8.005 L15,8.005 C15.55,8.005 16,8.455 16,9.005 L16,14.005 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/image/transform_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

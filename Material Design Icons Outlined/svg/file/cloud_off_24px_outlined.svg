@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/file/cloud_off_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M24,14.07 C24,11.43 21.95,9.29 19.35,9.11 C18.67,5.66 15.64,3.07 12,3.07 C10.67,3.07 9.43,3.43 8.35,4.04 L9.84,5.53 C10.51,5.24 11.23,5.07 12,5.07 C15.04,5.07 17.5,7.53 17.5,10.57 L17.5,11.07 L19,11.07 C20.66,11.07 22,12.41 22,14.07 C22,15.06 21.52,15.92 20.79,16.47 L22.2,17.88 C23.29,16.96 24,15.61 24,14.07 Z M4.41,2.93 L3,4.34 L5.77,7.11 L5.35,7.11 C2.34,7.43 0,9.98 0,13.07 C0,16.38 2.69,19.07 6,19.07 L17.73,19.07 L19.73,21.07 L21.14,19.66 L4.41,2.93 Z M6,17.07 C3.79,17.07 2,15.28 2,13.07 C2,10.86 3.79,9.07 6,9.07 L7.73,9.07 L15.73,17.07 L6,17.07 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/file/cloud_off_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

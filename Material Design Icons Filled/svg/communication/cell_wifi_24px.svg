@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/cell_wifi_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,22 L22,22 L22,5.97 L6,22 Z M18,9.98 L6,22 L18,22 L18,9.98 Z M3.93,5.93 L5.22,7.22 C8.41,4.03 13.6,4.03 16.79,7.22 L18.08,5.93 C14.17,2.02 7.83,2.02 3.93,5.93 Z M9.07,11.07 L11,13 L12.93,11.07 C11.86,10.01 10.14,10.01 9.07,11.07 Z M6.5,8.5 L7.79,9.79 C9.56,8.02 12.44,8.02 14.22,9.79 L15.5,8.5 C13.02,6.02 8.98,6.02 6.5,8.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/cell_wifi_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

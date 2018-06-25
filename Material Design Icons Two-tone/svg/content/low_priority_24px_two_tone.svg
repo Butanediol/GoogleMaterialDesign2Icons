@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/low_priority_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,0 L20,0 L20,2 L12,2 L12,0 Z M12,5.5 L20,5.5 L20,7.5 L12,7.5 L12,5.5 Z M12,11 L20,11 L20,13 L12,13 L12,11 Z M0,6.5 C0,10.08 2.92,13 6.5,13 L7,13 L7,15 L10,12 L7,9 L7,11 L6.5,11 C4.02,11 2,8.98 2,6.5 C2,4.02 4.02,2 6.5,2 L10,2 L10,0 L6.5,0 C2.92,0 0,2.92 0,6.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/low_priority_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(2.000000, 5.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

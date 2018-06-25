@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/radio_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,6.5 L8.3,6.5 L16.56,3.16 L15.88,1.5 L3.24,6.65 C2.51,6.93 2,7.67 2,8.5 L2,20.5 C2,21.6 2.89,22.5 4,22.5 L20,22.5 C21.11,22.5 22,21.6 22,20.5 L22,8.5 C22,7.39 21.11,6.5 20,6.5 Z M20,8.5 L20,11.5 L18,11.5 L18,9.5 L16,9.5 L16,11.5 L4,11.5 L4,8.5 L20,8.5 Z M4,20.5 L4,13.5 L20,13.5 L20,20.5 L4,20.5 Z M8,14.48 C6.61928813,14.48 5.5,15.5992881 5.5,16.98 C5.5,18.3607119 6.61928813,19.48 8,19.48 C9.38071187,19.48 10.5,18.3607119 10.5,16.98 C10.5,15.5992881 9.38071187,14.48 8,14.48 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/radio_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

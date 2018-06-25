@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/phonelink_ring_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.1125,7.7 L19.1125,8.7 C20.9125,10.5 20.9125,13.3 19.1125,15.2 L20.1125,16.2 C22.6125,13.9 22.6125,10.1 20.1125,7.7 Z M18.0125,9.8 L17.0125,10.8 C17.5125,11.5 17.5125,12.4 17.0125,13.1 L18.0125,14.1 C19.2125,12.9 19.2125,11.1 18.0125,9.8 Z M16.0125,1 L2.0125,1 L2.0125,23 L16.0125,23 L16.0125,1 Z M14.0125,20 L4.0125,20 L4.0125,4 L14.0125,4 L14.0125,20 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/phonelink_ring_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

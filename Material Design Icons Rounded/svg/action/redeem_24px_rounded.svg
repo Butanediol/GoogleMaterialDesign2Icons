@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/redeem_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20,6.5 L17.82,6.5 C17.93,6.19 18,5.85 18,5.5 C18,3.84 16.66,2.5 15,2.5 C13.95,2.5 13.04,3.04 12.5,3.85 L12,4.52 L11.5,3.84 C10.96,3.04 10.05,2.5 9,2.5 C7.34,2.5 6,3.84 6,5.5 C6,5.85 6.07,6.19 6.18,6.5 L4,6.5 C2.89,6.5 2.01,7.39 2.01,8.5 L2,19.5 C2,20.61 2.89,21.5 4,21.5 L20,21.5 C21.11,21.5 22,20.61 22,19.5 L22,8.5 C22,7.39 21.11,6.5 20,6.5 Z M15,4.5 C15.55,4.5 16,4.95 16,5.5 C16,6.05 15.55,6.5 15,6.5 C14.45,6.5 14,6.05 14,5.5 C14,4.95 14.45,4.5 15,4.5 Z M9,4.5 C9.55,4.5 10,4.95 10,5.5 C10,6.05 9.55,6.5 9,6.5 C8.45,6.5 8,6.05 8,5.5 C8,4.95 8.45,4.5 9,4.5 Z M19,19.5 L5,19.5 C4.45,19.5 4,19.05 4,18.5 L4,17.5 L20,17.5 L20,18.5 C20,19.05 19.55,19.5 19,19.5 Z M20,14.5 L4,14.5 L4,9.5 C4,8.95 4.45,8.5 5,8.5 L9.08,8.5 L7.6,10.52 C7.27,10.97 7.37,11.6 7.82,11.92 C8.26,12.24 8.89,12.14 9.21,11.7 L12,7.9 L14.79,11.7 C15.11,12.14 15.74,12.24 16.18,11.92 C16.63,11.6 16.73,10.97 16.4,10.52 L14.92,8.5 L19,8.5 C19.55,8.5 20,8.95 20,9.5 L20,14.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/redeem_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

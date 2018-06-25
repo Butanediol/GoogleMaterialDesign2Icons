@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/settings_remote_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.005,9.5 L8.005,9.5 L8.005,23.5 L16.005,23.5 L16.005,9.5 Z M12.005,15.5 C10.905,15.5 10.005,14.6 10.005,13.5 C10.005,12.4 10.905,11.5 12.005,11.5 C13.105,11.5 14.005,12.4 14.005,13.5 C14.005,14.6 13.105,15.5 12.005,15.5 Z M7.055,6.55 L8.465,7.96 C9.375,7.06 10.625,6.5 12.005,6.5 C13.385,6.5 14.635,7.06 15.545,7.96 L16.955,6.55 C15.685,5.28 13.935,4.5 12.005,4.5 C10.075,4.5 8.325,5.28 7.055,6.55 Z M12.005,0.5 C8.965,0.5 6.215,1.73 4.225,3.72 L5.635,5.13 C7.265,3.51 9.515,2.5 12.005,2.5 C14.495,2.5 16.745,3.51 18.365,5.14 L19.775,3.73 C17.795,1.73 15.045,0.5 12.005,0.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/settings_remote_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/file/download_done_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,17.7175 L18,17.7175 C18.55,17.7175 19,18.1675 19,18.7175 C19,19.2675 18.55,19.7175 18,19.7175 L6,19.7175 C5.45,19.7175 5,19.2675 5,18.7175 C5,18.1675 5.45,17.7175 6,17.7175 Z M11.01,13.6175 C10.23,14.3875 8.97,14.3875 8.19,13.6075 L6,11.4175 C5.45,10.8675 5.46,9.9775 6.03,9.4475 C6.57,8.9275 7.43,8.9475 7.95,9.4675 L9.6,11.1175 L16.03,4.6875 C16.57,4.1475 17.44,4.1475 17.98,4.6875 L18.02,4.7275 C18.56,5.2675 18.56,6.1475 18.01,6.6875 L11.01,13.6175 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/file/download_done_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

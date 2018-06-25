@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/near_me_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.9491944,3.73838054 L4.26919436,9.87838054 C3.43919436,10.2283805 3.45919436,11.4083805 4.28919436,11.7283805 L9.62919436,13.7983805 C9.88919436,13.8983805 10.0991944,14.1083805 10.1991944,14.3683805 L12.2591944,19.6983805 C12.5791944,20.5383805 13.7691944,20.5583805 14.1191944,19.7283805 L20.2691944,5.05838054 C20.5991944,4.22838054 19.7691944,3.39838054 18.9491944,3.73838054 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/near_me_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

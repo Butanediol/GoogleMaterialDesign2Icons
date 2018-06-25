@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/flag_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.9,5.5 L13.66,4.3 C13.57,3.84 13.16,3.5 12.68,3.5 L5.5,3.5 C4.95,3.5 4.5,3.95 4.5,4.5 L4.5,19.5 C4.5,20.05 4.95,20.5 5.5,20.5 C6.05,20.5 6.5,20.05 6.5,19.5 L6.5,13.5 L12.1,13.5 L12.34,14.7 C12.43,15.17 12.84,15.5 13.32,15.5 L18.5,15.5 C19.05,15.5 19.5,15.05 19.5,14.5 L19.5,6.5 C19.5,5.95 19.05,5.5 18.5,5.5 L13.9,5.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/flag_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

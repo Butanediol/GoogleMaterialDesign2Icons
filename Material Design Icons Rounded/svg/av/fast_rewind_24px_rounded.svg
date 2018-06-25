@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/av/fast_rewind_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.38,16.0678398 L11.38,7.92783976 C11.38,7.11783976 10.47,6.64783976 9.8,7.10783976 L4.03,11.1778398 C3.47,11.5778398 3.47,12.4178398 4.03,12.8078398 L9.8,16.8778398 C10.47,17.3478398 11.38,16.8778398 11.38,16.0678398 Z M13.04,12.8178398 L18.81,16.8878398 C19.47,17.3578398 20.39,16.8778398 20.39,16.0678398 L20.39,7.92783976 C20.39,7.11783976 19.48,6.64783976 18.81,7.10783976 L13.04,11.1778398 C12.47,11.5778398 12.47,12.4178398 13.04,12.8178398 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/av/fast_rewind_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

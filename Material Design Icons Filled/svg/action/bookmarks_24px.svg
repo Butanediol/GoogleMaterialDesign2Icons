@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/bookmarks_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,18 L21,19 L21,3 C21,1.9 20.1,1 19,1 L8.99,1 C7.89,1 7,1.9 7,3 L17,3 C18.1,3 19,3.9 19,5 L19,18 Z M15,5 L5,5 C3.9,5 3,5.9 3,7 L3,23 L10,20 L17,23 L17,7 C17,5.9 16.1,5 15,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/bookmarks_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

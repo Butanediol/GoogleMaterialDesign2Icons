@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/places/smoke_free_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.5,12.525 L22,12.525 L22,15.525 L20.5,15.525 L20.5,12.525 Z M14.5,8.175 L16.03,8.175 C17.08,8.175 18,8.915 18,10.225 L18,11.525 L19.5,11.525 L19.5,9.885 C19.5,8.075 17.9,6.725 16.03,6.725 L14.5,6.725 C13.48,6.725 12.65,5.745 12.65,4.725 C12.65,3.705 13.48,2.975 14.5,2.975 L14.5,1.475 C12.65,1.475 11.15,2.975 11.15,4.825 C11.15,6.675 12.65,8.175 14.5,8.175 Z M17,12.525 L14.66,12.525 L17,14.865 L17,12.525 Z M18.85,4.255 C19.47,3.645 19.85,2.805 19.85,1.875 L18.35,1.875 C18.35,2.895 17.52,3.725 16.5,3.725 L16.5,5.225 C18.74,5.225 20.5,7.055 20.5,9.295 L20.5,11.525 L22,11.525 L22,9.285 C22,7.065 20.72,5.145 18.85,4.255 Z M18,12.525 L19.5,12.525 L19.5,15.525 L18,15.525 L18,12.525 Z M3.41,4.115 L2,5.525 L9,12.525 L2,12.525 L2,15.525 L12,15.525 L19,22.525 L20.41,21.115 L3.41,4.115 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/places/smoke_free_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

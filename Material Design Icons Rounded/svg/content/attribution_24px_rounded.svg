@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/content/attribution_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,8.5 C11.09,8.5 9.25,8.96 9.25,9.88 L9.25,14 C9.25,14.28 9.47,14.5 9.75,14.5 L10.75,14.5 L10.75,17.75 C10.75,18.44 11.31,19 12,19 C12.69,19 13.25,18.44 13.25,17.75 L13.25,14.5 L14.25,14.5 C14.53,14.5 14.75,14.28 14.75,14 L14.75,9.88 C14.75,8.97 12.91,8.5 12,8.5 Z M12,2 C6.47,2 2,6.47 2,12 C2,17.53 6.47,22 12,22 C17.53,22 22,17.52 22,12 C22,6.48 17.52,2 12,2 Z M12,20 C7.58,20 4,16.42 4,12 C4,7.58 7.58,4 12,4 C16.42,4 20,7.58 20,12 C20,16.42 16.42,20 12,20 Z M12,5 C11.1715729,5 10.5,5.67157288 10.5,6.5 C10.5,7.32842712 11.1715729,8 12,8 C12.8284271,8 13.5,7.32842712 13.5,6.5 C13.5,5.67157288 12.8284271,5 12,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/content/attribution_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

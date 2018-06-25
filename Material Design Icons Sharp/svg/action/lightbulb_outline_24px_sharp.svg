@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/lightbulb_outline_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.00122999,22.0001388 L15.00123,22.0001388 L15.00123,20.0001388 L9.00122999,20.0001388 L9.00122999,22.0001388 Z M10.54123,2.15013884 C7.79122999,2.71013884 5.60122999,4.96013884 5.11122999,7.73013884 C4.60122999,10.6201388 5.87122999,13.2501388 8.00122999,14.7401388 L8.00122999,18.0001388 L16.00123,18.0001388 L16.00123,14.7401388 C17.81123,13.4701388 19.00123,11.3801388 19.00123,9.00013884 C19.00123,4.66013884 15.03123,1.23013884 10.54123,2.15013884 Z M14.85123,13.1001388 L14.00123,13.7001388 L14.00123,16.0001388 L10.00123,16.0001388 L10.00123,13.7001388 L9.15122999,13.1001388 C7.80122999,12.1601388 7.00122999,10.6301388 7.00122999,9.00013884 C7.00122999,6.24013884 9.24122999,4.00013884 12.00123,4.00013884 C14.76123,4.00013884 17.00123,6.24013884 17.00123,9.00013884 C17.00123,10.6301388 16.20123,12.1601388 14.85123,13.1001388 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/lightbulb_outline_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

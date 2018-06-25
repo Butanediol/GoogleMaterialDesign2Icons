@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/bluetooth_audio_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.24,10.01 L13.56,12.33 C13.84,11.61 14,10.82 14,10 C14,9.18 13.84,8.41 13.57,7.69 L11.24,10.01 Z M16.53,4.71 L15.27,5.97 C15.9,7.18 16.25,8.54 16.25,9.99 C16.25,11.44 15.89,12.81 15.27,14.01 L16.47,15.21 C17.44,13.67 18.01,11.85 18.01,9.9 C18,8.01 17.46,6.23 16.53,4.71 Z M12.71,5.71 L7,0 L6,0 L6,7.59 L1.41,3 L0,4.41 L5.59,10 L0,15.59 L1.41,17 L6,12.41 L6,20 L7,20 L12.71,14.29 L8.41,10 L12.71,5.71 Z M8,3.83 L9.88,5.71 L8,7.59 L8,3.83 Z M9.88,14.29 L8,16.17 L8,12.41 L9.88,14.29 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/bluetooth_audio_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(3.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

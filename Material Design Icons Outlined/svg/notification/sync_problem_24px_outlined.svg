@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/notification/sync_problem_24px_outlined</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3,12 C3,14.21 3.91,16.2 5.36,17.64 L3,20 L9,20 L9,14 L6.76,16.24 C5.68,15.15 5,13.66 5,12 C5,9.39 6.67,7.17 9,6.35 L9,4.26 C5.55,5.15 3,8.27 3,12 Z M11,17 L13,17 L13,15 L11,15 L11,17 Z M21,4 L15,4 L15,10 L17.24,7.76 C18.32,8.85 19,10.34 19,12 C19,14.61 17.33,16.83 15,17.65 L15,19.74 C18.45,18.85 21,15.73 21,12 C21,9.79 20.09,7.8 18.64,6.36 L21,4 Z M11,13 L13,13 L13,7 L11,7 L11,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/notification/sync_problem_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

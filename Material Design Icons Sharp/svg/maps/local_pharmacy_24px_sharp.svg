@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_pharmacy_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21,6 L18.36,6 L19.5,2.86 L17.15,2 L15.69,6 L3,6 L3,8 L5,14 L3,20 L3,22 L21,22 L21,20 L19,14 L21,8 L21,6 Z M16,15 L13,15 L13,18 L11,18 L11,15 L8,15 L8,13 L11,13 L11,10 L13,10 L13,13 L16,13 L16,15 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_pharmacy_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

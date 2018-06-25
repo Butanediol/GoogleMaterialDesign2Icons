@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/communication/voicemail_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.5,0 C15.46,0 13,2.46 13,5.5 C13,6.83 13.47,8.05 14.26,9 L9.74,9 C10.53,8.05 11,6.83 11,5.5 C11,2.46 8.54,0 5.5,0 C2.46,0 0,2.46 0,5.5 C0,8.54 2.46,11 5.5,11 L18.5,11 C21.54,11 24,8.54 24,5.5 C24,2.46 21.54,0 18.5,0 Z M5.5,9 C3.57,9 2,7.43 2,5.5 C2,3.57 3.57,2 5.5,2 C7.43,2 9,3.57 9,5.5 C9,7.43 7.43,9 5.5,9 Z M18.5,9 C16.57,9 15,7.43 15,5.5 C15,3.57 16.57,2 18.5,2 C20.43,2 22,3.57 22,5.5 C22,7.43 20.43,9 18.5,9 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/communication/voicemail_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(0.000000, 6.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

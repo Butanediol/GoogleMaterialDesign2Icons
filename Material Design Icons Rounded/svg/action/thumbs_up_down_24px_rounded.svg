@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/thumbs_up_down_24px_rounded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.0649587,5 L5.82495873,5 L6.48495873,1.82 C6.56495873,1.45 6.44495873,1.07 6.18495873,0.8 C5.74495873,0.36 5.03495873,0.36 4.60495873,0.8 L0.604958732,4.8 C0.214958732,5.17 0.00495873213,5.68 0.00495873213,6.21 L0.00495873213,12 C0.00495873213,13.1 0.904958732,14 2.00495873,14 L7.92495873,14 C8.72495873,14 9.44495873,13.52 9.76495873,12.79 L11.9049587,7.79 C12.4649587,6.47 11.4949587,5 10.0649587,5 Z M22.0049587,10 L16.0849587,10 C15.2849587,10 14.5649587,10.48 14.2449587,11.21 L12.1049587,16.21 C11.5449587,17.53 12.5049587,19 13.9449587,19 L18.1849587,19 L17.5249587,22.18 C17.4449587,22.55 17.5649587,22.93 17.8249587,23.2 C18.2649587,23.64 18.9749587,23.64 19.4049587,23.2 L23.4049587,19.2 C23.7849587,18.82 23.9949587,18.32 23.9949587,17.79 L23.9949587,12 C24.0049587,10.9 23.1049587,10 22.0049587,10 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/thumbs_up_down_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

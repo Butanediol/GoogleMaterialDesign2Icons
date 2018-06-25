@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/action/euro_symbol_24px_two_tone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,15.5 C9.49,15.5 7.32,14.08 6.24,12 L12,12 L12,10 L5.58,10 C5.53,9.67 5.5,9.34 5.5,9 C5.5,8.66 5.53,8.33 5.58,8 L12,8 L12,6 L6.24,6 C7.32,3.92 9.5,2.5 12,2.5 C13.61,2.5 15.09,3.09 16.23,4.07 L18,2.3 C16.41,0.87 14.3,0 12,0 C8.08,0 4.76,2.51 3.52,6 L0,6 L0,8 L3.06,8 C3.02,8.33 3,8.66 3,9 C3,9.34 3.02,9.67 3.06,10 L0,10 L0,12 L3.52,12 C4.76,15.49 8.08,18 12,18 C14.31,18 16.41,17.13 18,15.7 L16.22,13.93 C15.09,14.91 13.62,15.5 12,15.5 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/action/euro_symbol_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Dark-Color" transform="translate(3.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask" fill-rule="nonzero"></g>
+            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+                <rect id="Rectangle" x="0" y="0" width="101" height="101"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

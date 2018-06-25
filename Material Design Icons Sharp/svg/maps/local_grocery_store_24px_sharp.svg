@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/maps/local_grocery_store_24px_sharp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.645,18 C6.545,18 5.655,18.9 5.655,20 C5.655,21.1 6.545,22 7.645,22 C8.745,22 9.645,21.1 9.645,20 C9.645,18.9 8.745,18 7.645,18 Z M1.645,4 L3.645,4 L7.245,11.59 L4.265,17 L19.645,17 L19.645,15 L7.645,15 L8.745,13 L17.385,13 L22.355,4 L5.855,4 L4.915,2 L1.645,2 L1.645,4 Z M17.645,18 C16.545,18 15.655,18.9 15.655,20 C15.655,21.1 16.545,22 17.645,22 C18.745,22 19.645,21.1 19.645,20 C19.645,18.9 18.745,18 17.645,18 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/maps/local_grocery_store_24px" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g fill-rule="nonzero"></g>
+        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>
